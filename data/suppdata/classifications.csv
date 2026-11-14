@@ -1,0 +1,7877 @@
+iso_code,year,income_grp
+ABW,1987,higher
+AFG,1987,lower
+ANT,1987,upper middle
+ARE,1987,higher
+ARG,1987,upper middle
+ASM,1987,higher
+ATG,1987,upper middle
+AUS,1987,higher
+AUT,1987,higher
+BDI,1987,lower
+BEL,1987,higher
+BEN,1987,lower
+BFA,1987,lower
+BGD,1987,lower
+BHR,1987,higher
+BHS,1987,higher
+BLZ,1987,lower middle
+BMU,1987,higher
+BOL,1987,lower middle
+BRA,1987,upper middle
+BRB,1987,upper middle
+BRN,1987,higher
+BTN,1987,lower
+BWA,1987,lower middle
+CAF,1987,lower
+CAN,1987,higher
+CHE,1987,higher
+CHI,1987,higher
+CHL,1987,lower middle
+CHN,1987,lower
+CIV,1987,lower middle
+CMR,1987,lower middle
+COD,1987,lower
+COG,1987,lower middle
+COL,1987,lower middle
+COM,1987,lower
+CRI,1987,lower middle
+CYP,1987,upper middle
+DEU,1987,higher
+DMA,1987,lower middle
+DNK,1987,higher
+DOM,1987,lower middle
+DZA,1987,upper middle
+ECU,1987,lower middle
+EGY,1987,lower middle
+ESP,1987,higher
+ETH,1987,lower
+FIN,1987,higher
+FJI,1987,lower middle
+FRA,1987,higher
+FRO,1987,higher
+GAB,1987,upper middle
+GBR,1987,higher
+GHA,1987,lower
+GIB,1987,upper middle
+GIN,1987,lower
+GMB,1987,lower
+GNB,1987,lower
+GNQ,1987,lower
+GRC,1987,upper middle
+GRD,1987,lower middle
+GRL,1987,higher
+GTM,1987,lower middle
+GUM,1987,higher
+GUY,1987,lower
+HKG,1987,higher
+HND,1987,lower middle
+HTI,1987,lower
+HUN,1987,upper middle
+IDN,1987,lower
+IMN,1987,higher
+IND,1987,lower
+IRL,1987,higher
+IRN,1987,upper middle
+IRQ,1987,upper middle
+ISL,1987,higher
+ISR,1987,higher
+ITA,1987,higher
+JAM,1987,lower middle
+JOR,1987,lower middle
+JPN,1987,higher
+KEN,1987,lower
+KHM,1987,lower
+KIR,1987,lower middle
+KNA,1987,upper middle
+KOR,1987,upper middle
+KWT,1987,higher
+LAO,1987,lower
+LBN,1987,lower middle
+LBR,1987,lower
+LBY,1987,upper middle
+LCA,1987,lower middle
+LKA,1987,lower
+LSO,1987,lower
+LUX,1987,higher
+MAC,1987,upper middle
+MAR,1987,lower middle
+MDG,1987,lower
+MDV,1987,lower
+MEX,1987,lower middle
+MLI,1987,lower
+MLT,1987,upper middle
+MMR,1987,lower
+MOZ,1987,lower
+MRT,1987,lower
+MUS,1987,lower middle
+MWI,1987,lower
+MYS,1987,lower middle
+NCL,1987,upper middle
+NER,1987,lower
+NGA,1987,lower
+NIC,1987,lower middle
+NLD,1987,higher
+NOR,1987,higher
+NPL,1987,lower
+NZL,1987,higher
+OMN,1987,upper middle
+PAK,1987,lower
+PAN,1987,upper middle
+PER,1987,lower middle
+PHL,1987,lower middle
+PNG,1987,lower middle
+POL,1987,lower middle
+PRI,1987,upper middle
+PRT,1987,upper middle
+PRY,1987,lower middle
+QAT,1987,higher
+ROU,1987,upper middle
+RWA,1987,lower
+SAU,1987,higher
+SDN,1987,lower
+SEN,1987,lower middle
+SGP,1987,higher
+SLB,1987,lower
+SLE,1987,lower
+SLV,1987,lower middle
+SOM,1987,lower
+STP,1987,lower
+SUR,1987,upper middle
+SWE,1987,higher
+SWZ,1987,lower middle
+SYC,1987,upper middle
+SYR,1987,lower middle
+TCD,1987,lower
+TGO,1987,lower
+THA,1987,lower middle
+TON,1987,lower middle
+TTO,1987,upper middle
+TUN,1987,lower middle
+TUR,1987,lower middle
+TWN,1987,higher
+TZA,1987,lower
+UGA,1987,lower
+URY,1987,upper middle
+USA,1987,higher
+VCT,1987,lower middle
+VEN,1987,upper middle
+VIR,1987,higher
+VNM,1987,lower
+VUT,1987,lower middle
+WSM,1987,lower middle
+YUGf,1987,upper middle
+ZAF,1987,lower middle
+ZMB,1987,lower
+ZWE,1987,lower middle
+ABW,1988,higher
+AFG,1988,lower
+AGO,1988,lower middle
+ANT,1988,upper middle
+ARE,1988,higher
+ARG,1988,upper middle
+ASM,1988,higher
+ATG,1988,upper middle
+AUS,1988,higher
+AUT,1988,higher
+BDI,1988,lower
+BEL,1988,higher
+BEN,1988,lower
+BFA,1988,lower
+BGD,1988,lower
+BHR,1988,higher
+BHS,1988,higher
+BLZ,1988,lower middle
+BMU,1988,higher
+BOL,1988,lower middle
+BRA,1988,lower middle
+BRB,1988,upper middle
+BTN,1988,lower
+BWA,1988,lower middle
+CAF,1988,lower
+CAN,1988,higher
+CHE,1988,higher
+CHI,1988,higher
+CHL,1988,lower middle
+CHN,1988,lower
+CIV,1988,lower middle
+CMR,1988,lower middle
+COD,1988,lower
+COG,1988,lower middle
+COL,1988,lower middle
+COM,1988,lower
+CPV,1988,lower middle
+CRI,1988,lower middle
+CYP,1988,higher
+DEU,1988,higher
+DMA,1988,lower middle
+DNK,1988,higher
+DOM,1988,lower middle
+DZA,1988,upper middle
+ECU,1988,lower middle
+EGY,1988,lower middle
+ESP,1988,higher
+ETH,1988,lower
+FIN,1988,higher
+FJI,1988,lower middle
+FRA,1988,higher
+FRO,1988,higher
+GAB,1988,upper middle
+GBR,1988,higher
+GHA,1988,lower
+GIB,1988,upper middle
+GIN,1988,lower
+GMB,1988,lower
+GNB,1988,lower
+GNQ,1988,lower
+GRC,1988,upper middle
+GRD,1988,lower middle
+GRL,1988,higher
+GTM,1988,lower middle
+GUM,1988,higher
+GUY,1988,lower
+HKG,1988,higher
+HND,1988,lower middle
+HTI,1988,lower
+HUN,1988,upper middle
+IDN,1988,lower
+IMN,1988,higher
+IND,1988,lower
+IRL,1988,higher
+IRN,1988,upper middle
+IRQ,1988,upper middle
+ISL,1988,higher
+ISR,1988,higher
+ITA,1988,higher
+JAM,1988,lower middle
+JOR,1988,lower middle
+JPN,1988,higher
+KEN,1988,lower
+KHM,1988,lower
+KIR,1988,lower middle
+KNA,1988,upper middle
+KOR,1988,upper middle
+KWT,1988,higher
+LAO,1988,lower
+LBN,1988,lower middle
+LBR,1988,lower
+LBY,1988,upper middle
+LCA,1988,lower middle
+LKA,1988,lower
+LSO,1988,lower
+LUX,1988,higher
+MAC,1988,upper middle
+MAR,1988,lower middle
+MDG,1988,lower
+MDV,1988,lower
+MEX,1988,lower middle
+MLI,1988,lower
+MLT,1988,upper middle
+MMR,1988,lower
+MOZ,1988,lower
+MRT,1988,lower
+MUS,1988,lower middle
+MWI,1988,lower
+MYS,1988,lower middle
+NCL,1988,upper middle
+NER,1988,lower
+NGA,1988,lower
+NIC,1988,lower middle
+NLD,1988,higher
+NOR,1988,higher
+NPL,1988,lower
+NZL,1988,higher
+OMN,1988,upper middle
+PAK,1988,lower
+PAN,1988,lower middle
+PER,1988,lower middle
+PHL,1988,lower middle
+PNG,1988,lower middle
+POL,1988,lower middle
+PRI,1988,upper middle
+PRT,1988,upper middle
+PRY,1988,lower middle
+QAT,1988,higher
+ROU,1988,upper middle
+RWA,1988,lower
+SAU,1988,higher
+SDN,1988,lower
+SEN,1988,lower middle
+SGP,1988,higher
+SLB,1988,lower middle
+SLE,1988,lower
+SLV,1988,lower middle
+SOM,1988,lower
+STP,1988,lower
+SUR,1988,upper middle
+SWE,1988,higher
+SWZ,1988,lower middle
+SYC,1988,upper middle
+SYR,1988,lower middle
+TCD,1988,lower
+TGO,1988,lower
+THA,1988,lower middle
+TON,1988,lower middle
+TTO,1988,upper middle
+TUN,1988,lower middle
+TUR,1988,lower middle
+TWN,1988,higher
+TZA,1988,lower
+UGA,1988,lower
+URY,1988,upper middle
+USA,1988,higher
+VCT,1988,lower middle
+VEN,1988,upper middle
+VIR,1988,higher
+VNM,1988,lower
+VUT,1988,lower middle
+WSM,1988,lower middle
+YUGf,1988,upper middle
+ZAF,1988,upper middle
+ZMB,1988,lower
+ZWE,1988,lower middle
+ABW,1989,higher
+AFG,1989,lower
+AGO,1989,lower middle
+ANT,1989,upper middle
+ARE,1989,higher
+ARG,1989,lower middle
+ASM,1989,higher
+ATG,1989,upper middle
+AUS,1989,higher
+AUT,1989,higher
+BDI,1989,lower
+BEL,1989,higher
+BEN,1989,lower
+BFA,1989,lower
+BGD,1989,lower
+BGR,1989,lower middle
+BHR,1989,higher
+BHS,1989,higher
+BLZ,1989,lower middle
+BMU,1989,higher
+BOL,1989,lower middle
+BRA,1989,upper middle
+BRB,1989,higher
+BTN,1989,lower
+BWA,1989,lower middle
+CAF,1989,lower
+CAN,1989,higher
+CHE,1989,higher
+CHI,1989,higher
+CHL,1989,lower middle
+CHN,1989,lower
+CIV,1989,lower middle
+CMR,1989,lower middle
+COD,1989,lower
+COG,1989,lower middle
+COL,1989,lower middle
+COM,1989,lower
+CPV,1989,lower middle
+CRI,1989,lower middle
+CYP,1989,higher
+DEU,1989,higher
+DMA,1989,lower middle
+DNK,1989,higher
+DOM,1989,lower middle
+DZA,1989,lower middle
+ECU,1989,lower middle
+EGY,1989,lower middle
+ESP,1989,higher
+ETH,1989,lower
+FIN,1989,higher
+FJI,1989,lower middle
+FRA,1989,higher
+FRO,1989,higher
+GAB,1989,upper middle
+GBR,1989,higher
+GHA,1989,lower
+GIB,1989,upper middle
+GIN,1989,lower
+GMB,1989,lower
+GNB,1989,lower
+GNQ,1989,lower
+GRC,1989,upper middle
+GRD,1989,lower middle
+GRL,1989,higher
+GTM,1989,lower middle
+GUM,1989,higher
+GUY,1989,lower
+HKG,1989,higher
+HND,1989,lower middle
+HTI,1989,lower
+HUN,1989,upper middle
+IDN,1989,lower
+IMN,1989,higher
+IND,1989,lower
+IRL,1989,higher
+IRN,1989,upper middle
+IRQ,1989,upper middle
+ISL,1989,higher
+ISR,1989,higher
+ITA,1989,higher
+JAM,1989,lower middle
+JOR,1989,lower middle
+JPN,1989,higher
+KEN,1989,lower
+KHM,1989,lower
+KIR,1989,lower middle
+KNA,1989,upper middle
+KOR,1989,upper middle
+KWT,1989,higher
+LAO,1989,lower
+LBN,1989,lower middle
+LBR,1989,lower
+LBY,1989,upper middle
+LCA,1989,lower middle
+LKA,1989,lower
+LSO,1989,lower
+LUX,1989,higher
+MAC,1989,upper middle
+MAR,1989,lower middle
+MDG,1989,lower
+MDV,1989,lower
+MEX,1989,lower middle
+MLI,1989,lower
+MLT,1989,higher
+MMR,1989,lower
+MNG,1989,lower middle
+MOZ,1989,lower
+MRT,1989,lower
+MUS,1989,lower middle
+MWI,1989,lower
+MYS,1989,lower middle
+NAM,1989,lower middle
+NCL,1989,upper middle
+NER,1989,lower
+NGA,1989,lower
+NIC,1989,lower middle
+NLD,1989,higher
+NOR,1989,higher
+NPL,1989,lower
+NZL,1989,higher
+OMN,1989,upper middle
+PAK,1989,lower
+PAN,1989,lower middle
+PER,1989,lower middle
+PHL,1989,lower middle
+PNG,1989,lower middle
+POL,1989,lower middle
+PRI,1989,higher
+PRT,1989,upper middle
+PRY,1989,lower middle
+QAT,1989,higher
+ROU,1989,upper middle
+RWA,1989,lower
+SAU,1989,higher
+SDN,1989,lower
+SEN,1989,lower middle
+SGP,1989,higher
+SLB,1989,lower
+SLE,1989,lower
+SLV,1989,lower middle
+SOM,1989,lower
+STP,1989,lower
+SUR,1989,upper middle
+SWE,1989,higher
+SWZ,1989,lower middle
+SYC,1989,upper middle
+SYR,1989,lower middle
+TCD,1989,lower
+TGO,1989,lower
+THA,1989,lower middle
+TON,1989,lower middle
+TTO,1989,upper middle
+TUN,1989,lower middle
+TUR,1989,lower middle
+TWN,1989,higher
+TZA,1989,lower
+UGA,1989,lower
+URY,1989,upper middle
+USA,1989,higher
+VCT,1989,lower middle
+VEN,1989,upper middle
+VIR,1989,higher
+VNM,1989,lower
+VUT,1989,lower middle
+WSM,1989,lower middle
+YEM,1989,lower middle
+YUGf,1989,upper middle
+ZAF,1989,upper middle
+ZMB,1989,lower
+ZWE,1989,lower middle
+ABW,1990,higher
+AFG,1990,lower
+AGO,1990,lower middle
+ALB,1990,lower middle
+AND,1990,higher
+ANT,1990,upper middle
+ARE,1990,higher
+ARG,1990,lower middle
+ASM,1990,upper middle
+ATG,1990,upper middle
+AUS,1990,higher
+AUT,1990,higher
+BDI,1990,lower
+BEL,1990,higher
+BEN,1990,lower
+BFA,1990,lower
+BGD,1990,lower
+BGR,1990,lower middle
+BHR,1990,upper middle
+BHS,1990,higher
+BLZ,1990,lower middle
+BMU,1990,higher
+BOL,1990,lower middle
+BRA,1990,upper middle
+BRB,1990,upper middle
+BRN,1990,higher
+BTN,1990,lower
+BWA,1990,lower middle
+CAF,1990,lower
+CAN,1990,higher
+CHE,1990,higher
+CHI,1990,higher
+CHL,1990,lower middle
+CHN,1990,lower
+CIV,1990,lower middle
+CMR,1990,lower middle
+COD,1990,lower
+COG,1990,lower middle
+COL,1990,lower middle
+COM,1990,lower
+CPV,1990,lower middle
+CRI,1990,lower middle
+CSK,1990,upper middle
+CUB,1990,lower middle
+CYP,1990,higher
+DEU,1990,higher
+DJI,1990,lower middle
+DMA,1990,lower middle
+DNK,1990,higher
+DOM,1990,lower middle
+DZA,1990,lower middle
+ECU,1990,lower middle
+EGY,1990,lower
+ESP,1990,higher
+ETH,1990,lower
+FIN,1990,higher
+FJI,1990,lower middle
+FRA,1990,higher
+FRO,1990,higher
+GAB,1990,upper middle
+GBR,1990,higher
+GHA,1990,lower
+GIB,1990,upper middle
+GIN,1990,lower
+GMB,1990,lower
+GNB,1990,lower
+GNQ,1990,lower
+GRC,1990,upper middle
+GRD,1990,lower middle
+GRL,1990,higher
+GTM,1990,lower middle
+GUM,1990,upper middle
+GUY,1990,lower
+HKG,1990,higher
+HND,1990,lower
+HTI,1990,lower
+HUN,1990,upper middle
+IDN,1990,lower
+IMN,1990,upper middle
+IND,1990,lower
+IRL,1990,higher
+IRN,1990,lower middle
+IRQ,1990,upper middle
+ISL,1990,higher
+ISR,1990,higher
+ITA,1990,higher
+JAM,1990,lower middle
+JOR,1990,lower middle
+JPN,1990,higher
+KEN,1990,lower
+KHM,1990,lower
+KIR,1990,lower middle
+KNA,1990,upper middle
+KOR,1990,upper middle
+KWT,1990,higher
+LAO,1990,lower
+LBN,1990,lower middle
+LBR,1990,lower
+LBY,1990,upper middle
+LCA,1990,lower middle
+LKA,1990,lower
+LSO,1990,lower
+LUX,1990,higher
+MAC,1990,upper middle
+MAR,1990,lower middle
+MDG,1990,lower
+MDV,1990,lower
+MEX,1990,upper middle
+MLI,1990,lower
+MLT,1990,upper middle
+MMR,1990,lower
+MNG,1990,lower middle
+MOZ,1990,lower
+MRT,1990,lower
+MUS,1990,lower middle
+MWI,1990,lower
+MYS,1990,lower middle
+MYT,1990,higher
+NAM,1990,lower middle
+NCL,1990,upper middle
+NER,1990,lower
+NGA,1990,lower
+NIC,1990,lower middle
+NLD,1990,higher
+NOR,1990,higher
+NPL,1990,lower
+NZL,1990,higher
+OMN,1990,upper middle
+PAK,1990,lower
+PAN,1990,lower middle
+PER,1990,lower middle
+PHL,1990,lower middle
+PNG,1990,lower middle
+POL,1990,lower middle
+PRI,1990,upper middle
+PRK,1990,lower middle
+PRT,1990,upper middle
+PRY,1990,lower middle
+PYF,1990,higher
+QAT,1990,higher
+ROU,1990,lower middle
+RWA,1990,lower
+SAU,1990,upper middle
+SDN,1990,lower
+SEN,1990,lower middle
+SGP,1990,higher
+SLB,1990,lower
+SLE,1990,lower
+SLV,1990,lower middle
+SOM,1990,lower
+STP,1990,lower
+SUN,1990,upper middle
+SUR,1990,upper middle
+SWE,1990,higher
+SWZ,1990,lower middle
+SYC,1990,upper middle
+SYR,1990,lower middle
+TCD,1990,lower
+TGO,1990,lower
+THA,1990,lower middle
+TON,1990,lower middle
+TTO,1990,upper middle
+TUN,1990,lower middle
+TUR,1990,lower middle
+TWN,1990,higher
+TZA,1990,lower
+UGA,1990,lower
+URY,1990,upper middle
+USA,1990,higher
+VCT,1990,lower middle
+VEN,1990,upper middle
+VIR,1990,higher
+VNM,1990,lower
+VUT,1990,lower middle
+WSM,1990,lower middle
+YEM,1990,lower middle
+YUGf,1990,upper middle
+ZAF,1990,upper middle
+ZMB,1990,lower
+ZWE,1990,lower middle
+ABW,1991,upper middle
+AFG,1991,lower
+AGO,1991,lower middle
+ALB,1991,lower middle
+AND,1991,higher
+ANT,1991,upper middle
+ARE,1991,higher
+ARG,1991,upper middle
+ARM,1991,lower middle
+ASM,1991,upper middle
+ATG,1991,upper middle
+AUS,1991,higher
+AUT,1991,higher
+AZE,1991,lower middle
+BDI,1991,lower
+BEL,1991,higher
+BEN,1991,lower
+BFA,1991,lower
+BGD,1991,lower
+BGR,1991,lower middle
+BHR,1991,upper middle
+BHS,1991,higher
+BLR,1991,upper middle
+BLZ,1991,lower middle
+BMU,1991,higher
+BOL,1991,lower middle
+BRA,1991,upper middle
+BRB,1991,upper middle
+BRN,1991,higher
+BTN,1991,lower
+BWA,1991,upper middle
+CAF,1991,lower
+CAN,1991,higher
+CHE,1991,higher
+CHI,1991,higher
+CHL,1991,lower middle
+CHN,1991,lower
+CIV,1991,lower middle
+CMR,1991,lower middle
+COD,1991,lower
+COG,1991,lower middle
+COL,1991,lower middle
+COM,1991,lower
+CPV,1991,lower middle
+CRI,1991,lower middle
+CSK,1991,upper middle
+CUB,1991,lower middle
+CYP,1991,higher
+DEU,1991,higher
+DJI,1991,lower middle
+DMA,1991,lower middle
+DNK,1991,higher
+DOM,1991,lower middle
+DZA,1991,lower middle
+ECU,1991,lower middle
+EGY,1991,lower
+ESP,1991,higher
+EST,1991,upper middle
+ETH,1991,lower
+FIN,1991,higher
+FJI,1991,lower middle
+FRA,1991,higher
+FRO,1991,higher
+FSM,1991,lower middle
+GAB,1991,upper middle
+GBR,1991,higher
+GEO,1991,lower middle
+GHA,1991,lower
+GIB,1991,upper middle
+GIN,1991,lower
+GMB,1991,lower
+GNB,1991,lower
+GNQ,1991,lower
+GRC,1991,upper middle
+GRD,1991,lower middle
+GRL,1991,higher
+GTM,1991,lower middle
+GUM,1991,upper middle
+GUY,1991,lower
+HKG,1991,higher
+HND,1991,lower
+HTI,1991,lower
+HUN,1991,upper middle
+IDN,1991,lower
+IMN,1991,upper middle
+IND,1991,lower
+IRL,1991,higher
+IRN,1991,lower middle
+IRQ,1991,lower middle
+ISL,1991,higher
+ISR,1991,higher
+ITA,1991,higher
+JAM,1991,lower middle
+JOR,1991,lower middle
+JPN,1991,higher
+KAZ,1991,lower middle
+KEN,1991,lower
+KGZ,1991,lower middle
+KHM,1991,lower
+KIR,1991,lower middle
+KNA,1991,upper middle
+KOR,1991,upper middle
+KWT,1991,higher
+LAO,1991,lower
+LBN,1991,lower middle
+LBR,1991,lower
+LBY,1991,upper middle
+LCA,1991,lower middle
+LKA,1991,lower
+LSO,1991,lower
+LTU,1991,upper middle
+LUX,1991,higher
+LVA,1991,upper middle
+MAC,1991,upper middle
+MAR,1991,lower middle
+MDA,1991,lower middle
+MDG,1991,lower
+MDV,1991,lower
+MEX,1991,upper middle
+MHL,1991,lower middle
+MLI,1991,lower
+MLT,1991,upper middle
+MMR,1991,lower
+MNG,1991,lower middle
+MOZ,1991,lower
+MRT,1991,lower
+MUS,1991,lower middle
+MWI,1991,lower
+MYS,1991,lower middle
+MYT,1991,upper middle
+NAM,1991,lower middle
+NCL,1991,upper middle
+NER,1991,lower
+NGA,1991,lower
+NIC,1991,lower
+NLD,1991,higher
+NOR,1991,higher
+NPL,1991,lower
+NZL,1991,higher
+OMN,1991,upper middle
+PAK,1991,lower
+PAN,1991,lower middle
+PER,1991,lower middle
+PHL,1991,lower middle
+PNG,1991,lower middle
+POL,1991,lower middle
+PRI,1991,upper middle
+PRK,1991,lower middle
+PRT,1991,upper middle
+PRY,1991,lower middle
+PYF,1991,higher
+QAT,1991,higher
+ROU,1991,lower middle
+RUS,1991,upper middle
+RWA,1991,lower
+SAU,1991,upper middle
+SDN,1991,lower
+SEN,1991,lower middle
+SGP,1991,higher
+SLB,1991,lower
+SLE,1991,lower
+SLV,1991,lower middle
+SMR,1991,higher
+SOM,1991,lower
+STP,1991,lower
+SUR,1991,upper middle
+SWE,1991,higher
+SWZ,1991,lower middle
+SYC,1991,upper middle
+SYR,1991,lower middle
+TCD,1991,lower
+TGO,1991,lower
+THA,1991,lower middle
+TJK,1991,lower middle
+TKM,1991,lower middle
+TON,1991,lower middle
+TTO,1991,upper middle
+TUN,1991,lower middle
+TUR,1991,lower middle
+TWN,1991,higher
+TZA,1991,lower
+UGA,1991,lower
+UKR,1991,lower middle
+URY,1991,upper middle
+USA,1991,higher
+UZB,1991,lower middle
+VCT,1991,lower middle
+VEN,1991,upper middle
+VIR,1991,higher
+VNM,1991,lower
+VUT,1991,lower middle
+WSM,1991,lower middle
+YEM,1991,lower
+YUGf,1991,upper middle
+ZAF,1991,upper middle
+ZMB,1991,lower
+ZWE,1991,lower
+ABW,1992,upper middle
+AFG,1992,lower
+AGO,1992,lower middle
+ALB,1992,lower middle
+AND,1992,higher
+ANT,1992,upper middle
+ARE,1992,higher
+ARG,1992,upper middle
+ARM,1992,lower middle
+ASM,1992,upper middle
+ATG,1992,upper middle
+AUS,1992,higher
+AUT,1992,higher
+AZE,1992,lower middle
+BDI,1992,lower
+BEL,1992,higher
+BEN,1992,lower
+BFA,1992,lower
+BGD,1992,lower
+BGR,1992,lower middle
+BHR,1992,upper middle
+BHS,1992,higher
+BIH,1992,lower middle
+BLR,1992,upper middle
+BLZ,1992,lower middle
+BMU,1992,higher
+BOL,1992,lower middle
+BRA,1992,upper middle
+BRB,1992,upper middle
+BRN,1992,higher
+BTN,1992,lower
+BWA,1992,upper middle
+CAF,1992,lower
+CAN,1992,higher
+CHE,1992,higher
+CHI,1992,higher
+CHL,1992,lower middle
+CHN,1992,lower
+CIV,1992,lower middle
+CMR,1992,lower middle
+COD,1992,lower
+COG,1992,lower middle
+COL,1992,lower middle
+COM,1992,lower
+CPV,1992,lower middle
+CRI,1992,lower middle
+CUB,1992,lower middle
+CYP,1992,higher
+CZE,1992,lower middle
+DEU,1992,higher
+DJI,1992,lower middle
+DMA,1992,lower middle
+DNK,1992,higher
+DOM,1992,lower middle
+DZA,1992,lower middle
+ECU,1992,lower middle
+EGY,1992,lower
+ERI,1992,lower
+ESP,1992,higher
+EST,1992,upper middle
+ETH,1992,lower
+FIN,1992,higher
+FJI,1992,lower middle
+FRA,1992,higher
+FRO,1992,higher
+FSM,1992,lower middle
+GAB,1992,upper middle
+GBR,1992,higher
+GEO,1992,lower middle
+GHA,1992,lower
+GIB,1992,upper middle
+GIN,1992,lower
+GMB,1992,lower
+GNB,1992,lower
+GNQ,1992,lower
+GRC,1992,upper middle
+GRD,1992,lower middle
+GRL,1992,higher
+GTM,1992,lower middle
+GUM,1992,upper middle
+GUY,1992,lower
+HKG,1992,higher
+HND,1992,lower
+HRV,1992,lower middle
+HTI,1992,lower
+HUN,1992,upper middle
+IDN,1992,lower
+IMN,1992,upper middle
+IND,1992,lower
+IRL,1992,higher
+IRN,1992,lower middle
+IRQ,1992,lower middle
+ISL,1992,higher
+ISR,1992,higher
+ITA,1992,higher
+JAM,1992,lower middle
+JOR,1992,lower middle
+JPN,1992,higher
+KAZ,1992,lower middle
+KEN,1992,lower
+KGZ,1992,lower middle
+KHM,1992,lower
+KIR,1992,lower middle
+KNA,1992,upper middle
+KOR,1992,upper middle
+KWT,1992,higher
+LAO,1992,lower
+LBN,1992,lower middle
+LBR,1992,lower
+LBY,1992,upper middle
+LCA,1992,upper middle
+LKA,1992,lower
+LSO,1992,lower
+LTU,1992,lower middle
+LUX,1992,higher
+LVA,1992,lower middle
+MAC,1992,upper middle
+MAR,1992,lower middle
+MDA,1992,lower middle
+MDG,1992,lower
+MDV,1992,lower
+MEX,1992,upper middle
+MHL,1992,lower middle
+MKD,1992,lower middle
+MLI,1992,lower
+MLT,1992,upper middle
+MMR,1992,lower
+MNG,1992,lower middle
+MNP,1992,lower middle
+MOZ,1992,lower
+MRT,1992,lower
+MUS,1992,upper middle
+MWI,1992,lower
+MYS,1992,upper middle
+MYT,1992,upper middle
+NAM,1992,lower middle
+NCL,1992,upper middle
+NER,1992,lower
+NGA,1992,lower
+NIC,1992,lower
+NLD,1992,higher
+NOR,1992,higher
+NPL,1992,lower
+NZL,1992,higher
+OMN,1992,upper middle
+PAK,1992,lower
+PAN,1992,lower middle
+PER,1992,lower middle
+PHL,1992,lower middle
+PNG,1992,lower middle
+POL,1992,lower middle
+PRI,1992,upper middle
+PRK,1992,lower middle
+PRT,1992,upper middle
+PRY,1992,lower middle
+PYF,1992,higher
+QAT,1992,higher
+ROU,1992,lower middle
+RUS,1992,lower middle
+RWA,1992,lower
+SAU,1992,upper middle
+SDN,1992,lower
+SEN,1992,lower middle
+SGP,1992,higher
+SLB,1992,lower middle
+SLE,1992,lower
+SLV,1992,lower middle
+SMR,1992,higher
+SOM,1992,lower
+STP,1992,lower
+SUR,1992,upper middle
+SVK,1992,lower middle
+SVN,1992,upper middle
+SWE,1992,higher
+SWZ,1992,lower middle
+SYC,1992,upper middle
+SYR,1992,lower middle
+TCD,1992,lower
+TGO,1992,lower
+THA,1992,lower middle
+TJK,1992,lower
+TKM,1992,lower middle
+TON,1992,lower middle
+TTO,1992,upper middle
+TUN,1992,lower middle
+TUR,1992,lower middle
+TWN,1992,higher
+TZA,1992,lower
+UGA,1992,lower
+UKR,1992,lower middle
+URY,1992,upper middle
+USA,1992,higher
+UZB,1992,lower middle
+VCT,1992,lower middle
+VEN,1992,upper middle
+VIR,1992,higher
+VNM,1992,lower
+VUT,1992,lower middle
+WSM,1992,lower middle
+YEM,1992,lower
+YUG,1992,lower middle
+ZAF,1992,upper middle
+ZMB,1992,lower
+ZWE,1992,lower
+ABW,1993,upper middle
+AFG,1993,lower
+AGO,1993,lower middle
+ALB,1993,lower
+AND,1993,higher
+ANT,1993,upper middle
+ARE,1993,higher
+ARG,1993,upper middle
+ARM,1993,lower
+ASM,1993,upper middle
+ATG,1993,upper middle
+AUS,1993,higher
+AUT,1993,higher
+AZE,1993,lower middle
+BDI,1993,lower
+BEL,1993,higher
+BEN,1993,lower
+BFA,1993,lower
+BGD,1993,lower
+BGR,1993,lower middle
+BHR,1993,upper middle
+BHS,1993,higher
+BIH,1993,lower
+BLR,1993,upper middle
+BLZ,1993,lower middle
+BMU,1993,higher
+BOL,1993,lower middle
+BRA,1993,upper middle
+BRB,1993,upper middle
+BRN,1993,higher
+BTN,1993,lower
+BWA,1993,lower middle
+CAF,1993,lower
+CAN,1993,higher
+CHE,1993,higher
+CHI,1993,higher
+CHL,1993,upper middle
+CHN,1993,lower
+CIV,1993,lower
+CMR,1993,lower middle
+COD,1993,lower
+COG,1993,lower middle
+COL,1993,lower middle
+COM,1993,lower
+CPV,1993,lower middle
+CRI,1993,lower middle
+CUB,1993,lower middle
+CYM,1993,higher
+CYP,1993,higher
+CZE,1993,lower middle
+DEU,1993,higher
+DJI,1993,lower middle
+DMA,1993,lower middle
+DNK,1993,higher
+DOM,1993,lower middle
+DZA,1993,lower middle
+ECU,1993,lower middle
+EGY,1993,lower
+ERI,1993,lower
+ESP,1993,higher
+EST,1993,upper middle
+ETH,1993,lower
+FIN,1993,higher
+FJI,1993,lower middle
+FRA,1993,higher
+FRO,1993,higher
+FSM,1993,lower middle
+GAB,1993,upper middle
+GBR,1993,higher
+GEO,1993,lower
+GHA,1993,lower
+GIB,1993,upper middle
+GIN,1993,lower
+GMB,1993,lower
+GNB,1993,lower
+GNQ,1993,lower
+GRC,1993,upper middle
+GRD,1993,lower middle
+GRL,1993,higher
+GTM,1993,lower middle
+GUM,1993,upper middle
+GUY,1993,lower
+HKG,1993,higher
+HND,1993,lower
+HRV,1993,lower middle
+HTI,1993,lower
+HUN,1993,upper middle
+IDN,1993,lower middle
+IMN,1993,upper middle
+IND,1993,lower
+IRL,1993,higher
+IRN,1993,lower middle
+IRQ,1993,lower middle
+ISL,1993,higher
+ISR,1993,higher
+ITA,1993,higher
+JAM,1993,lower middle
+JOR,1993,lower middle
+JPN,1993,higher
+KAZ,1993,lower middle
+KEN,1993,lower
+KGZ,1993,lower middle
+KHM,1993,lower
+KIR,1993,lower middle
+KNA,1993,upper middle
+KOR,1993,upper middle
+KWT,1993,higher
+LAO,1993,lower
+LBN,1993,lower middle
+LBR,1993,lower
+LBY,1993,upper middle
+LCA,1993,upper middle
+LKA,1993,lower
+LSO,1993,lower
+LTU,1993,lower middle
+LUX,1993,higher
+LVA,1993,lower middle
+MAC,1993,upper middle
+MAR,1993,lower middle
+MDA,1993,lower middle
+MDG,1993,lower
+MDV,1993,lower middle
+MEX,1993,upper middle
+MHL,1993,lower middle
+MKD,1993,lower middle
+MLI,1993,lower
+MLT,1993,upper middle
+MMR,1993,lower
+MNG,1993,lower
+MNP,1993,lower middle
+MOZ,1993,lower
+MRT,1993,lower
+MUS,1993,upper middle
+MWI,1993,lower
+MYS,1993,upper middle
+MYT,1993,upper middle
+NAM,1993,lower middle
+NCL,1993,upper middle
+NER,1993,lower
+NGA,1993,lower
+NIC,1993,lower
+NLD,1993,higher
+NOR,1993,higher
+NPL,1993,lower
+NZL,1993,higher
+OMN,1993,upper middle
+PAK,1993,lower
+PAN,1993,lower middle
+PER,1993,lower middle
+PHL,1993,lower middle
+PNG,1993,lower middle
+POL,1993,lower middle
+PRI,1993,upper middle
+PRK,1993,lower middle
+PRT,1993,upper middle
+PRY,1993,lower middle
+PYF,1993,higher
+QAT,1993,higher
+ROU,1993,lower middle
+RUS,1993,lower middle
+RWA,1993,lower
+SAU,1993,upper middle
+SDN,1993,lower
+SEN,1993,lower middle
+SGP,1993,higher
+SLB,1993,lower middle
+SLE,1993,lower
+SLV,1993,lower middle
+SMR,1993,higher
+SOM,1993,lower
+STP,1993,lower
+SUR,1993,lower middle
+SVK,1993,lower middle
+SVN,1993,upper middle
+SWE,1993,higher
+SWZ,1993,lower middle
+SYC,1993,upper middle
+SYR,1993,lower middle
+TCD,1993,lower
+TGO,1993,lower
+THA,1993,lower middle
+TJK,1993,lower
+TKM,1993,lower middle
+TON,1993,lower middle
+TTO,1993,upper middle
+TUN,1993,lower middle
+TUR,1993,lower middle
+TWN,1993,higher
+TZA,1993,lower
+UGA,1993,lower
+UKR,1993,lower middle
+URY,1993,upper middle
+USA,1993,higher
+UZB,1993,lower middle
+VCT,1993,lower middle
+VEN,1993,upper middle
+VIR,1993,higher
+VNM,1993,lower
+VUT,1993,lower middle
+WSM,1993,lower middle
+YEM,1993,lower
+YUG,1993,lower middle
+ZAF,1993,upper middle
+ZMB,1993,lower
+ZWE,1993,lower
+ABW,1994,higher
+AFG,1994,lower
+AGO,1994,lower middle
+ALB,1994,lower
+AND,1994,higher
+ANT,1994,higher
+ARE,1994,higher
+ARG,1994,upper middle
+ARM,1994,lower
+ASM,1994,upper middle
+ATG,1994,upper middle
+AUS,1994,higher
+AUT,1994,higher
+AZE,1994,lower
+BDI,1994,lower
+BEL,1994,higher
+BEN,1994,lower
+BFA,1994,lower
+BGD,1994,lower
+BGR,1994,lower middle
+BHR,1994,upper middle
+BHS,1994,higher
+BIH,1994,lower
+BLR,1994,lower middle
+BLZ,1994,lower middle
+BMU,1994,higher
+BOL,1994,lower middle
+BRA,1994,upper middle
+BRB,1994,upper middle
+BRN,1994,higher
+BTN,1994,lower
+BWA,1994,lower middle
+CAF,1994,lower
+CAN,1994,higher
+CHE,1994,higher
+CHI,1994,higher
+CHL,1994,upper middle
+CHN,1994,lower
+CIV,1994,lower
+CMR,1994,lower
+COD,1994,lower
+COG,1994,lower
+COL,1994,lower middle
+COM,1994,lower
+CPV,1994,lower middle
+CRI,1994,lower middle
+CUB,1994,lower middle
+CYM,1994,higher
+CYP,1994,higher
+CZE,1994,upper middle
+DEU,1994,higher
+DJI,1994,lower middle
+DMA,1994,lower middle
+DNK,1994,higher
+DOM,1994,lower middle
+DZA,1994,lower middle
+ECU,1994,lower middle
+EGY,1994,lower
+ERI,1994,lower
+ESP,1994,higher
+EST,1994,lower middle
+ETH,1994,lower
+FIN,1994,higher
+FJI,1994,lower middle
+FRA,1994,higher
+FRO,1994,higher
+FSM,1994,lower middle
+GAB,1994,upper middle
+GBR,1994,higher
+GEO,1994,lower
+GHA,1994,lower
+GIN,1994,lower
+GMB,1994,lower
+GNB,1994,lower
+GNQ,1994,lower
+GRC,1994,upper middle
+GRD,1994,lower middle
+GRL,1994,higher
+GTM,1994,lower middle
+GUM,1994,upper middle
+GUY,1994,lower
+HKG,1994,higher
+HND,1994,lower
+HRV,1994,lower middle
+HTI,1994,lower
+HUN,1994,upper middle
+IDN,1994,lower middle
+IMN,1994,upper middle
+IND,1994,lower
+IRL,1994,higher
+IRN,1994,lower middle
+IRQ,1994,lower middle
+ISL,1994,higher
+ISR,1994,higher
+ITA,1994,higher
+JAM,1994,lower middle
+JOR,1994,lower middle
+JPN,1994,higher
+KAZ,1994,lower middle
+KEN,1994,lower
+KGZ,1994,lower
+KHM,1994,lower
+KIR,1994,lower middle
+KNA,1994,upper middle
+KOR,1994,upper middle
+KWT,1994,higher
+LAO,1994,lower
+LBN,1994,lower middle
+LBR,1994,lower
+LBY,1994,upper middle
+LCA,1994,upper middle
+LIE,1994,higher
+LKA,1994,lower
+LSO,1994,lower
+LTU,1994,lower middle
+LUX,1994,higher
+LVA,1994,lower middle
+MAC,1994,higher
+MAR,1994,lower middle
+MCO,1994,higher
+MDA,1994,lower middle
+MDG,1994,lower
+MDV,1994,lower middle
+MEX,1994,upper middle
+MHL,1994,lower middle
+MKD,1994,lower middle
+MLI,1994,lower
+MLT,1994,upper middle
+MMR,1994,lower
+MNG,1994,lower
+MNP,1994,lower middle
+MOZ,1994,lower
+MRT,1994,lower
+MUS,1994,upper middle
+MWI,1994,lower
+MYS,1994,upper middle
+MYT,1994,upper middle
+NAM,1994,lower middle
+NCL,1994,upper middle
+NER,1994,lower
+NGA,1994,lower
+NIC,1994,lower
+NLD,1994,higher
+NOR,1994,higher
+NPL,1994,lower
+NZL,1994,higher
+OMN,1994,upper middle
+PAK,1994,lower
+PAN,1994,lower middle
+PER,1994,lower middle
+PHL,1994,lower middle
+PNG,1994,lower middle
+POL,1994,lower middle
+PRI,1994,upper middle
+PRK,1994,lower middle
+PRT,1994,higher
+PRY,1994,lower middle
+PSE,1994,lower middle
+PYF,1994,higher
+QAT,1994,higher
+ROU,1994,lower middle
+RUS,1994,lower middle
+RWA,1994,lower
+SAU,1994,upper middle
+SDN,1994,lower
+SEN,1994,lower
+SGP,1994,higher
+SLB,1994,lower middle
+SLE,1994,lower
+SLV,1994,lower middle
+SOM,1994,lower
+STP,1994,lower
+SUR,1994,lower middle
+SVK,1994,lower middle
+SVN,1994,upper middle
+SWE,1994,higher
+SWZ,1994,lower middle
+SYC,1994,upper middle
+SYR,1994,lower middle
+TCD,1994,lower
+TGO,1994,lower
+THA,1994,lower middle
+TJK,1994,lower
+TKM,1994,lower middle
+TON,1994,lower middle
+TTO,1994,upper middle
+TUN,1994,lower middle
+TUR,1994,lower middle
+TWN,1994,higher
+TZA,1994,lower
+UGA,1994,lower
+UKR,1994,lower middle
+URY,1994,upper middle
+USA,1994,higher
+UZB,1994,lower middle
+VCT,1994,lower middle
+VEN,1994,lower middle
+VIR,1994,higher
+VNM,1994,lower
+VUT,1994,lower middle
+WSM,1994,lower middle
+YEM,1994,lower
+YUG,1994,lower middle
+ZAF,1994,upper middle
+ZMB,1994,lower
+ZWE,1994,lower
+ABW,1995,higher
+AFG,1995,lower
+AGO,1995,lower
+ALB,1995,lower
+AND,1995,higher
+ANT,1995,higher
+ARE,1995,higher
+ARG,1995,upper middle
+ARM,1995,lower
+ASM,1995,upper middle
+ATG,1995,upper middle
+AUS,1995,higher
+AUT,1995,higher
+AZE,1995,lower
+BDI,1995,lower
+BEL,1995,higher
+BEN,1995,lower
+BFA,1995,lower
+BGD,1995,lower
+BGR,1995,lower middle
+BHR,1995,upper middle
+BHS,1995,higher
+BIH,1995,lower
+BLR,1995,lower middle
+BLZ,1995,lower middle
+BMU,1995,higher
+BOL,1995,lower middle
+BRA,1995,upper middle
+BRB,1995,upper middle
+BRN,1995,higher
+BTN,1995,lower
+BWA,1995,lower middle
+CAF,1995,lower
+CAN,1995,higher
+CHE,1995,higher
+CHI,1995,higher
+CHL,1995,upper middle
+CHN,1995,lower
+CIV,1995,lower
+CMR,1995,lower
+COD,1995,lower
+COG,1995,lower
+COL,1995,lower middle
+COM,1995,lower
+CPV,1995,lower middle
+CRI,1995,lower middle
+CUB,1995,lower middle
+CYM,1995,higher
+CYP,1995,higher
+CZE,1995,upper middle
+DEU,1995,higher
+DJI,1995,lower middle
+DMA,1995,lower middle
+DNK,1995,higher
+DOM,1995,lower middle
+DZA,1995,lower middle
+ECU,1995,lower middle
+EGY,1995,lower middle
+ERI,1995,lower
+ESP,1995,higher
+EST,1995,lower middle
+ETH,1995,lower
+FIN,1995,higher
+FJI,1995,lower middle
+FRA,1995,higher
+FRO,1995,higher
+FSM,1995,lower middle
+GAB,1995,upper middle
+GBR,1995,higher
+GEO,1995,lower
+GHA,1995,lower
+GIN,1995,lower
+GMB,1995,lower
+GNB,1995,lower
+GNQ,1995,lower
+GRC,1995,upper middle
+GRD,1995,lower middle
+GRL,1995,higher
+GTM,1995,lower middle
+GUM,1995,higher
+GUY,1995,lower
+HKG,1995,higher
+HND,1995,lower
+HRV,1995,upper middle
+HTI,1995,lower
+HUN,1995,upper middle
+IDN,1995,lower middle
+IMN,1995,upper middle
+IND,1995,lower
+IRL,1995,higher
+IRN,1995,lower middle
+IRQ,1995,lower middle
+ISL,1995,higher
+ISR,1995,higher
+ITA,1995,higher
+JAM,1995,lower middle
+JOR,1995,lower middle
+JPN,1995,higher
+KAZ,1995,lower middle
+KEN,1995,lower
+KGZ,1995,lower
+KHM,1995,lower
+KIR,1995,lower middle
+KNA,1995,upper middle
+KOR,1995,higher
+KWT,1995,higher
+LAO,1995,lower
+LBN,1995,lower middle
+LBR,1995,lower
+LBY,1995,upper middle
+LCA,1995,upper middle
+LIE,1995,higher
+LKA,1995,lower
+LSO,1995,lower middle
+LTU,1995,lower middle
+LUX,1995,higher
+LVA,1995,lower middle
+MAC,1995,higher
+MAR,1995,lower middle
+MCO,1995,higher
+MDA,1995,lower middle
+MDG,1995,lower
+MDV,1995,lower middle
+MEX,1995,upper middle
+MHL,1995,lower middle
+MKD,1995,lower middle
+MLI,1995,lower
+MLT,1995,upper middle
+MMR,1995,lower
+MNG,1995,lower
+MNP,1995,higher
+MOZ,1995,lower
+MRT,1995,lower
+MUS,1995,upper middle
+MWI,1995,lower
+MYS,1995,upper middle
+MYT,1995,upper middle
+NAM,1995,lower middle
+NCL,1995,higher
+NER,1995,lower
+NGA,1995,lower
+NIC,1995,lower
+NLD,1995,higher
+NOR,1995,higher
+NPL,1995,lower
+NZL,1995,higher
+OMN,1995,upper middle
+PAK,1995,lower
+PAN,1995,lower middle
+PER,1995,lower middle
+PHL,1995,lower middle
+PNG,1995,lower middle
+POL,1995,lower middle
+PRI,1995,upper middle
+PRK,1995,lower middle
+PRT,1995,higher
+PRY,1995,lower middle
+PSE,1995,lower middle
+PYF,1995,higher
+QAT,1995,higher
+ROU,1995,lower middle
+RUS,1995,lower middle
+RWA,1995,lower
+SAU,1995,upper middle
+SDN,1995,lower
+SEN,1995,lower
+SGP,1995,higher
+SLB,1995,lower middle
+SLE,1995,lower
+SLV,1995,lower middle
+SOM,1995,lower
+STP,1995,lower
+SUR,1995,lower middle
+SVK,1995,lower middle
+SVN,1995,upper middle
+SWE,1995,higher
+SWZ,1995,lower middle
+SYC,1995,upper middle
+SYR,1995,lower middle
+TCD,1995,lower
+TGO,1995,lower
+THA,1995,lower middle
+TJK,1995,lower
+TKM,1995,lower middle
+TON,1995,lower middle
+TTO,1995,upper middle
+TUN,1995,lower middle
+TUR,1995,lower middle
+TWN,1995,higher
+TZA,1995,lower
+UGA,1995,lower
+UKR,1995,lower middle
+URY,1995,upper middle
+USA,1995,higher
+UZB,1995,lower middle
+VCT,1995,lower middle
+VEN,1995,lower middle
+VIR,1995,higher
+VNM,1995,lower
+VUT,1995,lower middle
+WSM,1995,lower middle
+YEM,1995,lower
+YUG,1995,lower middle
+ZAF,1995,upper middle
+ZMB,1995,lower
+ZWE,1995,lower
+ABW,1996,higher
+AFG,1996,lower
+AGO,1996,lower
+ALB,1996,lower middle
+AND,1996,higher
+ANT,1996,higher
+ARE,1996,higher
+ARG,1996,upper middle
+ARM,1996,lower
+ASM,1996,upper middle
+ATG,1996,upper middle
+AUS,1996,higher
+AUT,1996,higher
+AZE,1996,lower
+BDI,1996,lower
+BEL,1996,higher
+BEN,1996,lower
+BFA,1996,lower
+BGD,1996,lower
+BGR,1996,lower middle
+BHR,1996,upper middle
+BHS,1996,higher
+BIH,1996,lower
+BLR,1996,lower middle
+BLZ,1996,lower middle
+BMU,1996,higher
+BOL,1996,lower middle
+BRA,1996,upper middle
+BRB,1996,upper middle
+BRN,1996,higher
+BTN,1996,lower
+BWA,1996,lower middle
+CAF,1996,lower
+CAN,1996,higher
+CHE,1996,higher
+CHI,1996,higher
+CHL,1996,upper middle
+CHN,1996,lower
+CIV,1996,lower
+CMR,1996,lower
+COD,1996,lower
+COG,1996,lower
+COL,1996,lower middle
+COM,1996,lower
+CPV,1996,lower middle
+CRI,1996,lower middle
+CUB,1996,lower middle
+CYM,1996,higher
+CYP,1996,higher
+CZE,1996,upper middle
+DEU,1996,higher
+DJI,1996,lower middle
+DMA,1996,lower middle
+DNK,1996,higher
+DOM,1996,lower middle
+DZA,1996,lower middle
+ECU,1996,lower middle
+EGY,1996,lower middle
+ERI,1996,lower
+ESP,1996,higher
+EST,1996,lower middle
+ETH,1996,lower
+FIN,1996,higher
+FJI,1996,lower middle
+FRA,1996,higher
+FRO,1996,higher
+FSM,1996,lower middle
+GAB,1996,upper middle
+GBR,1996,higher
+GEO,1996,lower middle
+GHA,1996,lower
+GIN,1996,lower
+GMB,1996,lower
+GNB,1996,lower
+GNQ,1996,lower
+GRC,1996,higher
+GRD,1996,lower middle
+GRL,1996,higher
+GTM,1996,lower middle
+GUM,1996,higher
+GUY,1996,lower
+HKG,1996,higher
+HND,1996,lower
+HRV,1996,upper middle
+HTI,1996,lower
+HUN,1996,upper middle
+IDN,1996,lower middle
+IMN,1996,upper middle
+IND,1996,lower
+IRL,1996,higher
+IRN,1996,lower middle
+IRQ,1996,lower middle
+ISL,1996,higher
+ISR,1996,higher
+ITA,1996,higher
+JAM,1996,lower middle
+JOR,1996,lower middle
+JPN,1996,higher
+KAZ,1996,lower middle
+KEN,1996,lower
+KGZ,1996,lower
+KHM,1996,lower
+KIR,1996,lower middle
+KNA,1996,upper middle
+KOR,1996,higher
+KWT,1996,higher
+LAO,1996,lower
+LBN,1996,lower middle
+LBR,1996,lower
+LBY,1996,upper middle
+LCA,1996,upper middle
+LIE,1996,higher
+LKA,1996,lower
+LSO,1996,lower
+LTU,1996,lower middle
+LUX,1996,higher
+LVA,1996,lower middle
+MAC,1996,higher
+MAR,1996,lower middle
+MCO,1996,higher
+MDA,1996,lower
+MDG,1996,lower
+MDV,1996,lower middle
+MEX,1996,upper middle
+MHL,1996,lower middle
+MKD,1996,lower middle
+MLI,1996,lower
+MLT,1996,upper middle
+MMR,1996,lower
+MNG,1996,lower
+MNP,1996,higher
+MOZ,1996,lower
+MRT,1996,lower
+MUS,1996,upper middle
+MWI,1996,lower
+MYS,1996,upper middle
+MYT,1996,upper middle
+NAM,1996,lower middle
+NCL,1996,higher
+NER,1996,lower
+NGA,1996,lower
+NIC,1996,lower
+NLD,1996,higher
+NOR,1996,higher
+NPL,1996,lower
+NZL,1996,higher
+OMN,1996,upper middle
+PAK,1996,lower
+PAN,1996,lower middle
+PER,1996,lower middle
+PHL,1996,lower middle
+PLW,1996,upper middle
+PNG,1996,lower middle
+POL,1996,upper middle
+PRI,1996,upper middle
+PRK,1996,lower middle
+PRT,1996,higher
+PRY,1996,lower middle
+PSE,1996,lower middle
+PYF,1996,higher
+QAT,1996,higher
+ROU,1996,lower middle
+RUS,1996,lower middle
+RWA,1996,lower
+SAU,1996,upper middle
+SDN,1996,lower
+SEN,1996,lower
+SGP,1996,higher
+SLB,1996,lower middle
+SLE,1996,lower
+SLV,1996,lower middle
+SOM,1996,lower
+STP,1996,lower
+SUR,1996,lower middle
+SVK,1996,upper middle
+SVN,1996,upper middle
+SWE,1996,higher
+SWZ,1996,lower middle
+SYC,1996,upper middle
+SYR,1996,lower middle
+TCD,1996,lower
+TGO,1996,lower
+THA,1996,lower middle
+TJK,1996,lower
+TKM,1996,lower middle
+TON,1996,lower middle
+TTO,1996,upper middle
+TUN,1996,lower middle
+TUR,1996,lower middle
+TWN,1996,higher
+TZA,1996,lower
+UGA,1996,lower
+UKR,1996,lower middle
+URY,1996,upper middle
+USA,1996,higher
+UZB,1996,lower middle
+VCT,1996,lower middle
+VEN,1996,lower middle
+VIR,1996,higher
+VNM,1996,lower
+VUT,1996,lower middle
+WSM,1996,lower middle
+YEM,1996,lower
+YUG,1996,lower middle
+ZAF,1996,upper middle
+ZMB,1996,lower
+ZWE,1996,lower
+ABW,1997,higher
+AFG,1997,lower
+AGO,1997,lower
+ALB,1997,lower
+AND,1997,higher
+ANT,1997,higher
+ARE,1997,higher
+ARG,1997,upper middle
+ARM,1997,lower
+ASM,1997,upper middle
+ATG,1997,upper middle
+AUS,1997,higher
+AUT,1997,higher
+AZE,1997,lower
+BDI,1997,lower
+BEL,1997,higher
+BEN,1997,lower
+BFA,1997,lower
+BGD,1997,lower
+BGR,1997,lower middle
+BHR,1997,upper middle
+BHS,1997,higher
+BIH,1997,lower
+BLR,1997,lower middle
+BLZ,1997,lower middle
+BMU,1997,higher
+BOL,1997,lower middle
+BRA,1997,upper middle
+BRB,1997,upper middle
+BRN,1997,higher
+BTN,1997,lower
+BWA,1997,upper middle
+CAF,1997,lower
+CAN,1997,higher
+CHE,1997,higher
+CHI,1997,higher
+CHL,1997,upper middle
+CHN,1997,lower middle
+CIV,1997,lower
+CMR,1997,lower
+COD,1997,lower
+COG,1997,lower
+COL,1997,lower middle
+COM,1997,lower
+CPV,1997,lower middle
+CRI,1997,lower middle
+CUB,1997,lower middle
+CYM,1997,higher
+CYP,1997,higher
+CZE,1997,upper middle
+DEU,1997,higher
+DJI,1997,lower middle
+DMA,1997,lower middle
+DNK,1997,higher
+DOM,1997,lower middle
+DZA,1997,lower middle
+ECU,1997,lower middle
+EGY,1997,lower middle
+ERI,1997,lower
+ESP,1997,higher
+EST,1997,upper middle
+ETH,1997,lower
+FIN,1997,higher
+FJI,1997,lower middle
+FRA,1997,higher
+FRO,1997,higher
+FSM,1997,lower middle
+GAB,1997,upper middle
+GBR,1997,higher
+GEO,1997,lower middle
+GHA,1997,lower
+GIN,1997,lower
+GMB,1997,lower
+GNB,1997,lower
+GNQ,1997,lower middle
+GRC,1997,higher
+GRD,1997,upper middle
+GRL,1997,higher
+GTM,1997,lower middle
+GUM,1997,higher
+GUY,1997,lower middle
+HKG,1997,higher
+HND,1997,lower
+HRV,1997,upper middle
+HTI,1997,lower
+HUN,1997,upper middle
+IDN,1997,lower middle
+IMN,1997,upper middle
+IND,1997,lower
+IRL,1997,higher
+IRN,1997,lower middle
+IRQ,1997,lower middle
+ISL,1997,higher
+ISR,1997,higher
+ITA,1997,higher
+JAM,1997,lower middle
+JOR,1997,lower middle
+JPN,1997,higher
+KAZ,1997,lower middle
+KEN,1997,lower
+KGZ,1997,lower
+KHM,1997,lower
+KIR,1997,lower middle
+KNA,1997,upper middle
+KOR,1997,higher
+KWT,1997,higher
+LAO,1997,lower
+LBN,1997,upper middle
+LBR,1997,lower
+LBY,1997,upper middle
+LCA,1997,upper middle
+LIE,1997,higher
+LKA,1997,lower middle
+LSO,1997,lower
+LTU,1997,lower middle
+LUX,1997,higher
+LVA,1997,lower middle
+MAC,1997,higher
+MAR,1997,lower middle
+MCO,1997,higher
+MDA,1997,lower
+MDG,1997,lower
+MDV,1997,lower middle
+MEX,1997,upper middle
+MHL,1997,lower middle
+MKD,1997,lower middle
+MLI,1997,lower
+MLT,1997,upper middle
+MMR,1997,lower
+MNG,1997,lower
+MNP,1997,higher
+MOZ,1997,lower
+MRT,1997,lower
+MUS,1997,upper middle
+MWI,1997,lower
+MYS,1997,upper middle
+MYT,1997,upper middle
+NAM,1997,lower middle
+NCL,1997,higher
+NER,1997,lower
+NGA,1997,lower
+NIC,1997,lower
+NLD,1997,higher
+NOR,1997,higher
+NPL,1997,lower
+NZL,1997,higher
+OMN,1997,upper middle
+PAK,1997,lower
+PAN,1997,lower middle
+PER,1997,lower middle
+PHL,1997,lower middle
+PLW,1997,upper middle
+PNG,1997,lower middle
+POL,1997,upper middle
+PRI,1997,upper middle
+PRK,1997,lower middle
+PRT,1997,higher
+PRY,1997,lower middle
+PSE,1997,lower middle
+PYF,1997,higher
+QAT,1997,higher
+ROU,1997,lower middle
+RUS,1997,lower middle
+RWA,1997,lower
+SAU,1997,upper middle
+SDN,1997,lower
+SEN,1997,lower
+SGP,1997,higher
+SLB,1997,lower middle
+SLE,1997,lower
+SLV,1997,lower middle
+SOM,1997,lower
+STP,1997,lower
+SUR,1997,lower middle
+SVK,1997,upper middle
+SVN,1997,higher
+SWE,1997,higher
+SWZ,1997,lower middle
+SYC,1997,upper middle
+SYR,1997,lower middle
+TCD,1997,lower
+TGO,1997,lower
+THA,1997,lower middle
+TJK,1997,lower
+TKM,1997,lower
+TON,1997,lower middle
+TTO,1997,upper middle
+TUN,1997,lower middle
+TUR,1997,upper middle
+TWN,1997,higher
+TZA,1997,lower
+UGA,1997,lower
+UKR,1997,lower middle
+URY,1997,upper middle
+USA,1997,higher
+UZB,1997,lower middle
+VCT,1997,lower middle
+VEN,1997,upper middle
+VIR,1997,higher
+VNM,1997,lower
+VUT,1997,lower middle
+WSM,1997,lower middle
+YEM,1997,lower
+YUG,1997,lower middle
+ZAF,1997,upper middle
+ZMB,1997,lower
+ZWE,1997,lower
+ABW,1998,higher
+AFG,1998,lower
+AGO,1998,lower
+ALB,1998,lower middle
+AND,1998,higher
+ANT,1998,higher
+ARE,1998,higher
+ARG,1998,upper middle
+ARM,1998,lower
+ASM,1998,upper middle
+ATG,1998,upper middle
+AUS,1998,higher
+AUT,1998,higher
+AZE,1998,lower
+BDI,1998,lower
+BEL,1998,higher
+BEN,1998,lower
+BFA,1998,lower
+BGD,1998,lower
+BGR,1998,lower middle
+BHR,1998,upper middle
+BHS,1998,higher
+BIH,1998,lower middle
+BLR,1998,lower middle
+BLZ,1998,lower middle
+BMU,1998,higher
+BOL,1998,lower middle
+BRA,1998,upper middle
+BRB,1998,upper middle
+BRN,1998,higher
+BTN,1998,lower
+BWA,1998,upper middle
+CAF,1998,lower
+CAN,1998,higher
+CHE,1998,higher
+CHI,1998,higher
+CHL,1998,upper middle
+CHN,1998,lower
+CIV,1998,lower
+CMR,1998,lower
+COD,1998,lower
+COG,1998,lower
+COL,1998,lower middle
+COM,1998,lower
+CPV,1998,lower middle
+CRI,1998,lower middle
+CUB,1998,lower middle
+CYM,1998,higher
+CYP,1998,higher
+CZE,1998,upper middle
+DEU,1998,higher
+DJI,1998,lower middle
+DMA,1998,lower middle
+DNK,1998,higher
+DOM,1998,lower middle
+DZA,1998,lower middle
+ECU,1998,lower middle
+EGY,1998,lower middle
+ERI,1998,lower
+ESP,1998,higher
+EST,1998,upper middle
+ETH,1998,lower
+FIN,1998,higher
+FJI,1998,lower middle
+FRA,1998,higher
+FRO,1998,higher
+FSM,1998,lower middle
+GAB,1998,upper middle
+GBR,1998,higher
+GEO,1998,lower middle
+GHA,1998,lower
+GIN,1998,lower
+GMB,1998,lower
+GNB,1998,lower
+GNQ,1998,lower middle
+GRC,1998,higher
+GRD,1998,upper middle
+GRL,1998,higher
+GTM,1998,lower middle
+GUM,1998,higher
+GUY,1998,lower middle
+HKG,1998,higher
+HND,1998,lower
+HRV,1998,upper middle
+HTI,1998,lower
+HUN,1998,upper middle
+IDN,1998,lower
+IMN,1998,upper middle
+IND,1998,lower
+IRL,1998,higher
+IRN,1998,lower middle
+IRQ,1998,lower middle
+ISL,1998,higher
+ISR,1998,higher
+ITA,1998,higher
+JAM,1998,lower middle
+JOR,1998,lower middle
+JPN,1998,higher
+KAZ,1998,lower middle
+KEN,1998,lower
+KGZ,1998,lower
+KHM,1998,lower
+KIR,1998,lower middle
+KNA,1998,upper middle
+KOR,1998,upper middle
+KWT,1998,higher
+LAO,1998,lower
+LBN,1998,upper middle
+LBR,1998,lower
+LBY,1998,upper middle
+LCA,1998,upper middle
+LIE,1998,higher
+LKA,1998,lower middle
+LSO,1998,lower
+LTU,1998,lower middle
+LUX,1998,higher
+LVA,1998,lower middle
+MAC,1998,higher
+MAR,1998,lower middle
+MCO,1998,higher
+MDA,1998,lower
+MDG,1998,lower
+MDV,1998,lower middle
+MEX,1998,upper middle
+MHL,1998,lower middle
+MKD,1998,lower middle
+MLI,1998,lower
+MLT,1998,higher
+MMR,1998,lower
+MNG,1998,lower
+MNP,1998,higher
+MOZ,1998,lower
+MRT,1998,lower
+MUS,1998,upper middle
+MWI,1998,lower
+MYS,1998,upper middle
+MYT,1998,upper middle
+NAM,1998,lower middle
+NCL,1998,higher
+NER,1998,lower
+NGA,1998,lower
+NIC,1998,lower
+NLD,1998,higher
+NOR,1998,higher
+NPL,1998,lower
+NZL,1998,higher
+OMN,1998,upper middle
+PAK,1998,lower
+PAN,1998,upper middle
+PER,1998,lower middle
+PHL,1998,lower middle
+PLW,1998,upper middle
+PNG,1998,lower middle
+POL,1998,upper middle
+PRI,1998,upper middle
+PRK,1998,lower
+PRT,1998,higher
+PRY,1998,lower middle
+PSE,1998,lower middle
+PYF,1998,higher
+QAT,1998,higher
+ROU,1998,lower middle
+RUS,1998,lower middle
+RWA,1998,lower
+SAU,1998,upper middle
+SDN,1998,lower
+SEN,1998,lower
+SGP,1998,higher
+SLB,1998,lower
+SLE,1998,lower
+SLV,1998,lower middle
+SOM,1998,lower
+STP,1998,lower
+SUR,1998,lower middle
+SVK,1998,upper middle
+SVN,1998,higher
+SWE,1998,higher
+SWZ,1998,lower middle
+SYC,1998,upper middle
+SYR,1998,lower middle
+TCD,1998,lower
+TGO,1998,lower
+THA,1998,lower middle
+TJK,1998,lower
+TKM,1998,lower
+TON,1998,lower middle
+TTO,1998,upper middle
+TUN,1998,lower middle
+TUR,1998,upper middle
+TWN,1998,higher
+TZA,1998,lower
+UGA,1998,lower
+UKR,1998,lower middle
+URY,1998,upper middle
+USA,1998,higher
+UZB,1998,lower middle
+VCT,1998,lower middle
+VEN,1998,upper middle
+VIR,1998,higher
+VNM,1998,lower
+VUT,1998,lower middle
+WSM,1998,lower middle
+YEM,1998,lower
+YUG,1998,lower middle
+ZAF,1998,lower middle
+ZMB,1998,lower
+ZWE,1998,lower
+ABW,1999,higher
+AFG,1999,lower
+AGO,1999,lower
+ALB,1999,lower middle
+AND,1999,higher
+ANT,1999,higher
+ARE,1999,higher
+ARG,1999,upper middle
+ARM,1999,lower
+ASM,1999,upper middle
+ATG,1999,upper middle
+AUS,1999,higher
+AUT,1999,higher
+AZE,1999,lower
+BDI,1999,lower
+BEL,1999,higher
+BEN,1999,lower
+BFA,1999,lower
+BGD,1999,lower
+BGR,1999,lower middle
+BHR,1999,upper middle
+BHS,1999,higher
+BIH,1999,lower middle
+BLR,1999,lower middle
+BLZ,1999,lower middle
+BMU,1999,higher
+BOL,1999,lower middle
+BRA,1999,upper middle
+BRB,1999,upper middle
+BRN,1999,higher
+BTN,1999,lower
+BWA,1999,upper middle
+CAF,1999,lower
+CAN,1999,higher
+CHE,1999,higher
+CHI,1999,higher
+CHL,1999,upper middle
+CHN,1999,lower middle
+CIV,1999,lower
+CMR,1999,lower
+COD,1999,lower
+COG,1999,lower
+COL,1999,lower middle
+COM,1999,lower
+CPV,1999,lower middle
+CRI,1999,lower middle
+CUB,1999,lower middle
+CYM,1999,higher
+CYP,1999,higher
+CZE,1999,upper middle
+DEU,1999,higher
+DJI,1999,lower middle
+DMA,1999,upper middle
+DNK,1999,higher
+DOM,1999,lower middle
+DZA,1999,lower middle
+ECU,1999,lower middle
+EGY,1999,lower middle
+ERI,1999,lower
+ESP,1999,higher
+EST,1999,upper middle
+ETH,1999,lower
+FIN,1999,higher
+FJI,1999,lower middle
+FRA,1999,higher
+FRO,1999,higher
+FSM,1999,lower middle
+GAB,1999,upper middle
+GBR,1999,higher
+GEO,1999,lower
+GHA,1999,lower
+GIN,1999,lower
+GMB,1999,lower
+GNB,1999,lower
+GNQ,1999,lower middle
+GRC,1999,higher
+GRD,1999,upper middle
+GRL,1999,higher
+GTM,1999,lower middle
+GUM,1999,higher
+GUY,1999,lower middle
+HKG,1999,higher
+HND,1999,lower middle
+HRV,1999,upper middle
+HTI,1999,lower
+HUN,1999,upper middle
+IDN,1999,lower
+IMN,1999,upper middle
+IND,1999,lower
+IRL,1999,higher
+IRN,1999,lower middle
+IRQ,1999,lower middle
+ISL,1999,higher
+ISR,1999,higher
+ITA,1999,higher
+JAM,1999,lower middle
+JOR,1999,lower middle
+JPN,1999,higher
+KAZ,1999,lower middle
+KEN,1999,lower
+KGZ,1999,lower
+KHM,1999,lower
+KIR,1999,lower middle
+KNA,1999,upper middle
+KOR,1999,upper middle
+KWT,1999,higher
+LAO,1999,lower
+LBN,1999,upper middle
+LBR,1999,lower
+LBY,1999,upper middle
+LCA,1999,upper middle
+LIE,1999,higher
+LKA,1999,lower middle
+LSO,1999,lower
+LTU,1999,lower middle
+LUX,1999,higher
+LVA,1999,lower middle
+MAC,1999,higher
+MAR,1999,lower middle
+MCO,1999,higher
+MDA,1999,lower
+MDG,1999,lower
+MDV,1999,lower middle
+MEX,1999,upper middle
+MHL,1999,lower middle
+MKD,1999,lower middle
+MLI,1999,lower
+MLT,1999,upper middle
+MMR,1999,lower
+MNG,1999,lower
+MNP,1999,higher
+MOZ,1999,lower
+MRT,1999,lower
+MUS,1999,upper middle
+MWI,1999,lower
+MYS,1999,upper middle
+MYT,1999,upper middle
+NAM,1999,lower middle
+NCL,1999,higher
+NER,1999,lower
+NGA,1999,lower
+NIC,1999,lower
+NLD,1999,higher
+NOR,1999,higher
+NPL,1999,lower
+NZL,1999,higher
+OMN,1999,upper middle
+PAK,1999,lower
+PAN,1999,upper middle
+PER,1999,lower middle
+PHL,1999,lower middle
+PLW,1999,upper middle
+PNG,1999,lower middle
+POL,1999,upper middle
+PRI,1999,upper middle
+PRK,1999,lower
+PRT,1999,higher
+PRY,1999,lower middle
+PSE,1999,lower middle
+PYF,1999,higher
+QAT,1999,higher
+ROU,1999,lower middle
+RUS,1999,lower middle
+RWA,1999,lower
+SAU,1999,upper middle
+SDN,1999,lower
+SEN,1999,lower
+SGP,1999,higher
+SLB,1999,lower
+SLE,1999,lower
+SLV,1999,lower middle
+SOM,1999,lower
+STP,1999,lower
+SUR,1999,lower middle
+SVK,1999,upper middle
+SVN,1999,higher
+SWE,1999,higher
+SWZ,1999,lower middle
+SYC,1999,upper middle
+SYR,1999,lower middle
+TCD,1999,lower
+TGO,1999,lower
+THA,1999,lower middle
+TJK,1999,lower
+TKM,1999,lower
+TON,1999,lower middle
+TTO,1999,upper middle
+TUN,1999,lower middle
+TUR,1999,lower middle
+TWN,1999,higher
+TZA,1999,lower
+UGA,1999,lower
+UKR,1999,lower
+URY,1999,upper middle
+USA,1999,higher
+UZB,1999,lower
+VCT,1999,lower middle
+VEN,1999,upper middle
+VIR,1999,higher
+VNM,1999,lower
+VUT,1999,lower middle
+WSM,1999,lower middle
+YEM,1999,lower
+YUG,1999,lower middle
+ZAF,1999,upper middle
+ZMB,1999,lower
+ZWE,1999,lower
+ABW,2000,higher
+AFG,2000,lower
+AGO,2000,lower
+ALB,2000,lower middle
+AND,2000,higher
+ANT,2000,higher
+ARE,2000,higher
+ARG,2000,upper middle
+ARM,2000,lower
+ASM,2000,upper middle
+ATG,2000,upper middle
+AUS,2000,higher
+AUT,2000,higher
+AZE,2000,lower
+BDI,2000,lower
+BEL,2000,higher
+BEN,2000,lower
+BFA,2000,lower
+BGD,2000,lower
+BGR,2000,lower middle
+BHR,2000,upper middle
+BHS,2000,higher
+BIH,2000,lower middle
+BLR,2000,lower middle
+BLZ,2000,lower middle
+BMU,2000,higher
+BOL,2000,lower middle
+BRA,2000,upper middle
+BRB,2000,higher
+BRN,2000,higher
+BTN,2000,lower
+BWA,2000,upper middle
+CAF,2000,lower
+CAN,2000,higher
+CHE,2000,higher
+CHI,2000,higher
+CHL,2000,upper middle
+CHN,2000,lower middle
+CIV,2000,lower
+CMR,2000,lower
+COD,2000,lower
+COG,2000,lower
+COL,2000,lower middle
+COM,2000,lower
+CPV,2000,lower middle
+CRI,2000,upper middle
+CUB,2000,lower middle
+CYM,2000,higher
+CYP,2000,higher
+CZE,2000,upper middle
+DEU,2000,higher
+DJI,2000,lower middle
+DMA,2000,upper middle
+DNK,2000,higher
+DOM,2000,lower middle
+DZA,2000,lower middle
+ECU,2000,lower middle
+EGY,2000,lower middle
+ERI,2000,lower
+ESP,2000,higher
+EST,2000,upper middle
+ETH,2000,lower
+FIN,2000,higher
+FJI,2000,lower middle
+FRA,2000,higher
+FRO,2000,higher
+FSM,2000,lower middle
+GAB,2000,upper middle
+GBR,2000,higher
+GEO,2000,lower
+GHA,2000,lower
+GIN,2000,lower
+GMB,2000,lower
+GNB,2000,lower
+GNQ,2000,lower middle
+GRC,2000,higher
+GRD,2000,upper middle
+GRL,2000,higher
+GTM,2000,lower middle
+GUM,2000,higher
+GUY,2000,lower middle
+HKG,2000,higher
+HND,2000,lower middle
+HRV,2000,upper middle
+HTI,2000,lower
+HUN,2000,upper middle
+IDN,2000,lower
+IMN,2000,upper middle
+IND,2000,lower
+IRL,2000,higher
+IRN,2000,lower middle
+IRQ,2000,lower middle
+ISL,2000,higher
+ISR,2000,higher
+ITA,2000,higher
+JAM,2000,lower middle
+JOR,2000,lower middle
+JPN,2000,higher
+KAZ,2000,lower middle
+KEN,2000,lower
+KGZ,2000,lower
+KHM,2000,lower
+KIR,2000,lower middle
+KNA,2000,upper middle
+KOR,2000,upper middle
+KWT,2000,higher
+LAO,2000,lower
+LBN,2000,upper middle
+LBR,2000,lower
+LBY,2000,upper middle
+LCA,2000,upper middle
+LIE,2000,higher
+LKA,2000,lower middle
+LSO,2000,lower
+LTU,2000,lower middle
+LUX,2000,higher
+LVA,2000,lower middle
+MAC,2000,higher
+MAR,2000,lower middle
+MCO,2000,higher
+MDA,2000,lower
+MDG,2000,lower
+MDV,2000,lower middle
+MEX,2000,upper middle
+MHL,2000,lower middle
+MKD,2000,lower middle
+MLI,2000,lower
+MLT,2000,higher
+MMR,2000,lower
+MNG,2000,lower
+MNP,2000,higher
+MOZ,2000,lower
+MRT,2000,lower
+MUS,2000,upper middle
+MWI,2000,lower
+MYS,2000,upper middle
+MYT,2000,upper middle
+NAM,2000,lower middle
+NCL,2000,higher
+NER,2000,lower
+NGA,2000,lower
+NIC,2000,lower
+NLD,2000,higher
+NOR,2000,higher
+NPL,2000,lower
+NZL,2000,higher
+OMN,2000,upper middle
+PAK,2000,lower
+PAN,2000,upper middle
+PER,2000,lower middle
+PHL,2000,lower middle
+PLW,2000,upper middle
+PNG,2000,lower middle
+POL,2000,upper middle
+PRI,2000,upper middle
+PRK,2000,lower
+PRT,2000,higher
+PRY,2000,lower middle
+PSE,2000,lower middle
+PYF,2000,higher
+QAT,2000,higher
+ROU,2000,lower middle
+RUS,2000,lower middle
+RWA,2000,lower
+SAU,2000,upper middle
+SDN,2000,lower
+SEN,2000,lower
+SGP,2000,higher
+SLB,2000,lower
+SLE,2000,lower
+SLV,2000,lower middle
+SMR,2000,higher
+SOM,2000,lower
+STP,2000,lower
+SUR,2000,lower middle
+SVK,2000,upper middle
+SVN,2000,higher
+SWE,2000,higher
+SWZ,2000,lower middle
+SYC,2000,upper middle
+SYR,2000,lower middle
+TCD,2000,lower
+TGO,2000,lower
+THA,2000,lower middle
+TJK,2000,lower
+TKM,2000,lower middle
+TON,2000,lower middle
+TTO,2000,upper middle
+TUN,2000,lower middle
+TUR,2000,upper middle
+TWN,2000,higher
+TZA,2000,lower
+UGA,2000,lower
+UKR,2000,lower
+URY,2000,upper middle
+USA,2000,higher
+UZB,2000,lower
+VCT,2000,lower middle
+VEN,2000,upper middle
+VIR,2000,higher
+VNM,2000,lower
+VUT,2000,lower middle
+WSM,2000,lower middle
+YEM,2000,lower
+YUG,2000,lower middle
+ZAF,2000,upper middle
+ZMB,2000,lower
+ZWE,2000,lower
+ABW,2001,higher
+AFG,2001,lower
+AGO,2001,lower
+ALB,2001,lower middle
+AND,2001,higher
+ANT,2001,higher
+ARE,2001,higher
+ARG,2001,upper middle
+ARM,2001,lower
+ASM,2001,upper middle
+ATG,2001,upper middle
+AUS,2001,higher
+AUT,2001,higher
+AZE,2001,lower
+BDI,2001,lower
+BEL,2001,higher
+BEN,2001,lower
+BFA,2001,lower
+BGD,2001,lower
+BGR,2001,lower middle
+BHR,2001,higher
+BHS,2001,higher
+BIH,2001,lower middle
+BLR,2001,lower middle
+BLZ,2001,lower middle
+BMU,2001,higher
+BOL,2001,lower middle
+BRA,2001,upper middle
+BRB,2001,upper middle
+BRN,2001,higher
+BTN,2001,lower
+BWA,2001,upper middle
+CAF,2001,lower
+CAN,2001,higher
+CHE,2001,higher
+CHI,2001,higher
+CHL,2001,upper middle
+CHN,2001,lower middle
+CIV,2001,lower
+CMR,2001,lower
+COD,2001,lower
+COG,2001,lower
+COL,2001,lower middle
+COM,2001,lower
+CPV,2001,lower middle
+CRI,2001,upper middle
+CUB,2001,lower middle
+CYM,2001,higher
+CYP,2001,higher
+CZE,2001,upper middle
+DEU,2001,higher
+DJI,2001,lower middle
+DMA,2001,upper middle
+DNK,2001,higher
+DOM,2001,lower middle
+DZA,2001,lower middle
+ECU,2001,lower middle
+EGY,2001,lower middle
+ERI,2001,lower
+ESP,2001,higher
+EST,2001,upper middle
+ETH,2001,lower
+FIN,2001,higher
+FJI,2001,lower middle
+FRA,2001,higher
+FRO,2001,higher
+FSM,2001,lower middle
+GAB,2001,upper middle
+GBR,2001,higher
+GEO,2001,lower
+GHA,2001,lower
+GIN,2001,lower
+GMB,2001,lower
+GNB,2001,lower
+GNQ,2001,lower
+GRC,2001,higher
+GRD,2001,upper middle
+GRL,2001,higher
+GTM,2001,lower middle
+GUM,2001,higher
+GUY,2001,lower middle
+HKG,2001,higher
+HND,2001,lower middle
+HRV,2001,upper middle
+HTI,2001,lower
+HUN,2001,upper middle
+IDN,2001,lower
+IMN,2001,upper middle
+IND,2001,lower
+IRL,2001,higher
+IRN,2001,lower middle
+IRQ,2001,lower middle
+ISL,2001,higher
+ISR,2001,higher
+ITA,2001,higher
+JAM,2001,lower middle
+JOR,2001,lower middle
+JPN,2001,higher
+KAZ,2001,lower middle
+KEN,2001,lower
+KGZ,2001,lower
+KHM,2001,lower
+KIR,2001,lower middle
+KNA,2001,upper middle
+KOR,2001,higher
+KWT,2001,higher
+LAO,2001,lower
+LBN,2001,upper middle
+LBR,2001,lower
+LBY,2001,upper middle
+LCA,2001,upper middle
+LIE,2001,higher
+LKA,2001,lower middle
+LSO,2001,lower
+LTU,2001,upper middle
+LUX,2001,higher
+LVA,2001,upper middle
+MAC,2001,higher
+MAR,2001,lower middle
+MCO,2001,higher
+MDA,2001,lower
+MDG,2001,lower
+MDV,2001,lower middle
+MEX,2001,upper middle
+MHL,2001,lower middle
+MKD,2001,lower middle
+MLI,2001,lower
+MLT,2001,upper middle
+MMR,2001,lower
+MNG,2001,lower
+MNP,2001,higher
+MOZ,2001,lower
+MRT,2001,lower
+MUS,2001,upper middle
+MWI,2001,lower
+MYS,2001,upper middle
+MYT,2001,upper middle
+NAM,2001,lower middle
+NCL,2001,higher
+NER,2001,lower
+NGA,2001,lower
+NIC,2001,lower
+NLD,2001,higher
+NOR,2001,higher
+NPL,2001,lower
+NZL,2001,higher
+OMN,2001,upper middle
+PAK,2001,lower
+PAN,2001,upper middle
+PER,2001,lower middle
+PHL,2001,lower middle
+PLW,2001,upper middle
+PNG,2001,lower
+POL,2001,upper middle
+PRI,2001,upper middle
+PRK,2001,lower
+PRT,2001,higher
+PRY,2001,lower middle
+PSE,2001,lower middle
+PYF,2001,higher
+QAT,2001,higher
+ROU,2001,lower middle
+RUS,2001,lower middle
+RWA,2001,lower
+SAU,2001,upper middle
+SDN,2001,lower
+SEN,2001,lower
+SGP,2001,higher
+SLB,2001,lower
+SLE,2001,lower
+SLV,2001,lower middle
+SMR,2001,higher
+SOM,2001,lower
+STP,2001,lower
+SUR,2001,lower middle
+SVK,2001,upper middle
+SVN,2001,higher
+SWE,2001,higher
+SWZ,2001,lower middle
+SYC,2001,upper middle
+SYR,2001,lower middle
+TCD,2001,lower
+TGO,2001,lower
+THA,2001,lower middle
+TJK,2001,lower
+TKM,2001,lower middle
+TLS,2001,lower
+TON,2001,lower middle
+TTO,2001,upper middle
+TUN,2001,lower middle
+TUR,2001,lower middle
+TWN,2001,higher
+TZA,2001,lower
+UGA,2001,lower
+UKR,2001,lower
+URY,2001,upper middle
+USA,2001,higher
+UZB,2001,lower
+VCT,2001,lower middle
+VEN,2001,upper middle
+VIR,2001,higher
+VNM,2001,lower
+VUT,2001,lower middle
+WSM,2001,lower middle
+YEM,2001,lower
+YUG,2001,lower middle
+ZAF,2001,lower middle
+ZMB,2001,lower
+ZWE,2001,lower
+ABW,2002,higher
+AFG,2002,lower
+AGO,2002,lower
+ALB,2002,lower middle
+AND,2002,higher
+ANT,2002,higher
+ARE,2002,higher
+ARG,2002,upper middle
+ARM,2002,lower middle
+ASM,2002,upper middle
+ATG,2002,higher
+AUS,2002,higher
+AUT,2002,higher
+AZE,2002,lower
+BDI,2002,lower
+BEL,2002,higher
+BEN,2002,lower
+BFA,2002,lower
+BGD,2002,lower
+BGR,2002,lower middle
+BHR,2002,higher
+BHS,2002,higher
+BIH,2002,lower middle
+BLR,2002,lower middle
+BLZ,2002,upper middle
+BMU,2002,higher
+BOL,2002,lower middle
+BRA,2002,lower middle
+BRB,2002,higher
+BRN,2002,higher
+BTN,2002,lower
+BWA,2002,upper middle
+CAF,2002,lower
+CAN,2002,higher
+CHE,2002,higher
+CHI,2002,higher
+CHL,2002,upper middle
+CHN,2002,lower middle
+CIV,2002,lower
+CMR,2002,lower
+COD,2002,lower
+COG,2002,lower
+COL,2002,lower middle
+COM,2002,lower
+CPV,2002,lower middle
+CRI,2002,upper middle
+CUB,2002,lower middle
+CYM,2002,higher
+CYP,2002,higher
+CZE,2002,upper middle
+DEU,2002,higher
+DJI,2002,lower middle
+DMA,2002,upper middle
+DNK,2002,higher
+DOM,2002,lower middle
+DZA,2002,lower middle
+ECU,2002,lower middle
+EGY,2002,lower middle
+ERI,2002,lower
+ESP,2002,higher
+EST,2002,upper middle
+ETH,2002,lower
+FIN,2002,higher
+FJI,2002,lower middle
+FRA,2002,higher
+FRO,2002,higher
+FSM,2002,lower middle
+GAB,2002,upper middle
+GBR,2002,higher
+GEO,2002,lower
+GHA,2002,lower
+GIN,2002,lower
+GMB,2002,lower
+GNB,2002,lower
+GNQ,2002,lower
+GRC,2002,higher
+GRD,2002,upper middle
+GRL,2002,higher
+GTM,2002,lower middle
+GUM,2002,higher
+GUY,2002,lower middle
+HKG,2002,higher
+HND,2002,lower middle
+HRV,2002,upper middle
+HTI,2002,lower
+HUN,2002,upper middle
+IDN,2002,lower
+IMN,2002,higher
+IND,2002,lower
+IRL,2002,higher
+IRN,2002,lower middle
+IRQ,2002,lower middle
+ISL,2002,higher
+ISR,2002,higher
+ITA,2002,higher
+JAM,2002,lower middle
+JOR,2002,lower middle
+JPN,2002,higher
+KAZ,2002,lower middle
+KEN,2002,lower
+KGZ,2002,lower
+KHM,2002,lower
+KIR,2002,lower middle
+KNA,2002,upper middle
+KOR,2002,higher
+KWT,2002,higher
+LAO,2002,lower
+LBN,2002,upper middle
+LBR,2002,lower
+LBY,2002,upper middle
+LCA,2002,upper middle
+LIE,2002,higher
+LKA,2002,lower middle
+LSO,2002,lower
+LTU,2002,upper middle
+LUX,2002,higher
+LVA,2002,upper middle
+MAC,2002,higher
+MAR,2002,lower middle
+MCO,2002,higher
+MDA,2002,lower
+MDG,2002,lower
+MDV,2002,lower middle
+MEX,2002,upper middle
+MHL,2002,lower middle
+MKD,2002,lower middle
+MLI,2002,lower
+MLT,2002,higher
+MMR,2002,lower
+MNG,2002,lower
+MNP,2002,upper middle
+MOZ,2002,lower
+MRT,2002,lower
+MUS,2002,upper middle
+MWI,2002,lower
+MYS,2002,upper middle
+MYT,2002,upper middle
+NAM,2002,lower middle
+NCL,2002,higher
+NER,2002,lower
+NGA,2002,lower
+NIC,2002,lower
+NLD,2002,higher
+NOR,2002,higher
+NPL,2002,lower
+NZL,2002,higher
+OMN,2002,upper middle
+PAK,2002,lower
+PAN,2002,upper middle
+PER,2002,lower middle
+PHL,2002,lower middle
+PLW,2002,upper middle
+PNG,2002,lower
+POL,2002,upper middle
+PRI,2002,higher
+PRK,2002,lower
+PRT,2002,higher
+PRY,2002,lower middle
+PSE,2002,lower middle
+PYF,2002,higher
+QAT,2002,higher
+ROU,2002,lower middle
+RUS,2002,lower middle
+RWA,2002,lower
+SAU,2002,upper middle
+SDN,2002,lower
+SEN,2002,lower
+SGP,2002,higher
+SLB,2002,lower
+SLE,2002,lower
+SLV,2002,lower middle
+SMR,2002,higher
+SOM,2002,lower
+STP,2002,lower
+SUR,2002,lower middle
+SVK,2002,upper middle
+SVN,2002,higher
+SWE,2002,higher
+SWZ,2002,lower middle
+SYC,2002,upper middle
+SYR,2002,lower middle
+TCD,2002,lower
+TGO,2002,lower
+THA,2002,lower middle
+TJK,2002,lower
+TKM,2002,lower middle
+TLS,2002,lower
+TON,2002,lower middle
+TTO,2002,upper middle
+TUN,2002,lower middle
+TUR,2002,lower middle
+TWN,2002,higher
+TZA,2002,lower
+UGA,2002,lower
+UKR,2002,lower middle
+URY,2002,upper middle
+USA,2002,higher
+UZB,2002,lower
+VCT,2002,lower middle
+VEN,2002,upper middle
+VIR,2002,higher
+VNM,2002,lower
+VUT,2002,lower middle
+WSM,2002,lower middle
+YEM,2002,lower
+YUG,2002,lower middle
+ZAF,2002,lower middle
+ZMB,2002,lower
+ZWE,2002,lower
+ABW,2003,higher
+AFG,2003,lower
+AGO,2003,lower
+ALB,2003,lower middle
+AND,2003,higher
+ANT,2003,higher
+ARE,2003,higher
+ARG,2003,upper middle
+ARM,2003,lower middle
+ASM,2003,upper middle
+ATG,2003,upper middle
+AUS,2003,higher
+AUT,2003,higher
+AZE,2003,lower middle
+BDI,2003,lower
+BEL,2003,higher
+BEN,2003,lower
+BFA,2003,lower
+BGD,2003,lower
+BGR,2003,lower middle
+BHR,2003,higher
+BHS,2003,higher
+BIH,2003,lower middle
+BLR,2003,lower middle
+BLZ,2003,upper middle
+BMU,2003,higher
+BOL,2003,lower middle
+BRA,2003,lower middle
+BRB,2003,upper middle
+BRN,2003,higher
+BTN,2003,lower
+BWA,2003,upper middle
+CAF,2003,lower
+CAN,2003,higher
+CHE,2003,higher
+CHI,2003,higher
+CHL,2003,upper middle
+CHN,2003,lower middle
+CIV,2003,lower
+CMR,2003,lower
+COD,2003,lower
+COG,2003,lower
+COL,2003,lower middle
+COM,2003,lower
+CPV,2003,lower middle
+CRI,2003,upper middle
+CUB,2003,lower middle
+CYM,2003,higher
+CYP,2003,higher
+CZE,2003,upper middle
+DEU,2003,higher
+DJI,2003,lower middle
+DMA,2003,upper middle
+DNK,2003,higher
+DOM,2003,lower middle
+DZA,2003,lower middle
+ECU,2003,lower middle
+EGY,2003,lower middle
+ERI,2003,lower
+ESP,2003,higher
+EST,2003,upper middle
+ETH,2003,lower
+FIN,2003,higher
+FJI,2003,lower middle
+FRA,2003,higher
+FRO,2003,higher
+FSM,2003,lower middle
+GAB,2003,upper middle
+GBR,2003,higher
+GEO,2003,lower middle
+GHA,2003,lower
+GIN,2003,lower
+GMB,2003,lower
+GNB,2003,lower
+GNQ,2003,lower
+GRC,2003,higher
+GRD,2003,upper middle
+GRL,2003,higher
+GTM,2003,lower middle
+GUM,2003,higher
+GUY,2003,lower middle
+HKG,2003,higher
+HND,2003,lower middle
+HRV,2003,upper middle
+HTI,2003,lower
+HUN,2003,upper middle
+IDN,2003,lower middle
+IMN,2003,higher
+IND,2003,lower
+IRL,2003,higher
+IRN,2003,lower middle
+IRQ,2003,lower middle
+ISL,2003,higher
+ISR,2003,higher
+ITA,2003,higher
+JAM,2003,lower middle
+JOR,2003,lower middle
+JPN,2003,higher
+KAZ,2003,lower middle
+KEN,2003,lower
+KGZ,2003,lower
+KHM,2003,lower
+KIR,2003,lower middle
+KNA,2003,upper middle
+KOR,2003,higher
+KWT,2003,higher
+LAO,2003,lower
+LBN,2003,upper middle
+LBR,2003,lower
+LBY,2003,upper middle
+LCA,2003,upper middle
+LIE,2003,higher
+LKA,2003,lower middle
+LSO,2003,lower
+LTU,2003,upper middle
+LUX,2003,higher
+LVA,2003,upper middle
+MAC,2003,higher
+MAR,2003,lower middle
+MCO,2003,higher
+MDA,2003,lower
+MDG,2003,lower
+MDV,2003,lower middle
+MEX,2003,upper middle
+MHL,2003,lower middle
+MKD,2003,lower middle
+MLI,2003,lower
+MLT,2003,higher
+MMR,2003,lower
+MNG,2003,lower
+MNP,2003,upper middle
+MOZ,2003,lower
+MRT,2003,lower
+MUS,2003,upper middle
+MWI,2003,lower
+MYS,2003,upper middle
+MYT,2003,upper middle
+NAM,2003,lower middle
+NCL,2003,higher
+NER,2003,lower
+NGA,2003,lower
+NIC,2003,lower
+NLD,2003,higher
+NOR,2003,higher
+NPL,2003,lower
+NZL,2003,higher
+OMN,2003,upper middle
+PAK,2003,lower
+PAN,2003,upper middle
+PER,2003,lower middle
+PHL,2003,lower middle
+PLW,2003,upper middle
+PNG,2003,lower
+POL,2003,upper middle
+PRI,2003,higher
+PRK,2003,lower
+PRT,2003,higher
+PRY,2003,lower middle
+PSE,2003,lower middle
+PYF,2003,higher
+QAT,2003,higher
+ROU,2003,lower middle
+RUS,2003,lower middle
+RWA,2003,lower
+SAU,2003,upper middle
+SDN,2003,lower
+SEN,2003,lower
+SGP,2003,higher
+SLB,2003,lower
+SLE,2003,lower
+SLV,2003,lower middle
+SMR,2003,higher
+SOM,2003,lower
+STP,2003,lower
+SUR,2003,lower middle
+SVK,2003,upper middle
+SVN,2003,higher
+SWE,2003,higher
+SWZ,2003,lower middle
+SYC,2003,upper middle
+SYR,2003,lower middle
+TCD,2003,lower
+TGO,2003,lower
+THA,2003,lower middle
+TJK,2003,lower
+TKM,2003,lower middle
+TLS,2003,lower
+TON,2003,lower middle
+TTO,2003,upper middle
+TUN,2003,lower middle
+TUR,2003,lower middle
+TWN,2003,higher
+TZA,2003,lower
+UGA,2003,lower
+UKR,2003,lower middle
+URY,2003,upper middle
+USA,2003,higher
+UZB,2003,lower
+VCT,2003,upper middle
+VEN,2003,upper middle
+VIR,2003,higher
+VNM,2003,lower
+VUT,2003,lower middle
+WSM,2003,lower middle
+YEM,2003,lower
+YUG,2003,lower middle
+ZAF,2003,lower middle
+ZMB,2003,lower
+ZWE,2003,lower
+ABW,2004,higher
+AFG,2004,lower
+AGO,2004,lower middle
+ALB,2004,lower middle
+AND,2004,higher
+ANT,2004,higher
+ARE,2004,higher
+ARG,2004,upper middle
+ARM,2004,lower middle
+ASM,2004,upper middle
+ATG,2004,upper middle
+AUS,2004,higher
+AUT,2004,higher
+AZE,2004,lower middle
+BDI,2004,lower
+BEL,2004,higher
+BEN,2004,lower
+BFA,2004,lower
+BGD,2004,lower
+BGR,2004,lower middle
+BHR,2004,higher
+BHS,2004,higher
+BIH,2004,lower middle
+BLR,2004,lower middle
+BLZ,2004,upper middle
+BMU,2004,higher
+BOL,2004,lower middle
+BRA,2004,lower middle
+BRB,2004,upper middle
+BRN,2004,higher
+BTN,2004,lower
+BWA,2004,upper middle
+CAF,2004,lower
+CAN,2004,higher
+CHE,2004,higher
+CHI,2004,higher
+CHL,2004,upper middle
+CHN,2004,lower middle
+CIV,2004,lower
+CMR,2004,lower
+COD,2004,lower
+COG,2004,lower
+COL,2004,lower middle
+COM,2004,lower
+CPV,2004,lower middle
+CRI,2004,upper middle
+CUB,2004,lower middle
+CYM,2004,higher
+CYP,2004,higher
+CZE,2004,upper middle
+DEU,2004,higher
+DJI,2004,lower middle
+DMA,2004,upper middle
+DNK,2004,higher
+DOM,2004,lower middle
+DZA,2004,lower middle
+ECU,2004,lower middle
+EGY,2004,lower middle
+ERI,2004,lower
+ESP,2004,higher
+EST,2004,upper middle
+ETH,2004,lower
+FIN,2004,higher
+FJI,2004,lower middle
+FRA,2004,higher
+FRO,2004,higher
+FSM,2004,lower middle
+GAB,2004,upper middle
+GBR,2004,higher
+GEO,2004,lower middle
+GHA,2004,lower
+GIN,2004,lower
+GMB,2004,lower
+GNB,2004,lower
+GNQ,2004,upper middle
+GRC,2004,higher
+GRD,2004,upper middle
+GRL,2004,higher
+GTM,2004,lower middle
+GUM,2004,higher
+GUY,2004,lower middle
+HKG,2004,higher
+HND,2004,lower middle
+HRV,2004,upper middle
+HTI,2004,lower
+HUN,2004,upper middle
+IDN,2004,lower middle
+IMN,2004,higher
+IND,2004,lower
+IRL,2004,higher
+IRN,2004,lower middle
+IRQ,2004,lower middle
+ISL,2004,higher
+ISR,2004,higher
+ITA,2004,higher
+JAM,2004,lower middle
+JOR,2004,lower middle
+JPN,2004,higher
+KAZ,2004,lower middle
+KEN,2004,lower
+KGZ,2004,lower
+KHM,2004,lower
+KIR,2004,lower middle
+KNA,2004,upper middle
+KOR,2004,higher
+KWT,2004,higher
+LAO,2004,lower
+LBN,2004,upper middle
+LBR,2004,lower
+LBY,2004,upper middle
+LCA,2004,upper middle
+LIE,2004,higher
+LKA,2004,lower middle
+LSO,2004,lower
+LTU,2004,upper middle
+LUX,2004,higher
+LVA,2004,upper middle
+MAC,2004,higher
+MAR,2004,lower middle
+MCO,2004,higher
+MDA,2004,lower
+MDG,2004,lower
+MDV,2004,lower middle
+MEX,2004,upper middle
+MHL,2004,lower middle
+MKD,2004,lower middle
+MLI,2004,lower
+MLT,2004,higher
+MMR,2004,lower
+MNG,2004,lower
+MNP,2004,upper middle
+MOZ,2004,lower
+MRT,2004,lower
+MUS,2004,upper middle
+MWI,2004,lower
+MYS,2004,upper middle
+MYT,2004,upper middle
+NAM,2004,lower middle
+NCL,2004,higher
+NER,2004,lower
+NGA,2004,lower
+NIC,2004,lower
+NLD,2004,higher
+NOR,2004,higher
+NPL,2004,lower
+NZL,2004,higher
+OMN,2004,upper middle
+PAK,2004,lower
+PAN,2004,upper middle
+PER,2004,lower middle
+PHL,2004,lower middle
+PLW,2004,upper middle
+PNG,2004,lower
+POL,2004,upper middle
+PRI,2004,higher
+PRK,2004,lower
+PRT,2004,higher
+PRY,2004,lower middle
+PSE,2004,lower middle
+PYF,2004,higher
+QAT,2004,higher
+ROU,2004,lower middle
+RUS,2004,upper middle
+RWA,2004,lower
+SAU,2004,higher
+SDN,2004,lower
+SEN,2004,lower
+SGP,2004,higher
+SLB,2004,lower
+SLE,2004,lower
+SLV,2004,lower middle
+SMR,2004,higher
+SOM,2004,lower
+STP,2004,lower
+SUR,2004,lower middle
+SVK,2004,upper middle
+SVN,2004,higher
+SWE,2004,higher
+SWZ,2004,lower middle
+SYC,2004,upper middle
+SYR,2004,lower middle
+TCD,2004,lower
+TGO,2004,lower
+THA,2004,lower middle
+TJK,2004,lower
+TKM,2004,lower middle
+TLS,2004,lower
+TON,2004,lower middle
+TTO,2004,upper middle
+TUN,2004,lower middle
+TUR,2004,upper middle
+TWN,2004,higher
+TZA,2004,lower
+UGA,2004,lower
+UKR,2004,lower middle
+URY,2004,upper middle
+USA,2004,higher
+UZB,2004,lower
+VCT,2004,upper middle
+VEN,2004,upper middle
+VIR,2004,higher
+VNM,2004,lower
+VUT,2004,lower middle
+WSM,2004,lower middle
+YEM,2004,lower
+YUG,2004,lower middle
+ZAF,2004,upper middle
+ZMB,2004,lower
+ZWE,2004,lower
+ABW,2005,higher
+AFG,2005,lower
+AGO,2005,lower middle
+ALB,2005,lower middle
+AND,2005,higher
+ANT,2005,higher
+ARE,2005,higher
+ARG,2005,upper middle
+ARM,2005,lower middle
+ASM,2005,upper middle
+ATG,2005,higher
+AUS,2005,higher
+AUT,2005,higher
+AZE,2005,lower middle
+BDI,2005,lower
+BEL,2005,higher
+BEN,2005,lower
+BFA,2005,lower
+BGD,2005,lower
+BGR,2005,lower middle
+BHR,2005,higher
+BHS,2005,higher
+BIH,2005,lower middle
+BLR,2005,lower middle
+BLZ,2005,upper middle
+BMU,2005,higher
+BOL,2005,lower middle
+BRA,2005,lower middle
+BRB,2005,upper middle
+BRN,2005,higher
+BTN,2005,lower
+BWA,2005,upper middle
+CAF,2005,lower
+CAN,2005,higher
+CHE,2005,higher
+CHI,2005,higher
+CHL,2005,upper middle
+CHN,2005,lower middle
+CIV,2005,lower
+CMR,2005,lower middle
+COD,2005,lower
+COG,2005,lower middle
+COL,2005,lower middle
+COM,2005,lower
+CPV,2005,lower middle
+CRI,2005,upper middle
+CUB,2005,lower middle
+CYM,2005,higher
+CYP,2005,higher
+CZE,2005,upper middle
+DEU,2005,higher
+DJI,2005,lower middle
+DMA,2005,upper middle
+DNK,2005,higher
+DOM,2005,lower middle
+DZA,2005,lower middle
+ECU,2005,lower middle
+EGY,2005,lower middle
+ERI,2005,lower
+ESP,2005,higher
+EST,2005,upper middle
+ETH,2005,lower
+FIN,2005,higher
+FJI,2005,lower middle
+FRA,2005,higher
+FRO,2005,higher
+FSM,2005,lower middle
+GAB,2005,upper middle
+GBR,2005,higher
+GEO,2005,lower middle
+GHA,2005,lower
+GIN,2005,lower
+GMB,2005,lower
+GNB,2005,lower
+GNQ,2005,upper middle
+GRC,2005,higher
+GRD,2005,upper middle
+GRL,2005,higher
+GTM,2005,lower middle
+GUM,2005,higher
+GUY,2005,lower middle
+HKG,2005,higher
+HND,2005,lower middle
+HRV,2005,upper middle
+HTI,2005,lower
+HUN,2005,upper middle
+IDN,2005,lower middle
+IMN,2005,higher
+IND,2005,lower
+IRL,2005,higher
+IRN,2005,lower middle
+IRQ,2005,lower middle
+ISL,2005,higher
+ISR,2005,higher
+ITA,2005,higher
+JAM,2005,lower middle
+JOR,2005,lower middle
+JPN,2005,higher
+KAZ,2005,lower middle
+KEN,2005,lower
+KGZ,2005,lower
+KHM,2005,lower
+KIR,2005,lower middle
+KNA,2005,upper middle
+KOR,2005,higher
+KWT,2005,higher
+LAO,2005,lower
+LBN,2005,upper middle
+LBR,2005,lower
+LBY,2005,upper middle
+LCA,2005,upper middle
+LIE,2005,higher
+LKA,2005,lower middle
+LSO,2005,lower middle
+LTU,2005,upper middle
+LUX,2005,higher
+LVA,2005,upper middle
+MAC,2005,higher
+MAR,2005,lower middle
+MCO,2005,higher
+MDA,2005,lower middle
+MDG,2005,lower
+MDV,2005,lower middle
+MEX,2005,upper middle
+MHL,2005,lower middle
+MKD,2005,lower middle
+MLI,2005,lower
+MLT,2005,higher
+MMR,2005,lower
+MNG,2005,lower
+MNP,2005,upper middle
+MOZ,2005,lower
+MRT,2005,lower
+MUS,2005,upper middle
+MWI,2005,lower
+MYS,2005,upper middle
+MYT,2005,upper middle
+NAM,2005,lower middle
+NCL,2005,higher
+NER,2005,lower
+NGA,2005,lower
+NIC,2005,lower middle
+NLD,2005,higher
+NOR,2005,higher
+NPL,2005,lower
+NZL,2005,higher
+OMN,2005,upper middle
+PAK,2005,lower
+PAN,2005,upper middle
+PER,2005,lower middle
+PHL,2005,lower middle
+PLW,2005,upper middle
+PNG,2005,lower
+POL,2005,upper middle
+PRI,2005,higher
+PRK,2005,lower
+PRT,2005,higher
+PRY,2005,lower middle
+PSE,2005,lower middle
+PYF,2005,higher
+QAT,2005,higher
+ROU,2005,upper middle
+RUS,2005,upper middle
+RWA,2005,lower
+SAU,2005,higher
+SDN,2005,lower
+SEN,2005,lower
+SGP,2005,higher
+SLB,2005,lower
+SLE,2005,lower
+SLV,2005,lower middle
+SMR,2005,higher
+SOM,2005,lower
+STP,2005,lower
+SUR,2005,lower middle
+SVK,2005,upper middle
+SVN,2005,higher
+SWE,2005,higher
+SWZ,2005,lower middle
+SYC,2005,upper middle
+SYR,2005,lower middle
+TCD,2005,lower
+TGO,2005,lower
+THA,2005,lower middle
+TJK,2005,lower
+TKM,2005,lower middle
+TLS,2005,lower
+TON,2005,lower middle
+TTO,2005,upper middle
+TUN,2005,lower middle
+TUR,2005,upper middle
+TWN,2005,higher
+TZA,2005,lower
+UGA,2005,lower
+UKR,2005,lower middle
+URY,2005,upper middle
+USA,2005,higher
+UZB,2005,lower
+VCT,2005,upper middle
+VEN,2005,upper middle
+VIR,2005,higher
+VNM,2005,lower
+VUT,2005,lower middle
+WSM,2005,lower middle
+YEM,2005,lower
+YUG,2005,lower middle
+ZAF,2005,upper middle
+ZMB,2005,lower
+ZWE,2005,lower
+ABW,2006,higher
+AFG,2006,lower
+AGO,2006,lower middle
+ALB,2006,lower middle
+AND,2006,higher
+ANT,2006,higher
+ARE,2006,higher
+ARG,2006,upper middle
+ARM,2006,lower middle
+ASM,2006,upper middle
+ATG,2006,higher
+AUS,2006,higher
+AUT,2006,higher
+AZE,2006,lower middle
+BDI,2006,lower
+BEL,2006,higher
+BEN,2006,lower
+BFA,2006,lower
+BGD,2006,lower
+BGR,2006,upper middle
+BHR,2006,higher
+BHS,2006,higher
+BIH,2006,lower middle
+BLR,2006,lower middle
+BLZ,2006,upper middle
+BMU,2006,higher
+BOL,2006,lower middle
+BRA,2006,upper middle
+BRB,2006,higher
+BRN,2006,higher
+BTN,2006,lower middle
+BWA,2006,upper middle
+CAF,2006,lower
+CAN,2006,higher
+CHE,2006,higher
+CHI,2006,higher
+CHL,2006,upper middle
+CHN,2006,lower middle
+CIV,2006,lower
+CMR,2006,lower middle
+COD,2006,lower
+COG,2006,lower middle
+COL,2006,lower middle
+COM,2006,lower
+CPV,2006,lower middle
+CRI,2006,upper middle
+CUB,2006,lower middle
+CYM,2006,higher
+CYP,2006,higher
+CZE,2006,higher
+DEU,2006,higher
+DJI,2006,lower middle
+DMA,2006,upper middle
+DNK,2006,higher
+DOM,2006,lower middle
+DZA,2006,lower middle
+ECU,2006,lower middle
+EGY,2006,lower middle
+ERI,2006,lower
+ESP,2006,higher
+EST,2006,higher
+ETH,2006,lower
+FIN,2006,higher
+FJI,2006,lower middle
+FRA,2006,higher
+FRO,2006,higher
+FSM,2006,lower middle
+GAB,2006,upper middle
+GBR,2006,higher
+GEO,2006,lower middle
+GHA,2006,lower
+GIN,2006,lower
+GMB,2006,lower
+GNB,2006,lower
+GNQ,2006,upper middle
+GRC,2006,higher
+GRD,2006,upper middle
+GRL,2006,higher
+GTM,2006,lower middle
+GUM,2006,higher
+GUY,2006,lower middle
+HKG,2006,higher
+HND,2006,lower middle
+HRV,2006,upper middle
+HTI,2006,lower
+HUN,2006,upper middle
+IDN,2006,lower middle
+IMN,2006,higher
+IND,2006,lower
+IRL,2006,higher
+IRN,2006,lower middle
+IRQ,2006,lower middle
+ISL,2006,higher
+ISR,2006,higher
+ITA,2006,higher
+JAM,2006,lower middle
+JOR,2006,lower middle
+JPN,2006,higher
+KAZ,2006,upper middle
+KEN,2006,lower
+KGZ,2006,lower
+KHM,2006,lower
+KIR,2006,lower middle
+KNA,2006,upper middle
+KOR,2006,higher
+KWT,2006,higher
+LAO,2006,lower
+LBN,2006,upper middle
+LBR,2006,lower
+LBY,2006,upper middle
+LCA,2006,upper middle
+LIE,2006,higher
+LKA,2006,lower middle
+LSO,2006,lower middle
+LTU,2006,upper middle
+LUX,2006,higher
+LVA,2006,upper middle
+MAC,2006,higher
+MAR,2006,lower middle
+MCO,2006,higher
+MDA,2006,lower middle
+MDG,2006,lower
+MDV,2006,lower middle
+MEX,2006,upper middle
+MHL,2006,lower middle
+MKD,2006,lower middle
+MLI,2006,lower
+MLT,2006,higher
+MMR,2006,lower
+MNE,2006,upper middle
+MNG,2006,lower
+MNP,2006,upper middle
+MOZ,2006,lower
+MRT,2006,lower
+MUS,2006,upper middle
+MWI,2006,lower
+MYS,2006,upper middle
+MYT,2006,upper middle
+NAM,2006,lower middle
+NCL,2006,higher
+NER,2006,lower
+NGA,2006,lower
+NIC,2006,lower middle
+NLD,2006,higher
+NOR,2006,higher
+NPL,2006,lower
+NZL,2006,higher
+OMN,2006,upper middle
+PAK,2006,lower
+PAN,2006,upper middle
+PER,2006,lower middle
+PHL,2006,lower middle
+PLW,2006,upper middle
+PNG,2006,lower
+POL,2006,upper middle
+PRI,2006,higher
+PRK,2006,lower
+PRT,2006,higher
+PRY,2006,lower middle
+PSE,2006,lower middle
+PYF,2006,higher
+QAT,2006,higher
+ROU,2006,upper middle
+RUS,2006,upper middle
+RWA,2006,lower
+SAU,2006,higher
+SDN,2006,lower
+SEN,2006,lower
+SGP,2006,higher
+SLB,2006,lower
+SLE,2006,lower
+SLV,2006,lower middle
+SMR,2006,higher
+SOM,2006,lower
+SRB,2006,upper middle
+STP,2006,lower
+SUR,2006,lower middle
+SVK,2006,upper middle
+SVN,2006,higher
+SWE,2006,higher
+SWZ,2006,lower middle
+SYC,2006,upper middle
+SYR,2006,lower middle
+TCD,2006,lower
+TGO,2006,lower
+THA,2006,lower middle
+TJK,2006,lower
+TKM,2006,lower middle
+TLS,2006,lower
+TON,2006,lower middle
+TTO,2006,higher
+TUN,2006,lower middle
+TUR,2006,upper middle
+TWN,2006,higher
+TZA,2006,lower
+UGA,2006,lower
+UKR,2006,lower middle
+URY,2006,upper middle
+USA,2006,higher
+UZB,2006,lower
+VCT,2006,upper middle
+VEN,2006,upper middle
+VIR,2006,higher
+VNM,2006,lower
+VUT,2006,lower middle
+WSM,2006,lower middle
+YEM,2006,lower
+ZAF,2006,upper middle
+ZMB,2006,lower
+ZWE,2006,lower
+ABW,2007,higher
+AFG,2007,lower
+AGO,2007,lower middle
+ALB,2007,lower middle
+AND,2007,higher
+ANT,2007,higher
+ARE,2007,higher
+ARG,2007,upper middle
+ARM,2007,lower middle
+ASM,2007,upper middle
+ATG,2007,higher
+AUS,2007,higher
+AUT,2007,higher
+AZE,2007,lower middle
+BDI,2007,lower
+BEL,2007,higher
+BEN,2007,lower
+BFA,2007,lower
+BGD,2007,lower
+BGR,2007,upper middle
+BHR,2007,higher
+BHS,2007,higher
+BIH,2007,lower middle
+BLR,2007,upper middle
+BLZ,2007,upper middle
+BMU,2007,higher
+BOL,2007,lower middle
+BRA,2007,upper middle
+BRB,2007,higher
+BRN,2007,higher
+BTN,2007,lower middle
+BWA,2007,upper middle
+CAF,2007,lower
+CAN,2007,higher
+CHE,2007,higher
+CHI,2007,higher
+CHL,2007,upper middle
+CHN,2007,lower middle
+CIV,2007,lower
+CMR,2007,lower middle
+COD,2007,lower
+COG,2007,lower middle
+COL,2007,lower middle
+COM,2007,lower
+CPV,2007,lower middle
+CRI,2007,upper middle
+CUB,2007,upper middle
+CYM,2007,higher
+CYP,2007,higher
+CZE,2007,higher
+DEU,2007,higher
+DJI,2007,lower middle
+DMA,2007,upper middle
+DNK,2007,higher
+DOM,2007,lower middle
+DZA,2007,lower middle
+ECU,2007,lower middle
+EGY,2007,lower middle
+ERI,2007,lower
+ESP,2007,higher
+EST,2007,higher
+ETH,2007,lower
+FIN,2007,higher
+FJI,2007,upper middle
+FRA,2007,higher
+FRO,2007,higher
+FSM,2007,lower middle
+GAB,2007,upper middle
+GBR,2007,higher
+GEO,2007,lower middle
+GHA,2007,lower
+GIN,2007,lower
+GMB,2007,lower
+GNB,2007,lower
+GNQ,2007,higher
+GRC,2007,higher
+GRD,2007,upper middle
+GRL,2007,higher
+GTM,2007,lower middle
+GUM,2007,higher
+GUY,2007,lower middle
+HKG,2007,higher
+HND,2007,lower middle
+HRV,2007,upper middle
+HTI,2007,lower
+HUN,2007,higher
+IDN,2007,lower middle
+IMN,2007,higher
+IND,2007,lower middle
+IRL,2007,higher
+IRN,2007,lower middle
+IRQ,2007,lower middle
+ISL,2007,higher
+ISR,2007,higher
+ITA,2007,higher
+JAM,2007,upper middle
+JOR,2007,lower middle
+JPN,2007,higher
+KAZ,2007,upper middle
+KEN,2007,lower
+KGZ,2007,lower
+KHM,2007,lower
+KIR,2007,lower middle
+KNA,2007,upper middle
+KOR,2007,higher
+KWT,2007,higher
+LAO,2007,lower
+LBN,2007,upper middle
+LBR,2007,lower
+LBY,2007,upper middle
+LCA,2007,upper middle
+LIE,2007,higher
+LKA,2007,lower middle
+LSO,2007,lower middle
+LTU,2007,upper middle
+LUX,2007,higher
+LVA,2007,upper middle
+MAC,2007,higher
+MAR,2007,lower middle
+MCO,2007,higher
+MDA,2007,lower middle
+MDG,2007,lower
+MDV,2007,lower middle
+MEX,2007,upper middle
+MHL,2007,lower middle
+MKD,2007,lower middle
+MLI,2007,lower
+MLT,2007,higher
+MMR,2007,lower
+MNE,2007,upper middle
+MNG,2007,lower middle
+MNP,2007,higher
+MOZ,2007,lower
+MRT,2007,lower
+MUS,2007,upper middle
+MWI,2007,lower
+MYS,2007,upper middle
+MYT,2007,upper middle
+NAM,2007,lower middle
+NCL,2007,higher
+NER,2007,lower
+NGA,2007,lower
+NIC,2007,lower middle
+NLD,2007,higher
+NOR,2007,higher
+NPL,2007,lower
+NZL,2007,higher
+OMN,2007,higher
+PAK,2007,lower
+PAN,2007,upper middle
+PER,2007,lower middle
+PHL,2007,lower middle
+PLW,2007,upper middle
+PNG,2007,lower
+POL,2007,upper middle
+PRI,2007,higher
+PRK,2007,lower
+PRT,2007,higher
+PRY,2007,lower middle
+PSE,2007,lower middle
+PYF,2007,higher
+QAT,2007,higher
+ROU,2007,upper middle
+RUS,2007,upper middle
+RWA,2007,lower
+SAU,2007,higher
+SDN,2007,lower middle
+SEN,2007,lower
+SGP,2007,higher
+SLB,2007,lower
+SLE,2007,lower
+SLV,2007,lower middle
+SMR,2007,higher
+SOM,2007,lower
+SRB,2007,upper middle
+STP,2007,lower
+SUR,2007,upper middle
+SVK,2007,higher
+SVN,2007,higher
+SWE,2007,higher
+SWZ,2007,lower middle
+SYC,2007,upper middle
+SYR,2007,lower middle
+TCD,2007,lower
+TGO,2007,lower
+THA,2007,lower middle
+TJK,2007,lower
+TKM,2007,lower middle
+TLS,2007,lower middle
+TON,2007,lower middle
+TTO,2007,higher
+TUN,2007,lower middle
+TUR,2007,upper middle
+TWN,2007,higher
+TZA,2007,lower
+UGA,2007,lower
+UKR,2007,lower middle
+URY,2007,upper middle
+USA,2007,higher
+UZB,2007,lower
+VCT,2007,upper middle
+VEN,2007,upper middle
+VIR,2007,higher
+VNM,2007,lower
+VUT,2007,lower middle
+WSM,2007,lower middle
+YEM,2007,lower
+ZAF,2007,upper middle
+ZMB,2007,lower
+ZWE,2007,lower
+ABW,2008,higher
+AFG,2008,lower
+AGO,2008,lower middle
+ALB,2008,lower middle
+AND,2008,higher
+ANT,2008,higher
+ARE,2008,higher
+ARG,2008,upper middle
+ARM,2008,lower middle
+ASM,2008,upper middle
+ATG,2008,higher
+AUS,2008,higher
+AUT,2008,higher
+AZE,2008,lower middle
+BDI,2008,lower
+BEL,2008,higher
+BEN,2008,lower
+BFA,2008,lower
+BGD,2008,lower
+BGR,2008,upper middle
+BHR,2008,higher
+BHS,2008,higher
+BIH,2008,upper middle
+BLR,2008,upper middle
+BLZ,2008,lower middle
+BMU,2008,higher
+BOL,2008,lower middle
+BRA,2008,upper middle
+BRB,2008,higher
+BRN,2008,higher
+BTN,2008,lower middle
+BWA,2008,upper middle
+CAF,2008,lower
+CAN,2008,higher
+CHE,2008,higher
+CHI,2008,higher
+CHL,2008,upper middle
+CHN,2008,lower middle
+CIV,2008,lower middle
+CMR,2008,lower middle
+COD,2008,lower
+COG,2008,lower middle
+COL,2008,upper middle
+COM,2008,lower
+CPV,2008,lower middle
+CRI,2008,upper middle
+CUB,2008,upper middle
+CYM,2008,higher
+CYP,2008,higher
+CZE,2008,higher
+DEU,2008,higher
+DJI,2008,lower middle
+DMA,2008,upper middle
+DNK,2008,higher
+DOM,2008,upper middle
+DZA,2008,upper middle
+ECU,2008,lower middle
+EGY,2008,lower middle
+ERI,2008,lower
+ESP,2008,higher
+EST,2008,higher
+ETH,2008,lower
+FIN,2008,higher
+FJI,2008,upper middle
+FRA,2008,higher
+FRO,2008,higher
+FSM,2008,lower middle
+GAB,2008,upper middle
+GBR,2008,higher
+GEO,2008,lower middle
+GHA,2008,lower
+GIN,2008,lower
+GMB,2008,lower
+GNB,2008,lower
+GNQ,2008,higher
+GRC,2008,higher
+GRD,2008,upper middle
+GRL,2008,higher
+GTM,2008,lower middle
+GUM,2008,higher
+GUY,2008,lower middle
+HKG,2008,higher
+HND,2008,lower middle
+HRV,2008,higher
+HTI,2008,lower
+HUN,2008,higher
+IDN,2008,lower middle
+IMN,2008,higher
+IND,2008,lower middle
+IRL,2008,higher
+IRN,2008,lower middle
+IRQ,2008,lower middle
+ISL,2008,higher
+ISR,2008,higher
+ITA,2008,higher
+JAM,2008,upper middle
+JOR,2008,lower middle
+JPN,2008,higher
+KAZ,2008,upper middle
+KEN,2008,lower
+KGZ,2008,lower
+KHM,2008,lower
+KIR,2008,lower middle
+KNA,2008,upper middle
+KOR,2008,higher
+KWT,2008,higher
+LAO,2008,lower
+LBN,2008,upper middle
+LBR,2008,lower
+LBY,2008,upper middle
+LCA,2008,upper middle
+LIE,2008,higher
+LKA,2008,lower middle
+LSO,2008,lower middle
+LTU,2008,upper middle
+LUX,2008,higher
+LVA,2008,upper middle
+MAC,2008,higher
+MAR,2008,lower middle
+MCO,2008,higher
+MDA,2008,lower middle
+MDG,2008,lower
+MDV,2008,lower middle
+MEX,2008,upper middle
+MHL,2008,lower middle
+MKD,2008,upper middle
+MLI,2008,lower
+MLT,2008,higher
+MMR,2008,lower
+MNE,2008,upper middle
+MNG,2008,lower middle
+MNP,2008,higher
+MOZ,2008,lower
+MRT,2008,lower
+MUS,2008,upper middle
+MWI,2008,lower
+MYS,2008,upper middle
+MYT,2008,upper middle
+NAM,2008,upper middle
+NCL,2008,higher
+NER,2008,lower
+NGA,2008,lower middle
+NIC,2008,lower middle
+NLD,2008,higher
+NOR,2008,higher
+NPL,2008,lower
+NZL,2008,higher
+OMN,2008,higher
+PAK,2008,lower middle
+PAN,2008,upper middle
+PER,2008,upper middle
+PHL,2008,lower middle
+PLW,2008,upper middle
+PNG,2008,lower middle
+POL,2008,upper middle
+PRI,2008,higher
+PRK,2008,lower
+PRT,2008,higher
+PRY,2008,lower middle
+PSE,2008,lower middle
+PYF,2008,higher
+QAT,2008,higher
+ROU,2008,upper middle
+RUS,2008,upper middle
+RWA,2008,lower
+SAU,2008,higher
+SDN,2008,lower middle
+SEN,2008,lower
+SGP,2008,higher
+SLB,2008,lower middle
+SLE,2008,lower
+SLV,2008,lower middle
+SMR,2008,higher
+SOM,2008,lower
+SRB,2008,upper middle
+STP,2008,lower middle
+SUR,2008,upper middle
+SVK,2008,higher
+SVN,2008,higher
+SWE,2008,higher
+SWZ,2008,lower middle
+SYC,2008,upper middle
+SYR,2008,lower middle
+TCD,2008,lower
+TGO,2008,lower
+THA,2008,lower middle
+TJK,2008,lower
+TKM,2008,lower middle
+TLS,2008,lower middle
+TON,2008,lower middle
+TTO,2008,higher
+TUN,2008,lower middle
+TUR,2008,upper middle
+TWN,2008,higher
+TZA,2008,lower
+UGA,2008,lower
+UKR,2008,lower middle
+URY,2008,upper middle
+USA,2008,higher
+UZB,2008,lower
+VCT,2008,upper middle
+VEN,2008,upper middle
+VIR,2008,higher
+VNM,2008,lower
+VUT,2008,lower middle
+WSM,2008,lower middle
+XKX,2008,lower middle
+YEM,2008,lower
+ZAF,2008,upper middle
+ZMB,2008,lower
+ZWE,2008,lower
+ABW,2009,higher
+AFG,2009,lower
+AGO,2009,lower middle
+ALB,2009,upper middle
+AND,2009,higher
+ANT,2009,higher
+ARE,2009,higher
+ARG,2009,upper middle
+ARM,2009,lower middle
+ASM,2009,upper middle
+ATG,2009,upper middle
+AUS,2009,higher
+AUT,2009,higher
+AZE,2009,upper middle
+BDI,2009,lower
+BEL,2009,higher
+BEN,2009,lower
+BFA,2009,lower
+BGD,2009,lower
+BGR,2009,upper middle
+BHR,2009,higher
+BHS,2009,higher
+BIH,2009,upper middle
+BLR,2009,upper middle
+BLZ,2009,lower middle
+BMU,2009,higher
+BOL,2009,lower middle
+BRA,2009,upper middle
+BRB,2009,higher
+BRN,2009,higher
+BTN,2009,lower middle
+BWA,2009,upper middle
+CAF,2009,lower
+CAN,2009,higher
+CHE,2009,higher
+CHI,2009,higher
+CHL,2009,upper middle
+CHN,2009,lower middle
+CIV,2009,lower middle
+CMR,2009,lower middle
+COD,2009,lower
+COG,2009,lower middle
+COL,2009,upper middle
+COM,2009,lower
+CPV,2009,lower middle
+CRI,2009,upper middle
+CUB,2009,upper middle
+CYM,2009,higher
+CYP,2009,higher
+CZE,2009,higher
+DEU,2009,higher
+DJI,2009,lower middle
+DMA,2009,upper middle
+DNK,2009,higher
+DOM,2009,upper middle
+DZA,2009,upper middle
+ECU,2009,lower middle
+EGY,2009,lower middle
+ERI,2009,lower
+ESP,2009,higher
+EST,2009,higher
+ETH,2009,lower
+FIN,2009,higher
+FJI,2009,upper middle
+FRA,2009,higher
+FRO,2009,higher
+FSM,2009,lower middle
+GAB,2009,upper middle
+GBR,2009,higher
+GEO,2009,lower middle
+GHA,2009,lower
+GIB,2009,higher
+GIN,2009,lower
+GMB,2009,lower
+GNB,2009,lower
+GNQ,2009,higher
+GRC,2009,higher
+GRD,2009,upper middle
+GRL,2009,higher
+GTM,2009,lower middle
+GUM,2009,higher
+GUY,2009,lower middle
+HKG,2009,higher
+HND,2009,lower middle
+HRV,2009,higher
+HTI,2009,lower
+HUN,2009,higher
+IDN,2009,lower middle
+IMN,2009,higher
+IND,2009,lower middle
+IRL,2009,higher
+IRN,2009,upper middle
+IRQ,2009,lower middle
+ISL,2009,higher
+ISR,2009,higher
+ITA,2009,higher
+JAM,2009,upper middle
+JOR,2009,lower middle
+JPN,2009,higher
+KAZ,2009,upper middle
+KEN,2009,lower
+KGZ,2009,lower
+KHM,2009,lower
+KIR,2009,lower middle
+KNA,2009,upper middle
+KOR,2009,higher
+KWT,2009,higher
+LAO,2009,lower
+LBN,2009,upper middle
+LBR,2009,lower
+LBY,2009,upper middle
+LCA,2009,upper middle
+LIE,2009,higher
+LKA,2009,lower middle
+LSO,2009,lower middle
+LTU,2009,upper middle
+LUX,2009,higher
+LVA,2009,higher
+MAC,2009,higher
+MAR,2009,lower middle
+MCO,2009,higher
+MDA,2009,lower middle
+MDG,2009,lower
+MDV,2009,lower middle
+MEX,2009,upper middle
+MHL,2009,lower middle
+MKD,2009,upper middle
+MLI,2009,lower
+MLT,2009,higher
+MMR,2009,lower
+MNE,2009,upper middle
+MNG,2009,lower middle
+MNP,2009,higher
+MOZ,2009,lower
+MRT,2009,lower
+MUS,2009,upper middle
+MWI,2009,lower
+MYS,2009,upper middle
+MYT,2009,upper middle
+NAM,2009,upper middle
+NCL,2009,higher
+NER,2009,lower
+NGA,2009,lower middle
+NIC,2009,lower middle
+NLD,2009,higher
+NOR,2009,higher
+NPL,2009,lower
+NZL,2009,higher
+OMN,2009,higher
+PAK,2009,lower middle
+PAN,2009,upper middle
+PER,2009,upper middle
+PHL,2009,lower middle
+PLW,2009,upper middle
+PNG,2009,lower middle
+POL,2009,higher
+PRI,2009,higher
+PRK,2009,lower
+PRT,2009,higher
+PRY,2009,lower middle
+PSE,2009,lower middle
+PYF,2009,higher
+QAT,2009,higher
+ROU,2009,upper middle
+RUS,2009,upper middle
+RWA,2009,lower
+SAU,2009,higher
+SDN,2009,lower middle
+SEN,2009,lower middle
+SGP,2009,higher
+SLB,2009,lower
+SLE,2009,lower
+SLV,2009,lower middle
+SMR,2009,higher
+SOM,2009,lower
+SRB,2009,upper middle
+STP,2009,lower middle
+SUR,2009,upper middle
+SVK,2009,higher
+SVN,2009,higher
+SWE,2009,higher
+SWZ,2009,lower middle
+SYC,2009,upper middle
+SYR,2009,lower middle
+TCA,2009,higher
+TCD,2009,lower
+TGO,2009,lower
+THA,2009,lower middle
+TJK,2009,lower
+TKM,2009,lower middle
+TLS,2009,lower middle
+TON,2009,lower middle
+TTO,2009,higher
+TUN,2009,lower middle
+TUR,2009,upper middle
+TUV,2009,lower middle
+TWN,2009,higher
+TZA,2009,lower
+UGA,2009,lower
+UKR,2009,lower middle
+URY,2009,upper middle
+USA,2009,higher
+UZB,2009,lower middle
+VCT,2009,upper middle
+VEN,2009,upper middle
+VIR,2009,higher
+VNM,2009,lower middle
+VUT,2009,lower middle
+WSM,2009,lower middle
+XKX,2009,lower middle
+YEM,2009,lower middle
+ZAF,2009,upper middle
+ZMB,2009,lower
+ZWE,2009,lower
+ABW,2010,higher
+AFG,2010,lower
+AGO,2010,lower middle
+ALB,2010,upper middle
+AND,2010,higher
+ARE,2010,higher
+ARG,2010,upper middle
+ARM,2010,lower middle
+ASM,2010,upper middle
+ATG,2010,upper middle
+AUS,2010,higher
+AUT,2010,higher
+AZE,2010,upper middle
+BDI,2010,lower
+BEL,2010,higher
+BEN,2010,lower
+BFA,2010,lower
+BGD,2010,lower
+BGR,2010,upper middle
+BHR,2010,higher
+BHS,2010,higher
+BIH,2010,upper middle
+BLR,2010,upper middle
+BLZ,2010,lower middle
+BMU,2010,higher
+BOL,2010,lower middle
+BRA,2010,upper middle
+BRB,2010,higher
+BRN,2010,higher
+BTN,2010,lower middle
+BWA,2010,upper middle
+CAF,2010,lower
+CAN,2010,higher
+CHE,2010,higher
+CHI,2010,higher
+CHL,2010,upper middle
+CHN,2010,upper middle
+CIV,2010,lower middle
+CMR,2010,lower middle
+COD,2010,lower
+COG,2010,lower middle
+COL,2010,upper middle
+COM,2010,lower
+CPV,2010,lower middle
+CRI,2010,upper middle
+CUB,2010,upper middle
+CUW,2010,higher
+CYM,2010,higher
+CYP,2010,higher
+CZE,2010,higher
+DEU,2010,higher
+DJI,2010,lower middle
+DMA,2010,upper middle
+DNK,2010,higher
+DOM,2010,upper middle
+DZA,2010,upper middle
+ECU,2010,upper middle
+EGY,2010,lower middle
+ERI,2010,lower
+ESP,2010,higher
+EST,2010,higher
+ETH,2010,lower
+FIN,2010,higher
+FJI,2010,lower middle
+FRA,2010,higher
+FRO,2010,higher
+FSM,2010,lower middle
+GAB,2010,upper middle
+GBR,2010,higher
+GEO,2010,lower middle
+GHA,2010,lower middle
+GIB,2010,higher
+GIN,2010,lower
+GMB,2010,lower
+GNB,2010,lower
+GNQ,2010,higher
+GRC,2010,higher
+GRD,2010,upper middle
+GRL,2010,higher
+GTM,2010,lower middle
+GUM,2010,higher
+GUY,2010,lower middle
+HKG,2010,higher
+HND,2010,lower middle
+HRV,2010,higher
+HTI,2010,lower
+HUN,2010,higher
+IDN,2010,lower middle
+IMN,2010,higher
+IND,2010,lower middle
+IRL,2010,higher
+IRN,2010,upper middle
+IRQ,2010,lower middle
+ISL,2010,higher
+ISR,2010,higher
+ITA,2010,higher
+JAM,2010,upper middle
+JOR,2010,upper middle
+JPN,2010,higher
+KAZ,2010,upper middle
+KEN,2010,lower
+KGZ,2010,lower
+KHM,2010,lower
+KIR,2010,lower middle
+KNA,2010,upper middle
+KOR,2010,higher
+KWT,2010,higher
+LAO,2010,lower middle
+LBN,2010,upper middle
+LBR,2010,lower
+LBY,2010,upper middle
+LCA,2010,upper middle
+LIE,2010,higher
+LKA,2010,lower middle
+LSO,2010,lower middle
+LTU,2010,upper middle
+LUX,2010,higher
+LVA,2010,upper middle
+MAC,2010,higher
+MAF,2010,higher
+MAR,2010,lower middle
+MCO,2010,higher
+MDA,2010,lower middle
+MDG,2010,lower
+MDV,2010,upper middle
+MEX,2010,upper middle
+MHL,2010,lower middle
+MKD,2010,upper middle
+MLI,2010,lower
+MLT,2010,higher
+MMR,2010,lower
+MNE,2010,upper middle
+MNG,2010,lower middle
+MNP,2010,higher
+MOZ,2010,lower
+MRT,2010,lower middle
+MUS,2010,upper middle
+MWI,2010,lower
+MYS,2010,upper middle
+MYT,2010,upper middle
+NAM,2010,upper middle
+NCL,2010,higher
+NER,2010,lower
+NGA,2010,lower middle
+NIC,2010,lower middle
+NLD,2010,higher
+NOR,2010,higher
+NPL,2010,lower
+NZL,2010,higher
+OMN,2010,higher
+PAK,2010,lower middle
+PAN,2010,upper middle
+PER,2010,upper middle
+PHL,2010,lower middle
+PLW,2010,upper middle
+PNG,2010,lower middle
+POL,2010,higher
+PRI,2010,higher
+PRK,2010,lower
+PRT,2010,higher
+PRY,2010,lower middle
+PSE,2010,lower middle
+PYF,2010,higher
+QAT,2010,higher
+ROU,2010,upper middle
+RUS,2010,upper middle
+RWA,2010,lower
+SAU,2010,higher
+SDN,2010,lower middle
+SEN,2010,lower middle
+SGP,2010,higher
+SLB,2010,lower middle
+SLE,2010,lower
+SLV,2010,lower middle
+SMR,2010,higher
+SOM,2010,lower
+SRB,2010,upper middle
+STP,2010,lower middle
+SUR,2010,upper middle
+SVK,2010,higher
+SVN,2010,higher
+SWE,2010,higher
+SWZ,2010,lower middle
+SXM,2010,higher
+SYC,2010,upper middle
+SYR,2010,lower middle
+TCA,2010,higher
+TCD,2010,lower
+TGO,2010,lower
+THA,2010,upper middle
+TJK,2010,lower
+TKM,2010,lower middle
+TLS,2010,lower middle
+TON,2010,lower middle
+TTO,2010,higher
+TUN,2010,upper middle
+TUR,2010,upper middle
+TUV,2010,lower middle
+TWN,2010,higher
+TZA,2010,lower
+UGA,2010,lower
+UKR,2010,lower middle
+URY,2010,upper middle
+USA,2010,higher
+UZB,2010,lower middle
+VCT,2010,upper middle
+VEN,2010,upper middle
+VIR,2010,higher
+VNM,2010,lower middle
+VUT,2010,lower middle
+WSM,2010,lower middle
+XKX,2010,lower middle
+YEM,2010,lower middle
+ZAF,2010,upper middle
+ZMB,2010,lower middle
+ZWE,2010,lower
+ABW,2011,higher
+AFG,2011,lower
+AGO,2011,upper middle
+ALB,2011,lower middle
+AND,2011,higher
+ARE,2011,higher
+ARG,2011,upper middle
+ARM,2011,lower middle
+ASM,2011,upper middle
+ATG,2011,upper middle
+AUS,2011,higher
+AUT,2011,higher
+AZE,2011,upper middle
+BDI,2011,lower
+BEL,2011,higher
+BEN,2011,lower
+BFA,2011,lower
+BGD,2011,lower
+BGR,2011,upper middle
+BHR,2011,higher
+BHS,2011,higher
+BIH,2011,upper middle
+BLR,2011,upper middle
+BLZ,2011,lower middle
+BMU,2011,higher
+BOL,2011,lower middle
+BRA,2011,upper middle
+BRB,2011,higher
+BRN,2011,higher
+BTN,2011,lower middle
+BWA,2011,upper middle
+CAF,2011,lower
+CAN,2011,higher
+CHE,2011,higher
+CHI,2011,higher
+CHL,2011,upper middle
+CHN,2011,upper middle
+CIV,2011,lower middle
+CMR,2011,lower middle
+COD,2011,lower
+COG,2011,lower middle
+COL,2011,upper middle
+COM,2011,lower
+CPV,2011,lower middle
+CRI,2011,upper middle
+CUB,2011,upper middle
+CUW,2011,higher
+CYM,2011,higher
+CYP,2011,higher
+CZE,2011,higher
+DEU,2011,higher
+DJI,2011,lower middle
+DMA,2011,upper middle
+DNK,2011,higher
+DOM,2011,upper middle
+DZA,2011,upper middle
+ECU,2011,upper middle
+EGY,2011,lower middle
+ERI,2011,lower
+ESP,2011,higher
+EST,2011,higher
+ETH,2011,lower
+FIN,2011,higher
+FJI,2011,lower middle
+FRA,2011,higher
+FRO,2011,higher
+FSM,2011,lower middle
+GAB,2011,upper middle
+GBR,2011,higher
+GEO,2011,lower middle
+GHA,2011,lower middle
+GIN,2011,lower
+GMB,2011,lower
+GNB,2011,lower
+GNQ,2011,higher
+GRC,2011,higher
+GRD,2011,upper middle
+GRL,2011,higher
+GTM,2011,lower middle
+GUM,2011,higher
+GUY,2011,lower middle
+HKG,2011,higher
+HND,2011,lower middle
+HRV,2011,higher
+HTI,2011,lower
+HUN,2011,higher
+IDN,2011,lower middle
+IMN,2011,higher
+IND,2011,lower middle
+IRL,2011,higher
+IRN,2011,upper middle
+IRQ,2011,lower middle
+ISL,2011,higher
+ISR,2011,higher
+ITA,2011,higher
+JAM,2011,upper middle
+JOR,2011,upper middle
+JPN,2011,higher
+KAZ,2011,upper middle
+KEN,2011,lower
+KGZ,2011,lower
+KHM,2011,lower
+KIR,2011,lower middle
+KNA,2011,higher
+KOR,2011,higher
+KWT,2011,higher
+LAO,2011,lower middle
+LBN,2011,upper middle
+LBR,2011,lower
+LBY,2011,upper middle
+LCA,2011,upper middle
+LIE,2011,higher
+LKA,2011,lower middle
+LSO,2011,lower middle
+LTU,2011,upper middle
+LUX,2011,higher
+LVA,2011,upper middle
+MAC,2011,higher
+MAF,2011,higher
+MAR,2011,lower middle
+MCO,2011,higher
+MDA,2011,lower middle
+MDG,2011,lower
+MDV,2011,upper middle
+MEX,2011,upper middle
+MHL,2011,lower middle
+MKD,2011,upper middle
+MLI,2011,lower
+MLT,2011,higher
+MMR,2011,lower
+MNE,2011,upper middle
+MNG,2011,lower middle
+MNP,2011,higher
+MOZ,2011,lower
+MRT,2011,lower
+MUS,2011,upper middle
+MWI,2011,lower
+MYS,2011,upper middle
+NAM,2011,upper middle
+NCL,2011,higher
+NER,2011,lower
+NGA,2011,lower middle
+NIC,2011,lower middle
+NLD,2011,higher
+NOR,2011,higher
+NPL,2011,lower
+NZL,2011,higher
+OMN,2011,higher
+PAK,2011,lower middle
+PAN,2011,upper middle
+PER,2011,upper middle
+PHL,2011,lower middle
+PLW,2011,upper middle
+PNG,2011,lower middle
+POL,2011,higher
+PRI,2011,higher
+PRK,2011,lower
+PRT,2011,higher
+PRY,2011,lower middle
+PSE,2011,lower middle
+PYF,2011,higher
+QAT,2011,higher
+ROU,2011,upper middle
+RUS,2011,upper middle
+RWA,2011,lower
+SAU,2011,higher
+SDN,2011,lower middle
+SEN,2011,lower middle
+SGP,2011,higher
+SLB,2011,lower middle
+SLE,2011,lower
+SLV,2011,lower middle
+SMR,2011,higher
+SOM,2011,lower
+SRB,2011,upper middle
+SSD,2011,lower middle
+STP,2011,lower middle
+SUR,2011,upper middle
+SVK,2011,higher
+SVN,2011,higher
+SWE,2011,higher
+SWZ,2011,lower middle
+SXM,2011,higher
+SYC,2011,upper middle
+SYR,2011,lower middle
+TCA,2011,higher
+TCD,2011,lower
+TGO,2011,lower
+THA,2011,upper middle
+TJK,2011,lower
+TKM,2011,upper middle
+TLS,2011,lower middle
+TON,2011,lower middle
+TTO,2011,higher
+TUN,2011,upper middle
+TUR,2011,upper middle
+TUV,2011,upper middle
+TWN,2011,higher
+TZA,2011,lower
+UGA,2011,lower
+UKR,2011,lower middle
+URY,2011,upper middle
+USA,2011,higher
+UZB,2011,lower middle
+VCT,2011,upper middle
+VEN,2011,upper middle
+VIR,2011,higher
+VNM,2011,lower middle
+VUT,2011,lower middle
+WSM,2011,lower middle
+XKX,2011,lower middle
+YEM,2011,lower middle
+ZAF,2011,upper middle
+ZMB,2011,lower middle
+ZWE,2011,lower
+ABW,2012,higher
+AFG,2012,lower
+AGO,2012,upper middle
+ALB,2012,upper middle
+AND,2012,higher
+ARE,2012,higher
+ARG,2012,upper middle
+ARM,2012,lower middle
+ASM,2012,upper middle
+ATG,2012,higher
+AUS,2012,higher
+AUT,2012,higher
+AZE,2012,upper middle
+BDI,2012,lower
+BEL,2012,higher
+BEN,2012,lower
+BFA,2012,lower
+BGD,2012,lower
+BGR,2012,upper middle
+BHR,2012,higher
+BHS,2012,higher
+BIH,2012,upper middle
+BLR,2012,upper middle
+BLZ,2012,upper middle
+BMU,2012,higher
+BOL,2012,lower middle
+BRA,2012,upper middle
+BRB,2012,higher
+BRN,2012,higher
+BTN,2012,lower middle
+BWA,2012,upper middle
+CAF,2012,lower
+CAN,2012,higher
+CHE,2012,higher
+CHI,2012,higher
+CHL,2012,higher
+CHN,2012,upper middle
+CIV,2012,lower middle
+CMR,2012,lower middle
+COD,2012,lower
+COG,2012,lower middle
+COL,2012,upper middle
+COM,2012,lower
+CPV,2012,lower middle
+CRI,2012,upper middle
+CUB,2012,upper middle
+CUW,2012,higher
+CYM,2012,higher
+CYP,2012,higher
+CZE,2012,higher
+DEU,2012,higher
+DJI,2012,lower middle
+DMA,2012,upper middle
+DNK,2012,higher
+DOM,2012,upper middle
+DZA,2012,upper middle
+ECU,2012,upper middle
+EGY,2012,lower middle
+ERI,2012,lower
+ESP,2012,higher
+EST,2012,higher
+ETH,2012,lower
+FIN,2012,higher
+FJI,2012,upper middle
+FRA,2012,higher
+FRO,2012,higher
+FSM,2012,lower middle
+GAB,2012,upper middle
+GBR,2012,higher
+GEO,2012,lower middle
+GHA,2012,lower middle
+GIN,2012,lower
+GMB,2012,lower
+GNB,2012,lower
+GNQ,2012,higher
+GRC,2012,higher
+GRD,2012,upper middle
+GRL,2012,higher
+GTM,2012,lower middle
+GUM,2012,higher
+GUY,2012,lower middle
+HKG,2012,higher
+HND,2012,lower middle
+HRV,2012,higher
+HTI,2012,lower
+HUN,2012,upper middle
+IDN,2012,lower middle
+IMN,2012,higher
+IND,2012,lower middle
+IRL,2012,higher
+IRN,2012,upper middle
+IRQ,2012,upper middle
+ISL,2012,higher
+ISR,2012,higher
+ITA,2012,higher
+JAM,2012,upper middle
+JOR,2012,upper middle
+JPN,2012,higher
+KAZ,2012,upper middle
+KEN,2012,lower
+KGZ,2012,lower
+KHM,2012,lower
+KIR,2012,lower middle
+KNA,2012,higher
+KOR,2012,higher
+KWT,2012,higher
+LAO,2012,lower middle
+LBN,2012,upper middle
+LBR,2012,lower
+LBY,2012,upper middle
+LCA,2012,upper middle
+LIE,2012,higher
+LKA,2012,lower middle
+LSO,2012,lower middle
+LTU,2012,higher
+LUX,2012,higher
+LVA,2012,higher
+MAC,2012,higher
+MAF,2012,higher
+MAR,2012,lower middle
+MCO,2012,higher
+MDA,2012,lower middle
+MDG,2012,lower
+MDV,2012,upper middle
+MEX,2012,upper middle
+MHL,2012,upper middle
+MKD,2012,upper middle
+MLI,2012,lower
+MLT,2012,higher
+MMR,2012,lower
+MNE,2012,upper middle
+MNG,2012,lower middle
+MNP,2012,higher
+MOZ,2012,lower
+MRT,2012,lower middle
+MUS,2012,upper middle
+MWI,2012,lower
+MYS,2012,upper middle
+NAM,2012,upper middle
+NCL,2012,higher
+NER,2012,lower
+NGA,2012,lower middle
+NIC,2012,lower middle
+NLD,2012,higher
+NOR,2012,higher
+NPL,2012,lower
+NZL,2012,higher
+OMN,2012,higher
+PAK,2012,lower middle
+PAN,2012,upper middle
+PER,2012,upper middle
+PHL,2012,lower middle
+PLW,2012,upper middle
+PNG,2012,lower middle
+POL,2012,higher
+PRI,2012,higher
+PRK,2012,lower
+PRT,2012,higher
+PRY,2012,lower middle
+PSE,2012,lower middle
+PYF,2012,higher
+QAT,2012,higher
+ROU,2012,upper middle
+RUS,2012,higher
+RWA,2012,lower
+SAU,2012,higher
+SDN,2012,lower middle
+SEN,2012,lower middle
+SGP,2012,higher
+SLB,2012,lower middle
+SLE,2012,lower
+SLV,2012,lower middle
+SMR,2012,higher
+SOM,2012,lower
+SRB,2012,upper middle
+SSD,2012,lower
+STP,2012,lower middle
+SUR,2012,upper middle
+SVK,2012,higher
+SVN,2012,higher
+SWE,2012,higher
+SWZ,2012,lower middle
+SXM,2012,higher
+SYC,2012,upper middle
+SYR,2012,lower middle
+TCA,2012,higher
+TCD,2012,lower
+TGO,2012,lower
+THA,2012,upper middle
+TJK,2012,lower
+TKM,2012,upper middle
+TLS,2012,lower middle
+TON,2012,upper middle
+TTO,2012,higher
+TUN,2012,upper middle
+TUR,2012,upper middle
+TUV,2012,upper middle
+TWN,2012,higher
+TZA,2012,lower
+UGA,2012,lower
+UKR,2012,lower middle
+URY,2012,higher
+USA,2012,higher
+UZB,2012,lower middle
+VCT,2012,upper middle
+VEN,2012,upper middle
+VIR,2012,higher
+VNM,2012,lower middle
+VUT,2012,lower middle
+WSM,2012,lower middle
+XKX,2012,lower middle
+YEM,2012,lower middle
+ZAF,2012,upper middle
+ZMB,2012,lower middle
+ZWE,2012,lower
+ABW,2013,higher
+AFG,2013,lower
+AGO,2013,upper middle
+ALB,2013,upper middle
+AND,2013,higher
+ARE,2013,higher
+ARG,2013,upper middle
+ARM,2013,lower middle
+ASM,2013,upper middle
+ATG,2013,higher
+AUS,2013,higher
+AUT,2013,higher
+AZE,2013,upper middle
+BDI,2013,lower
+BEL,2013,higher
+BEN,2013,lower
+BFA,2013,lower
+BGD,2013,lower
+BGR,2013,upper middle
+BHR,2013,higher
+BHS,2013,higher
+BIH,2013,upper middle
+BLR,2013,upper middle
+BLZ,2013,upper middle
+BMU,2013,higher
+BOL,2013,lower middle
+BRA,2013,upper middle
+BRB,2013,higher
+BRN,2013,higher
+BTN,2013,lower middle
+BWA,2013,upper middle
+CAF,2013,lower
+CAN,2013,higher
+CHE,2013,higher
+CHI,2013,higher
+CHL,2013,higher
+CHN,2013,upper middle
+CIV,2013,lower middle
+CMR,2013,lower middle
+COD,2013,lower
+COG,2013,lower middle
+COL,2013,upper middle
+COM,2013,lower
+CPV,2013,lower middle
+CRI,2013,upper middle
+CUB,2013,upper middle
+CUW,2013,higher
+CYM,2013,higher
+CYP,2013,higher
+CZE,2013,higher
+DEU,2013,higher
+DJI,2013,lower middle
+DMA,2013,upper middle
+DNK,2013,higher
+DOM,2013,upper middle
+DZA,2013,upper middle
+ECU,2013,upper middle
+EGY,2013,lower middle
+ERI,2013,lower
+ESP,2013,higher
+EST,2013,higher
+ETH,2013,lower
+FIN,2013,higher
+FJI,2013,upper middle
+FRA,2013,higher
+FRO,2013,higher
+FSM,2013,lower middle
+GAB,2013,upper middle
+GBR,2013,higher
+GEO,2013,lower middle
+GHA,2013,lower middle
+GIN,2013,lower
+GMB,2013,lower
+GNB,2013,lower
+GNQ,2013,higher
+GRC,2013,higher
+GRD,2013,upper middle
+GRL,2013,higher
+GTM,2013,lower middle
+GUM,2013,higher
+GUY,2013,lower middle
+HKG,2013,higher
+HND,2013,lower middle
+HRV,2013,higher
+HTI,2013,lower
+HUN,2013,upper middle
+IDN,2013,lower middle
+IMN,2013,higher
+IND,2013,lower middle
+IRL,2013,higher
+IRN,2013,upper middle
+IRQ,2013,upper middle
+ISL,2013,higher
+ISR,2013,higher
+ITA,2013,higher
+JAM,2013,upper middle
+JOR,2013,upper middle
+JPN,2013,higher
+KAZ,2013,upper middle
+KEN,2013,lower
+KGZ,2013,lower middle
+KHM,2013,lower
+KIR,2013,lower middle
+KNA,2013,higher
+KOR,2013,higher
+KWT,2013,higher
+LAO,2013,lower middle
+LBN,2013,upper middle
+LBR,2013,lower
+LBY,2013,upper middle
+LCA,2013,upper middle
+LIE,2013,higher
+LKA,2013,lower middle
+LSO,2013,lower middle
+LTU,2013,higher
+LUX,2013,higher
+LVA,2013,higher
+MAC,2013,higher
+MAF,2013,higher
+MAR,2013,lower middle
+MCO,2013,higher
+MDA,2013,lower middle
+MDG,2013,lower
+MDV,2013,upper middle
+MEX,2013,upper middle
+MHL,2013,upper middle
+MKD,2013,upper middle
+MLI,2013,lower
+MLT,2013,higher
+MMR,2013,lower
+MNE,2013,upper middle
+MNG,2013,lower middle
+MNP,2013,higher
+MOZ,2013,lower
+MRT,2013,lower middle
+MUS,2013,upper middle
+MWI,2013,lower
+MYS,2013,upper middle
+NAM,2013,upper middle
+NCL,2013,higher
+NER,2013,lower
+NGA,2013,lower middle
+NIC,2013,lower middle
+NLD,2013,higher
+NOR,2013,higher
+NPL,2013,lower
+NZL,2013,higher
+OMN,2013,higher
+PAK,2013,lower middle
+PAN,2013,upper middle
+PER,2013,upper middle
+PHL,2013,lower middle
+PLW,2013,upper middle
+PNG,2013,lower middle
+POL,2013,higher
+PRI,2013,higher
+PRK,2013,lower
+PRT,2013,higher
+PRY,2013,lower middle
+PSE,2013,lower middle
+PYF,2013,higher
+QAT,2013,higher
+ROU,2013,upper middle
+RUS,2013,higher
+RWA,2013,lower
+SAU,2013,higher
+SDN,2013,lower middle
+SEN,2013,lower middle
+SGP,2013,higher
+SLB,2013,lower middle
+SLE,2013,lower
+SLV,2013,lower middle
+SMR,2013,higher
+SOM,2013,lower
+SRB,2013,upper middle
+SSD,2013,lower middle
+STP,2013,lower middle
+SUR,2013,upper middle
+SVK,2013,higher
+SVN,2013,higher
+SWE,2013,higher
+SWZ,2013,lower middle
+SXM,2013,higher
+SYC,2013,upper middle
+SYR,2013,lower middle
+TCA,2013,higher
+TCD,2013,lower
+TGO,2013,lower
+THA,2013,upper middle
+TJK,2013,lower
+TKM,2013,upper middle
+TLS,2013,lower middle
+TON,2013,upper middle
+TTO,2013,higher
+TUN,2013,upper middle
+TUR,2013,upper middle
+TUV,2013,upper middle
+TWN,2013,higher
+TZA,2013,lower
+UGA,2013,lower
+UKR,2013,lower middle
+URY,2013,higher
+USA,2013,higher
+UZB,2013,lower middle
+VCT,2013,upper middle
+VEN,2013,upper middle
+VIR,2013,higher
+VNM,2013,lower middle
+VUT,2013,lower middle
+WSM,2013,lower middle
+XKX,2013,lower middle
+YEM,2013,lower middle
+ZAF,2013,upper middle
+ZMB,2013,lower middle
+ZWE,2013,lower
+ABW,2014,higher
+AFG,2014,lower
+AGO,2014,upper middle
+ALB,2014,upper middle
+AND,2014,higher
+ARE,2014,higher
+ARG,2014,higher
+ARM,2014,lower middle
+ASM,2014,upper middle
+ATG,2014,higher
+AUS,2014,higher
+AUT,2014,higher
+AZE,2014,upper middle
+BDI,2014,lower
+BEL,2014,higher
+BEN,2014,lower
+BFA,2014,lower
+BGD,2014,lower middle
+BGR,2014,upper middle
+BHR,2014,higher
+BHS,2014,higher
+BIH,2014,upper middle
+BLR,2014,upper middle
+BLZ,2014,upper middle
+BMU,2014,higher
+BOL,2014,lower middle
+BRA,2014,upper middle
+BRB,2014,higher
+BRN,2014,higher
+BTN,2014,lower middle
+BWA,2014,upper middle
+CAF,2014,lower
+CAN,2014,higher
+CHE,2014,higher
+CHI,2014,higher
+CHL,2014,higher
+CHN,2014,upper middle
+CIV,2014,lower middle
+CMR,2014,lower middle
+COD,2014,lower
+COG,2014,lower middle
+COL,2014,upper middle
+COM,2014,lower
+CPV,2014,lower middle
+CRI,2014,upper middle
+CUB,2014,upper middle
+CUW,2014,higher
+CYM,2014,higher
+CYP,2014,higher
+CZE,2014,higher
+DEU,2014,higher
+DJI,2014,lower middle
+DMA,2014,upper middle
+DNK,2014,higher
+DOM,2014,upper middle
+DZA,2014,upper middle
+ECU,2014,upper middle
+EGY,2014,lower middle
+ERI,2014,lower
+ESP,2014,higher
+EST,2014,higher
+ETH,2014,lower
+FIN,2014,higher
+FJI,2014,upper middle
+FRA,2014,higher
+FRO,2014,higher
+FSM,2014,lower middle
+GAB,2014,upper middle
+GBR,2014,higher
+GEO,2014,lower middle
+GHA,2014,lower middle
+GIN,2014,lower
+GMB,2014,lower
+GNB,2014,lower
+GNQ,2014,higher
+GRC,2014,higher
+GRD,2014,upper middle
+GRL,2014,higher
+GTM,2014,lower middle
+GUM,2014,higher
+GUY,2014,lower middle
+HKG,2014,higher
+HND,2014,lower middle
+HRV,2014,higher
+HTI,2014,lower
+HUN,2014,higher
+IDN,2014,lower middle
+IMN,2014,higher
+IND,2014,lower middle
+IRL,2014,higher
+IRN,2014,upper middle
+IRQ,2014,upper middle
+ISL,2014,higher
+ISR,2014,higher
+ITA,2014,higher
+JAM,2014,upper middle
+JOR,2014,upper middle
+JPN,2014,higher
+KAZ,2014,upper middle
+KEN,2014,lower middle
+KGZ,2014,lower middle
+KHM,2014,lower
+KIR,2014,lower middle
+KNA,2014,higher
+KOR,2014,higher
+KWT,2014,higher
+LAO,2014,lower middle
+LBN,2014,upper middle
+LBR,2014,lower
+LBY,2014,upper middle
+LCA,2014,upper middle
+LIE,2014,higher
+LKA,2014,lower middle
+LSO,2014,lower middle
+LTU,2014,higher
+LUX,2014,higher
+LVA,2014,higher
+MAC,2014,higher
+MAF,2014,higher
+MAR,2014,lower middle
+MCO,2014,higher
+MDA,2014,lower middle
+MDG,2014,lower
+MDV,2014,upper middle
+MEX,2014,upper middle
+MHL,2014,upper middle
+MKD,2014,upper middle
+MLI,2014,lower
+MLT,2014,higher
+MMR,2014,lower middle
+MNE,2014,upper middle
+MNG,2014,upper middle
+MNP,2014,higher
+MOZ,2014,lower
+MRT,2014,lower middle
+MUS,2014,upper middle
+MWI,2014,lower
+MYS,2014,upper middle
+NAM,2014,upper middle
+NCL,2014,higher
+NER,2014,lower
+NGA,2014,lower middle
+NIC,2014,lower middle
+NLD,2014,higher
+NOR,2014,higher
+NPL,2014,lower
+NZL,2014,higher
+OMN,2014,higher
+PAK,2014,lower middle
+PAN,2014,upper middle
+PER,2014,upper middle
+PHL,2014,lower middle
+PLW,2014,upper middle
+PNG,2014,lower middle
+POL,2014,higher
+PRI,2014,higher
+PRK,2014,lower
+PRT,2014,higher
+PRY,2014,upper middle
+PSE,2014,lower middle
+PYF,2014,higher
+QAT,2014,higher
+ROU,2014,upper middle
+RUS,2014,higher
+RWA,2014,lower
+SAU,2014,higher
+SDN,2014,lower middle
+SEN,2014,lower middle
+SGP,2014,higher
+SLB,2014,lower middle
+SLE,2014,lower
+SLV,2014,lower middle
+SMR,2014,higher
+SOM,2014,lower
+SRB,2014,upper middle
+SSD,2014,lower
+STP,2014,lower middle
+SUR,2014,upper middle
+SVK,2014,higher
+SVN,2014,higher
+SWE,2014,higher
+SWZ,2014,lower middle
+SXM,2014,higher
+SYC,2014,higher
+SYR,2014,lower middle
+TCA,2014,higher
+TCD,2014,lower
+TGO,2014,lower
+THA,2014,upper middle
+TJK,2014,lower middle
+TKM,2014,upper middle
+TLS,2014,lower middle
+TON,2014,upper middle
+TTO,2014,higher
+TUN,2014,upper middle
+TUR,2014,upper middle
+TUV,2014,upper middle
+TWN,2014,higher
+TZA,2014,lower
+UGA,2014,lower
+UKR,2014,lower middle
+URY,2014,higher
+USA,2014,higher
+UZB,2014,lower middle
+VCT,2014,upper middle
+VEN,2014,higher
+VIR,2014,higher
+VNM,2014,lower middle
+VUT,2014,lower middle
+WSM,2014,lower middle
+XKX,2014,lower middle
+YEM,2014,lower middle
+ZAF,2014,upper middle
+ZMB,2014,lower middle
+ZWE,2014,lower
+ABW,2015,higher
+AFG,2015,lower
+AGO,2015,upper middle
+ALB,2015,upper middle
+AND,2015,higher
+ARE,2015,higher
+ARG,2015,upper middle
+ARM,2015,lower middle
+ASM,2015,upper middle
+ATG,2015,higher
+AUS,2015,higher
+AUT,2015,higher
+AZE,2015,upper middle
+BDI,2015,lower
+BEL,2015,higher
+BEN,2015,lower
+BFA,2015,lower
+BGD,2015,lower middle
+BGR,2015,upper middle
+BHR,2015,higher
+BHS,2015,higher
+BIH,2015,upper middle
+BLR,2015,upper middle
+BLZ,2015,upper middle
+BMU,2015,higher
+BOL,2015,lower middle
+BRA,2015,upper middle
+BRB,2015,higher
+BRN,2015,higher
+BTN,2015,lower middle
+BWA,2015,upper middle
+CAF,2015,lower
+CAN,2015,higher
+CHE,2015,higher
+CHI,2015,higher
+CHL,2015,higher
+CHN,2015,upper middle
+CIV,2015,lower middle
+CMR,2015,lower middle
+COD,2015,lower
+COG,2015,lower middle
+COL,2015,upper middle
+COM,2015,lower
+CPV,2015,lower middle
+CRI,2015,upper middle
+CUB,2015,upper middle
+CUW,2015,higher
+CYM,2015,higher
+CYP,2015,higher
+CZE,2015,higher
+DEU,2015,higher
+DJI,2015,lower middle
+DMA,2015,upper middle
+DNK,2015,higher
+DOM,2015,upper middle
+DZA,2015,upper middle
+ECU,2015,upper middle
+EGY,2015,lower middle
+ERI,2015,lower
+ESP,2015,higher
+EST,2015,higher
+ETH,2015,lower
+FIN,2015,higher
+FJI,2015,upper middle
+FRA,2015,higher
+FRO,2015,higher
+FSM,2015,lower middle
+GAB,2015,upper middle
+GBR,2015,higher
+GEO,2015,upper middle
+GHA,2015,lower middle
+GIB,2015,higher
+GIN,2015,lower
+GMB,2015,lower
+GNB,2015,lower
+GNQ,2015,upper middle
+GRC,2015,higher
+GRD,2015,upper middle
+GRL,2015,higher
+GTM,2015,lower middle
+GUM,2015,higher
+GUY,2015,upper middle
+HKG,2015,higher
+HND,2015,lower middle
+HRV,2015,higher
+HTI,2015,lower
+HUN,2015,higher
+IDN,2015,lower middle
+IMN,2015,higher
+IND,2015,lower middle
+IRL,2015,higher
+IRN,2015,upper middle
+IRQ,2015,upper middle
+ISL,2015,higher
+ISR,2015,higher
+ITA,2015,higher
+JAM,2015,upper middle
+JOR,2015,upper middle
+JPN,2015,higher
+KAZ,2015,upper middle
+KEN,2015,lower middle
+KGZ,2015,lower middle
+KHM,2015,lower middle
+KIR,2015,lower middle
+KNA,2015,higher
+KOR,2015,higher
+KWT,2015,higher
+LAO,2015,lower middle
+LBN,2015,upper middle
+LBR,2015,lower
+LBY,2015,upper middle
+LCA,2015,upper middle
+LIE,2015,higher
+LKA,2015,lower middle
+LSO,2015,lower middle
+LTU,2015,higher
+LUX,2015,higher
+LVA,2015,higher
+MAC,2015,higher
+MAF,2015,higher
+MAR,2015,lower middle
+MCO,2015,higher
+MDA,2015,lower middle
+MDG,2015,lower
+MDV,2015,upper middle
+MEX,2015,upper middle
+MHL,2015,upper middle
+MKD,2015,upper middle
+MLI,2015,lower
+MLT,2015,higher
+MMR,2015,lower middle
+MNE,2015,upper middle
+MNG,2015,lower middle
+MNP,2015,higher
+MOZ,2015,lower
+MRT,2015,lower middle
+MUS,2015,upper middle
+MWI,2015,lower
+MYS,2015,upper middle
+NAM,2015,upper middle
+NCL,2015,higher
+NER,2015,lower
+NGA,2015,lower middle
+NIC,2015,lower middle
+NLD,2015,higher
+NOR,2015,higher
+NPL,2015,lower
+NRU,2015,higher
+NZL,2015,higher
+OMN,2015,higher
+PAK,2015,lower middle
+PAN,2015,upper middle
+PER,2015,upper middle
+PHL,2015,lower middle
+PLW,2015,upper middle
+PNG,2015,lower middle
+POL,2015,higher
+PRI,2015,higher
+PRK,2015,lower
+PRT,2015,higher
+PRY,2015,upper middle
+PSE,2015,lower middle
+PYF,2015,higher
+QAT,2015,higher
+ROU,2015,upper middle
+RUS,2015,upper middle
+RWA,2015,lower
+SAU,2015,higher
+SDN,2015,lower middle
+SEN,2015,lower
+SGP,2015,higher
+SLB,2015,lower middle
+SLE,2015,lower
+SLV,2015,lower middle
+SMR,2015,higher
+SOM,2015,lower
+SRB,2015,upper middle
+SSD,2015,lower
+STP,2015,lower middle
+SUR,2015,upper middle
+SVK,2015,higher
+SVN,2015,higher
+SWE,2015,higher
+SWZ,2015,lower middle
+SXM,2015,higher
+SYC,2015,higher
+SYR,2015,lower middle
+TCA,2015,higher
+TCD,2015,lower
+TGO,2015,lower
+THA,2015,upper middle
+TJK,2015,lower middle
+TKM,2015,upper middle
+TLS,2015,lower middle
+TON,2015,lower middle
+TTO,2015,higher
+TUN,2015,lower middle
+TUR,2015,upper middle
+TUV,2015,upper middle
+TWN,2015,higher
+TZA,2015,lower
+UGA,2015,lower
+UKR,2015,lower middle
+URY,2015,higher
+USA,2015,higher
+UZB,2015,lower middle
+VCT,2015,upper middle
+VEN,2015,upper middle
+VGB,2015,higher
+VIR,2015,higher
+VNM,2015,lower middle
+VUT,2015,lower middle
+WSM,2015,lower middle
+XKX,2015,lower middle
+YEM,2015,lower middle
+ZAF,2015,upper middle
+ZMB,2015,lower middle
+ZWE,2015,lower
+ABW,2016,higher
+AFG,2016,lower
+AGO,2016,lower middle
+ALB,2016,upper middle
+AND,2016,higher
+ARE,2016,higher
+ARG,2016,upper middle
+ARM,2016,lower middle
+ASM,2016,upper middle
+ATG,2016,higher
+AUS,2016,higher
+AUT,2016,higher
+AZE,2016,upper middle
+BDI,2016,lower
+BEL,2016,higher
+BEN,2016,lower
+BFA,2016,lower
+BGD,2016,lower middle
+BGR,2016,upper middle
+BHR,2016,higher
+BHS,2016,higher
+BIH,2016,upper middle
+BLR,2016,upper middle
+BLZ,2016,upper middle
+BMU,2016,higher
+BOL,2016,lower middle
+BRA,2016,upper middle
+BRB,2016,higher
+BRN,2016,higher
+BTN,2016,lower middle
+BWA,2016,upper middle
+CAF,2016,lower
+CAN,2016,higher
+CHE,2016,higher
+CHI,2016,higher
+CHL,2016,higher
+CHN,2016,upper middle
+CIV,2016,lower middle
+CMR,2016,lower middle
+COD,2016,lower
+COG,2016,lower middle
+COL,2016,upper middle
+COM,2016,lower
+CPV,2016,lower middle
+CRI,2016,upper middle
+CUB,2016,upper middle
+CUW,2016,higher
+CYM,2016,higher
+CYP,2016,higher
+CZE,2016,higher
+DEU,2016,higher
+DJI,2016,lower middle
+DMA,2016,upper middle
+DNK,2016,higher
+DOM,2016,upper middle
+DZA,2016,upper middle
+ECU,2016,upper middle
+EGY,2016,lower middle
+ERI,2016,lower
+ESP,2016,higher
+EST,2016,higher
+ETH,2016,lower
+FIN,2016,higher
+FJI,2016,upper middle
+FRA,2016,higher
+FRO,2016,higher
+FSM,2016,lower middle
+GAB,2016,upper middle
+GBR,2016,higher
+GEO,2016,lower middle
+GHA,2016,lower middle
+GIB,2016,higher
+GIN,2016,lower
+GMB,2016,lower
+GNB,2016,lower
+GNQ,2016,upper middle
+GRC,2016,higher
+GRD,2016,upper middle
+GRL,2016,higher
+GTM,2016,lower middle
+GUM,2016,higher
+GUY,2016,upper middle
+HKG,2016,higher
+HND,2016,lower middle
+HRV,2016,upper middle
+HTI,2016,lower
+HUN,2016,higher
+IDN,2016,lower middle
+IMN,2016,higher
+IND,2016,lower middle
+IRL,2016,higher
+IRN,2016,upper middle
+IRQ,2016,upper middle
+ISL,2016,higher
+ISR,2016,higher
+ITA,2016,higher
+JAM,2016,upper middle
+JOR,2016,lower middle
+JPN,2016,higher
+KAZ,2016,upper middle
+KEN,2016,lower middle
+KGZ,2016,lower middle
+KHM,2016,lower middle
+KIR,2016,lower middle
+KNA,2016,higher
+KOR,2016,higher
+KWT,2016,higher
+LAO,2016,lower middle
+LBN,2016,upper middle
+LBR,2016,lower
+LBY,2016,upper middle
+LCA,2016,upper middle
+LIE,2016,higher
+LKA,2016,lower middle
+LSO,2016,lower middle
+LTU,2016,higher
+LUX,2016,higher
+LVA,2016,higher
+MAC,2016,higher
+MAF,2016,higher
+MAR,2016,lower middle
+MCO,2016,higher
+MDA,2016,lower middle
+MDG,2016,lower
+MDV,2016,upper middle
+MEX,2016,upper middle
+MHL,2016,upper middle
+MKD,2016,upper middle
+MLI,2016,lower
+MLT,2016,higher
+MMR,2016,lower middle
+MNE,2016,upper middle
+MNG,2016,lower middle
+MNP,2016,higher
+MOZ,2016,lower
+MRT,2016,lower middle
+MUS,2016,upper middle
+MWI,2016,lower
+MYS,2016,upper middle
+NAM,2016,upper middle
+NCL,2016,higher
+NER,2016,lower
+NGA,2016,lower middle
+NIC,2016,lower middle
+NLD,2016,higher
+NOR,2016,higher
+NPL,2016,lower
+NRU,2016,upper middle
+NZL,2016,higher
+OMN,2016,higher
+PAK,2016,lower middle
+PAN,2016,upper middle
+PER,2016,upper middle
+PHL,2016,lower middle
+PLW,2016,higher
+PNG,2016,lower middle
+POL,2016,higher
+PRI,2016,higher
+PRK,2016,lower
+PRT,2016,higher
+PRY,2016,upper middle
+PSE,2016,lower middle
+PYF,2016,higher
+QAT,2016,higher
+ROU,2016,upper middle
+RUS,2016,upper middle
+RWA,2016,lower
+SAU,2016,higher
+SDN,2016,lower middle
+SEN,2016,lower
+SGP,2016,higher
+SLB,2016,lower middle
+SLE,2016,lower
+SLV,2016,lower middle
+SMR,2016,higher
+SOM,2016,lower
+SRB,2016,upper middle
+SSD,2016,lower
+STP,2016,lower middle
+SUR,2016,upper middle
+SVK,2016,higher
+SVN,2016,higher
+SWE,2016,higher
+SWZ,2016,lower middle
+SXM,2016,higher
+SYC,2016,higher
+SYR,2016,lower middle
+TCA,2016,higher
+TCD,2016,lower
+TGO,2016,lower
+THA,2016,upper middle
+TJK,2016,lower middle
+TKM,2016,upper middle
+TLS,2016,lower middle
+TON,2016,upper middle
+TTO,2016,higher
+TUN,2016,lower middle
+TUR,2016,upper middle
+TUV,2016,upper middle
+TWN,2016,higher
+TZA,2016,lower
+UGA,2016,lower
+UKR,2016,lower middle
+URY,2016,higher
+USA,2016,higher
+UZB,2016,lower middle
+VCT,2016,upper middle
+VEN,2016,upper middle
+VGB,2016,higher
+VIR,2016,higher
+VNM,2016,lower middle
+VUT,2016,lower middle
+WSM,2016,upper middle
+XKX,2016,lower middle
+YEM,2016,lower middle
+ZAF,2016,upper middle
+ZMB,2016,lower middle
+ZWE,2016,lower
+ABW,2017,higher
+AFG,2017,lower
+AGO,2017,lower middle
+ALB,2017,upper middle
+AND,2017,higher
+ARE,2017,higher
+ARG,2017,higher
+ARM,2017,upper middle
+ASM,2017,upper middle
+ATG,2017,higher
+AUS,2017,higher
+AUT,2017,higher
+AZE,2017,upper middle
+BDI,2017,lower
+BEL,2017,higher
+BEN,2017,lower
+BFA,2017,lower
+BGD,2017,lower middle
+BGR,2017,upper middle
+BHR,2017,higher
+BHS,2017,higher
+BIH,2017,upper middle
+BLR,2017,upper middle
+BLZ,2017,upper middle
+BMU,2017,higher
+BOL,2017,lower middle
+BRA,2017,upper middle
+BRB,2017,higher
+BRN,2017,higher
+BTN,2017,lower middle
+BWA,2017,upper middle
+CAF,2017,lower
+CAN,2017,higher
+CHE,2017,higher
+CHI,2017,higher
+CHL,2017,higher
+CHN,2017,upper middle
+CIV,2017,lower middle
+CMR,2017,lower middle
+COD,2017,lower
+COG,2017,lower middle
+COL,2017,upper middle
+COM,2017,lower
+CPV,2017,lower middle
+CRI,2017,upper middle
+CUB,2017,upper middle
+CUW,2017,higher
+CYM,2017,higher
+CYP,2017,higher
+CZE,2017,higher
+DEU,2017,higher
+DJI,2017,lower middle
+DMA,2017,upper middle
+DNK,2017,higher
+DOM,2017,upper middle
+DZA,2017,upper middle
+ECU,2017,upper middle
+EGY,2017,lower middle
+ERI,2017,lower
+ESP,2017,higher
+EST,2017,higher
+ETH,2017,lower
+FIN,2017,higher
+FJI,2017,upper middle
+FRA,2017,higher
+FRO,2017,higher
+FSM,2017,lower middle
+GAB,2017,upper middle
+GBR,2017,higher
+GEO,2017,lower middle
+GHA,2017,lower middle
+GIB,2017,higher
+GIN,2017,lower
+GMB,2017,lower
+GNB,2017,lower
+GNQ,2017,upper middle
+GRC,2017,higher
+GRD,2017,upper middle
+GRL,2017,higher
+GTM,2017,upper middle
+GUM,2017,higher
+GUY,2017,upper middle
+HKG,2017,higher
+HND,2017,lower middle
+HRV,2017,higher
+HTI,2017,lower
+HUN,2017,higher
+IDN,2017,lower middle
+IMN,2017,higher
+IND,2017,lower middle
+IRL,2017,higher
+IRN,2017,upper middle
+IRQ,2017,upper middle
+ISL,2017,higher
+ISR,2017,higher
+ITA,2017,higher
+JAM,2017,upper middle
+JOR,2017,upper middle
+JPN,2017,higher
+KAZ,2017,upper middle
+KEN,2017,lower middle
+KGZ,2017,lower middle
+KHM,2017,lower middle
+KIR,2017,lower middle
+KNA,2017,higher
+KOR,2017,higher
+KWT,2017,higher
+LAO,2017,lower middle
+LBN,2017,upper middle
+LBR,2017,lower
+LBY,2017,upper middle
+LCA,2017,upper middle
+LIE,2017,higher
+LKA,2017,lower middle
+LSO,2017,lower middle
+LTU,2017,higher
+LUX,2017,higher
+LVA,2017,higher
+MAC,2017,higher
+MAF,2017,higher
+MAR,2017,lower middle
+MCO,2017,higher
+MDA,2017,lower middle
+MDG,2017,lower
+MDV,2017,upper middle
+MEX,2017,upper middle
+MHL,2017,upper middle
+MKD,2017,upper middle
+MLI,2017,lower
+MLT,2017,higher
+MMR,2017,lower middle
+MNE,2017,upper middle
+MNG,2017,lower middle
+MNP,2017,higher
+MOZ,2017,lower
+MRT,2017,lower middle
+MUS,2017,upper middle
+MWI,2017,lower
+MYS,2017,upper middle
+NAM,2017,upper middle
+NCL,2017,higher
+NER,2017,lower
+NGA,2017,lower middle
+NIC,2017,lower middle
+NLD,2017,higher
+NOR,2017,higher
+NPL,2017,lower
+NRU,2017,upper middle
+NZL,2017,higher
+OMN,2017,higher
+PAK,2017,lower middle
+PAN,2017,higher
+PER,2017,upper middle
+PHL,2017,lower middle
+PLW,2017,higher
+PNG,2017,lower middle
+POL,2017,higher
+PRI,2017,higher
+PRK,2017,lower
+PRT,2017,higher
+PRY,2017,upper middle
+PSE,2017,lower middle
+PYF,2017,higher
+QAT,2017,higher
+ROU,2017,upper middle
+RUS,2017,upper middle
+RWA,2017,lower
+SAU,2017,higher
+SDN,2017,lower middle
+SEN,2017,lower
+SGP,2017,higher
+SLB,2017,lower middle
+SLE,2017,lower
+SLV,2017,lower middle
+SMR,2017,higher
+SOM,2017,lower
+SRB,2017,upper middle
+SSD,2017,lower
+STP,2017,lower middle
+SUR,2017,upper middle
+SVK,2017,higher
+SVN,2017,higher
+SWE,2017,higher
+SWZ,2017,lower middle
+SXM,2017,higher
+SYC,2017,higher
+SYR,2017,lower
+TCA,2017,higher
+TCD,2017,lower
+TGO,2017,lower
+THA,2017,upper middle
+TJK,2017,lower
+TKM,2017,upper middle
+TLS,2017,lower middle
+TON,2017,upper middle
+TTO,2017,higher
+TUN,2017,lower middle
+TUR,2017,upper middle
+TUV,2017,upper middle
+TWN,2017,higher
+TZA,2017,lower
+UGA,2017,lower
+UKR,2017,lower middle
+URY,2017,higher
+USA,2017,higher
+UZB,2017,lower middle
+VCT,2017,upper middle
+VEN,2017,upper middle
+VGB,2017,higher
+VIR,2017,higher
+VNM,2017,lower middle
+VUT,2017,lower middle
+WSM,2017,upper middle
+XKX,2017,lower middle
+YEM,2017,lower
+ZAF,2017,upper middle
+ZMB,2017,lower middle
+ZWE,2017,lower
+ABW,2018,higher
+AFG,2018,lower
+AGO,2018,lower middle
+ALB,2018,upper middle
+AND,2018,higher
+ARE,2018,higher
+ARG,2018,upper middle
+ARM,2018,upper middle
+ASM,2018,upper middle
+ATG,2018,higher
+AUS,2018,higher
+AUT,2018,higher
+AZE,2018,upper middle
+BDI,2018,lower
+BEL,2018,higher
+BEN,2018,lower
+BFA,2018,lower
+BGD,2018,lower middle
+BGR,2018,upper middle
+BHR,2018,higher
+BHS,2018,higher
+BIH,2018,upper middle
+BLR,2018,upper middle
+BLZ,2018,upper middle
+BMU,2018,higher
+BOL,2018,lower middle
+BRA,2018,upper middle
+BRB,2018,higher
+BRN,2018,higher
+BTN,2018,lower middle
+BWA,2018,upper middle
+CAF,2018,lower
+CAN,2018,higher
+CHE,2018,higher
+CHI,2018,higher
+CHL,2018,higher
+CHN,2018,upper middle
+CIV,2018,lower middle
+CMR,2018,lower middle
+COD,2018,lower
+COG,2018,lower middle
+COL,2018,upper middle
+COM,2018,lower middle
+CPV,2018,lower middle
+CRI,2018,upper middle
+CUB,2018,upper middle
+CUW,2018,higher
+CYM,2018,higher
+CYP,2018,higher
+CZE,2018,higher
+DEU,2018,higher
+DJI,2018,lower middle
+DMA,2018,upper middle
+DNK,2018,higher
+DOM,2018,upper middle
+DZA,2018,upper middle
+ECU,2018,upper middle
+EGY,2018,lower middle
+ERI,2018,lower
+ESP,2018,higher
+EST,2018,higher
+ETH,2018,lower
+FIN,2018,higher
+FJI,2018,upper middle
+FRA,2018,higher
+FRO,2018,higher
+FSM,2018,lower middle
+GAB,2018,upper middle
+GBR,2018,higher
+GEO,2018,upper middle
+GHA,2018,lower middle
+GIB,2018,higher
+GIN,2018,lower
+GMB,2018,lower
+GNB,2018,lower
+GNQ,2018,upper middle
+GRC,2018,higher
+GRD,2018,upper middle
+GRL,2018,higher
+GTM,2018,upper middle
+GUM,2018,higher
+GUY,2018,upper middle
+HKG,2018,higher
+HND,2018,lower middle
+HRV,2018,higher
+HTI,2018,lower
+HUN,2018,higher
+IDN,2018,lower middle
+IMN,2018,higher
+IND,2018,lower middle
+IRL,2018,higher
+IRN,2018,upper middle
+IRQ,2018,upper middle
+ISL,2018,higher
+ISR,2018,higher
+ITA,2018,higher
+JAM,2018,upper middle
+JOR,2018,upper middle
+JPN,2018,higher
+KAZ,2018,upper middle
+KEN,2018,lower middle
+KGZ,2018,lower middle
+KHM,2018,lower middle
+KIR,2018,lower middle
+KNA,2018,higher
+KOR,2018,higher
+KWT,2018,higher
+LAO,2018,lower middle
+LBN,2018,upper middle
+LBR,2018,lower
+LBY,2018,upper middle
+LCA,2018,upper middle
+LIE,2018,higher
+LKA,2018,upper middle
+LSO,2018,lower middle
+LTU,2018,higher
+LUX,2018,higher
+LVA,2018,higher
+MAC,2018,higher
+MAF,2018,higher
+MAR,2018,lower middle
+MCO,2018,higher
+MDA,2018,lower middle
+MDG,2018,lower
+MDV,2018,upper middle
+MEX,2018,upper middle
+MHL,2018,upper middle
+MKD,2018,upper middle
+MLI,2018,lower
+MLT,2018,higher
+MMR,2018,lower middle
+MNE,2018,upper middle
+MNG,2018,lower middle
+MNP,2018,higher
+MOZ,2018,lower
+MRT,2018,lower middle
+MUS,2018,upper middle
+MWI,2018,lower
+MYS,2018,upper middle
+NAM,2018,upper middle
+NCL,2018,higher
+NER,2018,lower
+NGA,2018,lower middle
+NIC,2018,lower middle
+NLD,2018,higher
+NOR,2018,higher
+NPL,2018,lower
+NRU,2018,upper middle
+NZL,2018,higher
+OMN,2018,higher
+PAK,2018,lower middle
+PAN,2018,higher
+PER,2018,upper middle
+PHL,2018,lower middle
+PLW,2018,higher
+PNG,2018,lower middle
+POL,2018,higher
+PRI,2018,higher
+PRK,2018,lower
+PRT,2018,higher
+PRY,2018,upper middle
+PSE,2018,lower middle
+PYF,2018,higher
+QAT,2018,higher
+ROU,2018,upper middle
+RUS,2018,upper middle
+RWA,2018,lower
+SAU,2018,higher
+SDN,2018,lower middle
+SEN,2018,lower middle
+SGP,2018,higher
+SLB,2018,lower middle
+SLE,2018,lower
+SLV,2018,lower middle
+SMR,2018,higher
+SOM,2018,lower
+SRB,2018,upper middle
+SSD,2018,lower
+STP,2018,lower middle
+SUR,2018,upper middle
+SVK,2018,higher
+SVN,2018,higher
+SWE,2018,higher
+SWZ,2018,lower middle
+SXM,2018,higher
+SYC,2018,higher
+SYR,2018,lower
+TCA,2018,higher
+TCD,2018,lower
+TGO,2018,lower
+THA,2018,upper middle
+TJK,2018,lower
+TKM,2018,upper middle
+TLS,2018,lower middle
+TON,2018,upper middle
+TTO,2018,higher
+TUN,2018,lower middle
+TUR,2018,upper middle
+TUV,2018,upper middle
+TWN,2018,higher
+TZA,2018,lower
+UGA,2018,lower
+UKR,2018,lower middle
+URY,2018,higher
+USA,2018,higher
+UZB,2018,lower middle
+VCT,2018,upper middle
+VEN,2018,upper middle
+VGB,2018,higher
+VIR,2018,higher
+VNM,2018,lower middle
+VUT,2018,lower middle
+WSM,2018,upper middle
+XKX,2018,upper middle
+YEM,2018,lower
+ZAF,2018,upper middle
+ZMB,2018,lower middle
+ZWE,2018,lower middle
+ABW,2019,higher
+AFG,2019,lower
+AGO,2019,lower middle
+ALB,2019,upper middle
+AND,2019,higher
+ARE,2019,higher
+ARG,2019,upper middle
+ARM,2019,upper middle
+ASM,2019,upper middle
+ATG,2019,higher
+AUS,2019,higher
+AUT,2019,higher
+AZE,2019,upper middle
+BDI,2019,lower
+BEL,2019,higher
+BEN,2019,lower middle
+BFA,2019,lower
+BGD,2019,lower middle
+BGR,2019,upper middle
+BHR,2019,higher
+BHS,2019,higher
+BIH,2019,upper middle
+BLR,2019,upper middle
+BLZ,2019,upper middle
+BMU,2019,higher
+BOL,2019,lower middle
+BRA,2019,upper middle
+BRB,2019,higher
+BRN,2019,higher
+BTN,2019,lower middle
+BWA,2019,upper middle
+CAF,2019,lower
+CAN,2019,higher
+CHE,2019,higher
+CHI,2019,higher
+CHL,2019,higher
+CHN,2019,upper middle
+CIV,2019,lower middle
+CMR,2019,lower middle
+COD,2019,lower
+COG,2019,lower middle
+COL,2019,upper middle
+COM,2019,lower middle
+CPV,2019,lower middle
+CRI,2019,upper middle
+CUB,2019,upper middle
+CUW,2019,higher
+CYM,2019,higher
+CYP,2019,higher
+CZE,2019,higher
+DEU,2019,higher
+DJI,2019,lower middle
+DMA,2019,upper middle
+DNK,2019,higher
+DOM,2019,upper middle
+DZA,2019,lower middle
+ECU,2019,upper middle
+EGY,2019,lower middle
+ERI,2019,lower
+ESP,2019,higher
+EST,2019,higher
+ETH,2019,lower
+FIN,2019,higher
+FJI,2019,upper middle
+FRA,2019,higher
+FRO,2019,higher
+FSM,2019,lower middle
+GAB,2019,upper middle
+GBR,2019,higher
+GEO,2019,upper middle
+GHA,2019,lower middle
+GIB,2019,higher
+GIN,2019,lower
+GMB,2019,lower
+GNB,2019,lower
+GNQ,2019,upper middle
+GRC,2019,higher
+GRD,2019,upper middle
+GRL,2019,higher
+GTM,2019,upper middle
+GUM,2019,higher
+GUY,2019,upper middle
+HKG,2019,higher
+HND,2019,lower middle
+HRV,2019,higher
+HTI,2019,lower
+HUN,2019,higher
+IDN,2019,upper middle
+IMN,2019,higher
+IND,2019,lower middle
+IRL,2019,higher
+IRN,2019,upper middle
+IRQ,2019,upper middle
+ISL,2019,higher
+ISR,2019,higher
+ITA,2019,higher
+JAM,2019,upper middle
+JOR,2019,upper middle
+JPN,2019,higher
+KAZ,2019,upper middle
+KEN,2019,lower middle
+KGZ,2019,lower middle
+KHM,2019,lower middle
+KIR,2019,lower middle
+KNA,2019,higher
+KOR,2019,higher
+KWT,2019,higher
+LAO,2019,lower middle
+LBN,2019,upper middle
+LBR,2019,lower
+LBY,2019,upper middle
+LCA,2019,upper middle
+LIE,2019,higher
+LKA,2019,lower middle
+LSO,2019,lower middle
+LTU,2019,higher
+LUX,2019,higher
+LVA,2019,higher
+MAC,2019,higher
+MAF,2019,higher
+MAR,2019,lower middle
+MCO,2019,higher
+MDA,2019,lower middle
+MDG,2019,lower
+MDV,2019,upper middle
+MEX,2019,upper middle
+MHL,2019,upper middle
+MKD,2019,upper middle
+MLI,2019,lower
+MLT,2019,higher
+MMR,2019,lower middle
+MNE,2019,upper middle
+MNG,2019,lower middle
+MNP,2019,higher
+MOZ,2019,lower
+MRT,2019,lower middle
+MUS,2019,higher
+MWI,2019,lower
+MYS,2019,upper middle
+NAM,2019,upper middle
+NCL,2019,higher
+NER,2019,lower
+NGA,2019,lower middle
+NIC,2019,lower middle
+NLD,2019,higher
+NOR,2019,higher
+NPL,2019,lower middle
+NRU,2019,higher
+NZL,2019,higher
+OMN,2019,higher
+PAK,2019,lower middle
+PAN,2019,higher
+PER,2019,upper middle
+PHL,2019,lower middle
+PLW,2019,higher
+PNG,2019,lower middle
+POL,2019,higher
+PRI,2019,higher
+PRK,2019,lower
+PRT,2019,higher
+PRY,2019,upper middle
+PSE,2019,lower middle
+PYF,2019,higher
+QAT,2019,higher
+ROU,2019,higher
+RUS,2019,upper middle
+RWA,2019,lower
+SAU,2019,higher
+SDN,2019,lower
+SEN,2019,lower middle
+SGP,2019,higher
+SLB,2019,lower middle
+SLE,2019,lower
+SLV,2019,lower middle
+SMR,2019,higher
+SOM,2019,lower
+SRB,2019,upper middle
+SSD,2019,lower
+STP,2019,lower middle
+SUR,2019,upper middle
+SVK,2019,higher
+SVN,2019,higher
+SWE,2019,higher
+SWZ,2019,lower middle
+SXM,2019,higher
+SYC,2019,higher
+SYR,2019,lower
+TCA,2019,higher
+TCD,2019,lower
+TGO,2019,lower
+THA,2019,upper middle
+TJK,2019,lower
+TKM,2019,upper middle
+TLS,2019,lower middle
+TON,2019,upper middle
+TTO,2019,higher
+TUN,2019,lower middle
+TUR,2019,upper middle
+TUV,2019,upper middle
+TWN,2019,higher
+TZA,2019,lower middle
+UGA,2019,lower
+UKR,2019,lower middle
+URY,2019,higher
+USA,2019,higher
+UZB,2019,lower middle
+VCT,2019,upper middle
+VEN,2019,upper middle
+VGB,2019,higher
+VIR,2019,higher
+VNM,2019,lower middle
+VUT,2019,lower middle
+WSM,2019,upper middle
+XKX,2019,upper middle
+YEM,2019,lower
+ZAF,2019,upper middle
+ZMB,2019,lower middle
+ZWE,2019,lower middle
+ABW,2020,higher
+AFG,2020,lower
+AGO,2020,lower middle
+ALB,2020,upper middle
+AND,2020,higher
+ARE,2020,higher
+ARG,2020,upper middle
+ARM,2020,upper middle
+ASM,2020,upper middle
+ATG,2020,higher
+AUS,2020,higher
+AUT,2020,higher
+AZE,2020,upper middle
+BDI,2020,lower
+BEL,2020,higher
+BEN,2020,lower middle
+BFA,2020,lower
+BGD,2020,lower middle
+BGR,2020,upper middle
+BHR,2020,higher
+BHS,2020,higher
+BIH,2020,upper middle
+BLR,2020,upper middle
+BLZ,2020,lower middle
+BMU,2020,higher
+BOL,2020,lower middle
+BRA,2020,upper middle
+BRB,2020,higher
+BRN,2020,higher
+BTN,2020,lower middle
+BWA,2020,upper middle
+CAF,2020,lower
+CAN,2020,higher
+CHE,2020,higher
+CHI,2020,higher
+CHL,2020,higher
+CHN,2020,upper middle
+CIV,2020,lower middle
+CMR,2020,lower middle
+COD,2020,lower
+COG,2020,lower middle
+COL,2020,upper middle
+COM,2020,lower middle
+CPV,2020,lower middle
+CRI,2020,upper middle
+CUB,2020,upper middle
+CUW,2020,higher
+CYM,2020,higher
+CYP,2020,higher
+CZE,2020,higher
+DEU,2020,higher
+DJI,2020,lower middle
+DMA,2020,upper middle
+DNK,2020,higher
+DOM,2020,upper middle
+DZA,2020,lower middle
+ECU,2020,upper middle
+EGY,2020,lower middle
+ERI,2020,lower
+ESP,2020,higher
+EST,2020,higher
+ETH,2020,lower
+FIN,2020,higher
+FJI,2020,upper middle
+FRA,2020,higher
+FRO,2020,higher
+FSM,2020,lower middle
+GAB,2020,upper middle
+GBR,2020,higher
+GEO,2020,upper middle
+GHA,2020,lower middle
+GIB,2020,higher
+GIN,2020,lower
+GMB,2020,lower
+GNB,2020,lower
+GNQ,2020,upper middle
+GRC,2020,higher
+GRD,2020,upper middle
+GRL,2020,higher
+GTM,2020,upper middle
+GUM,2020,higher
+GUY,2020,upper middle
+HKG,2020,higher
+HND,2020,lower middle
+HRV,2020,higher
+HTI,2020,lower middle
+HUN,2020,higher
+IDN,2020,lower middle
+IMN,2020,higher
+IND,2020,lower middle
+IRL,2020,higher
+IRN,2020,lower middle
+IRQ,2020,upper middle
+ISL,2020,higher
+ISR,2020,higher
+ITA,2020,higher
+JAM,2020,upper middle
+JOR,2020,upper middle
+JPN,2020,higher
+KAZ,2020,upper middle
+KEN,2020,lower middle
+KGZ,2020,lower middle
+KHM,2020,lower middle
+KIR,2020,lower middle
+KNA,2020,higher
+KOR,2020,higher
+KWT,2020,higher
+LAO,2020,lower middle
+LBN,2020,upper middle
+LBR,2020,lower
+LBY,2020,upper middle
+LCA,2020,upper middle
+LIE,2020,higher
+LKA,2020,lower middle
+LSO,2020,lower middle
+LTU,2020,higher
+LUX,2020,higher
+LVA,2020,higher
+MAC,2020,higher
+MAF,2020,higher
+MAR,2020,lower middle
+MCO,2020,higher
+MDA,2020,upper middle
+MDG,2020,lower
+MDV,2020,upper middle
+MEX,2020,upper middle
+MHL,2020,upper middle
+MKD,2020,upper middle
+MLI,2020,lower
+MLT,2020,higher
+MMR,2020,lower middle
+MNE,2020,upper middle
+MNG,2020,lower middle
+MNP,2020,higher
+MOZ,2020,lower
+MRT,2020,lower middle
+MUS,2020,upper middle
+MWI,2020,lower
+MYS,2020,upper middle
+NAM,2020,upper middle
+NCL,2020,higher
+NER,2020,lower
+NGA,2020,lower middle
+NIC,2020,lower middle
+NLD,2020,higher
+NOR,2020,higher
+NPL,2020,lower middle
+NRU,2020,higher
+NZL,2020,higher
+OMN,2020,higher
+PAK,2020,lower middle
+PAN,2020,upper middle
+PER,2020,upper middle
+PHL,2020,lower middle
+PLW,2020,higher
+PNG,2020,lower middle
+POL,2020,higher
+PRI,2020,higher
+PRK,2020,lower
+PRT,2020,higher
+PRY,2020,upper middle
+PSE,2020,lower middle
+PYF,2020,higher
+QAT,2020,higher
+ROU,2020,upper middle
+RUS,2020,upper middle
+RWA,2020,lower
+SAU,2020,higher
+SDN,2020,lower
+SEN,2020,lower middle
+SGP,2020,higher
+SLB,2020,lower middle
+SLE,2020,lower
+SLV,2020,lower middle
+SMR,2020,higher
+SOM,2020,lower
+SRB,2020,upper middle
+SSD,2020,lower
+STP,2020,lower middle
+SUR,2020,upper middle
+SVK,2020,higher
+SVN,2020,higher
+SWE,2020,higher
+SWZ,2020,lower middle
+SXM,2020,higher
+SYC,2020,higher
+SYR,2020,lower
+TCA,2020,higher
+TCD,2020,lower
+TGO,2020,lower
+THA,2020,upper middle
+TJK,2020,lower middle
+TKM,2020,upper middle
+TLS,2020,lower middle
+TON,2020,upper middle
+TTO,2020,higher
+TUN,2020,lower middle
+TUR,2020,upper middle
+TUV,2020,upper middle
+TWN,2020,higher
+TZA,2020,lower middle
+UGA,2020,lower
+UKR,2020,lower middle
+URY,2020,higher
+USA,2020,higher
+UZB,2020,lower middle
+VCT,2020,upper middle
+VGB,2020,higher
+VIR,2020,higher
+VNM,2020,lower middle
+VUT,2020,lower middle
+WSM,2020,lower middle
+XKX,2020,upper middle
+YEM,2020,lower
+ZAF,2020,upper middle
+ZMB,2020,lower middle
+ZWE,2020,lower middle
+ABW,2021,higher
+AFG,2021,lower
+AGO,2021,lower middle
+ALB,2021,upper middle
+AND,2021,higher
+ARE,2021,higher
+ARG,2021,upper middle
+ARM,2021,upper middle
+ASM,2021,upper middle
+ATG,2021,higher
+AUS,2021,higher
+AUT,2021,higher
+AZE,2021,upper middle
+BDI,2021,lower
+BEL,2021,higher
+BEN,2021,lower middle
+BFA,2021,lower
+BGD,2021,lower middle
+BGR,2021,upper middle
+BHR,2021,higher
+BHS,2021,higher
+BIH,2021,upper middle
+BLR,2021,upper middle
+BLZ,2021,upper middle
+BMU,2021,higher
+BOL,2021,lower middle
+BRA,2021,upper middle
+BRB,2021,higher
+BRN,2021,higher
+BTN,2021,lower middle
+BWA,2021,upper middle
+CAF,2021,lower
+CAN,2021,higher
+CHE,2021,higher
+CHI,2021,higher
+CHL,2021,higher
+CHN,2021,upper middle
+CIV,2021,lower middle
+CMR,2021,lower middle
+COD,2021,lower
+COG,2021,lower middle
+COL,2021,upper middle
+COM,2021,lower middle
+CPV,2021,lower middle
+CRI,2021,upper middle
+CUB,2021,upper middle
+CUW,2021,higher
+CYM,2021,higher
+CYP,2021,higher
+CZE,2021,higher
+DEU,2021,higher
+DJI,2021,lower middle
+DMA,2021,upper middle
+DNK,2021,higher
+DOM,2021,upper middle
+DZA,2021,lower middle
+ECU,2021,upper middle
+EGY,2021,lower middle
+ERI,2021,lower
+ESP,2021,higher
+EST,2021,higher
+ETH,2021,lower
+FIN,2021,higher
+FJI,2021,upper middle
+FRA,2021,higher
+FRO,2021,higher
+FSM,2021,lower middle
+GAB,2021,upper middle
+GBR,2021,higher
+GEO,2021,upper middle
+GHA,2021,lower middle
+GIB,2021,higher
+GIN,2021,lower
+GMB,2021,lower
+GNB,2021,lower
+GNQ,2021,upper middle
+GRC,2021,higher
+GRD,2021,upper middle
+GRL,2021,higher
+GTM,2021,upper middle
+GUM,2021,higher
+GUY,2021,upper middle
+HKG,2021,higher
+HND,2021,lower middle
+HRV,2021,higher
+HTI,2021,lower middle
+HUN,2021,higher
+IDN,2021,lower middle
+IMN,2021,higher
+IND,2021,lower middle
+IRL,2021,higher
+IRN,2021,lower middle
+IRQ,2021,upper middle
+ISL,2021,higher
+ISR,2021,higher
+ITA,2021,higher
+JAM,2021,upper middle
+JOR,2021,upper middle
+JPN,2021,higher
+KAZ,2021,upper middle
+KEN,2021,lower middle
+KGZ,2021,lower middle
+KHM,2021,lower middle
+KIR,2021,lower middle
+KNA,2021,higher
+KOR,2021,higher
+KWT,2021,higher
+LAO,2021,lower middle
+LBN,2021,lower middle
+LBR,2021,lower
+LBY,2021,upper middle
+LCA,2021,upper middle
+LIE,2021,higher
+LKA,2021,lower middle
+LSO,2021,lower middle
+LTU,2021,higher
+LUX,2021,higher
+LVA,2021,higher
+MAC,2021,higher
+MAF,2021,higher
+MAR,2021,lower middle
+MCO,2021,higher
+MDA,2021,upper middle
+MDG,2021,lower
+MDV,2021,upper middle
+MEX,2021,upper middle
+MHL,2021,upper middle
+MKD,2021,upper middle
+MLI,2021,lower
+MLT,2021,higher
+MMR,2021,lower middle
+MNE,2021,upper middle
+MNG,2021,lower middle
+MNP,2021,higher
+MOZ,2021,lower
+MRT,2021,lower middle
+MUS,2021,upper middle
+MWI,2021,lower
+MYS,2021,upper middle
+NAM,2021,upper middle
+NCL,2021,higher
+NER,2021,lower
+NGA,2021,lower middle
+NIC,2021,lower middle
+NLD,2021,higher
+NOR,2021,higher
+NPL,2021,lower middle
+NRU,2021,higher
+NZL,2021,higher
+OMN,2021,higher
+PAK,2021,lower middle
+PAN,2021,higher
+PER,2021,upper middle
+PHL,2021,lower middle
+PLW,2021,upper middle
+PNG,2021,lower middle
+POL,2021,higher
+PRI,2021,higher
+PRK,2021,lower
+PRT,2021,higher
+PRY,2021,upper middle
+PSE,2021,lower middle
+PYF,2021,higher
+QAT,2021,higher
+ROU,2021,higher
+RUS,2021,upper middle
+RWA,2021,lower
+SAU,2021,higher
+SDN,2021,lower
+SEN,2021,lower middle
+SGP,2021,higher
+SLB,2021,lower middle
+SLE,2021,lower
+SLV,2021,lower middle
+SMR,2021,higher
+SOM,2021,lower
+SRB,2021,upper middle
+SSD,2021,lower
+STP,2021,lower middle
+SUR,2021,upper middle
+SVK,2021,higher
+SVN,2021,higher
+SWE,2021,higher
+SWZ,2021,lower middle
+SXM,2021,higher
+SYC,2021,higher
+SYR,2021,lower
+TCA,2021,higher
+TCD,2021,lower
+TGO,2021,lower
+THA,2021,upper middle
+TJK,2021,lower middle
+TKM,2021,upper middle
+TLS,2021,lower middle
+TON,2021,upper middle
+TTO,2021,higher
+TUN,2021,lower middle
+TUR,2021,upper middle
+TUV,2021,upper middle
+TWN,2021,higher
+TZA,2021,lower middle
+UGA,2021,lower
+UKR,2021,lower middle
+URY,2021,higher
+USA,2021,higher
+UZB,2021,lower middle
+VCT,2021,upper middle
+VGB,2021,higher
+VIR,2021,higher
+VNM,2021,lower middle
+VUT,2021,lower middle
+WSM,2021,lower middle
+XKX,2021,upper middle
+YEM,2021,lower
+ZAF,2021,upper middle
+ZMB,2021,lower
+ZWE,2021,lower middle
+ABW,2022,higher
+AFG,2022,lower
+AGO,2022,lower middle
+ALB,2022,upper middle
+AND,2022,higher
+ARE,2022,higher
+ARG,2022,upper middle
+ARM,2022,upper middle
+ASM,2022,higher
+ATG,2022,higher
+AUS,2022,higher
+AUT,2022,higher
+AZE,2022,upper middle
+BDI,2022,lower
+BEL,2022,higher
+BEN,2022,lower middle
+BFA,2022,lower
+BGD,2022,lower middle
+BGR,2022,upper middle
+BHR,2022,higher
+BHS,2022,higher
+BIH,2022,upper middle
+BLR,2022,upper middle
+BLZ,2022,upper middle
+BMU,2022,higher
+BOL,2022,lower middle
+BRA,2022,upper middle
+BRB,2022,higher
+BRN,2022,higher
+BTN,2022,lower middle
+BWA,2022,upper middle
+CAF,2022,lower
+CAN,2022,higher
+CHE,2022,higher
+CHI,2022,higher
+CHL,2022,higher
+CHN,2022,upper middle
+CIV,2022,lower middle
+CMR,2022,lower middle
+COD,2022,lower
+COG,2022,lower middle
+COL,2022,upper middle
+COM,2022,lower middle
+CPV,2022,lower middle
+CRI,2022,upper middle
+CUB,2022,upper middle
+CUW,2022,higher
+CYM,2022,higher
+CYP,2022,higher
+CZE,2022,higher
+DEU,2022,higher
+DJI,2022,lower middle
+DMA,2022,upper middle
+DNK,2022,higher
+DOM,2022,upper middle
+DZA,2022,lower middle
+ECU,2022,upper middle
+EGY,2022,lower middle
+ERI,2022,lower
+ESP,2022,higher
+EST,2022,higher
+ETH,2022,lower
+FIN,2022,higher
+FJI,2022,upper middle
+FRA,2022,higher
+FRO,2022,higher
+FSM,2022,lower middle
+GAB,2022,upper middle
+GBR,2022,higher
+GEO,2022,upper middle
+GHA,2022,lower middle
+GIB,2022,higher
+GIN,2022,lower middle
+GMB,2022,lower
+GNB,2022,lower
+GNQ,2022,upper middle
+GRC,2022,higher
+GRD,2022,upper middle
+GRL,2022,higher
+GTM,2022,upper middle
+GUM,2022,higher
+GUY,2022,higher
+HKG,2022,higher
+HND,2022,lower middle
+HRV,2022,higher
+HTI,2022,lower middle
+HUN,2022,higher
+IDN,2022,upper middle
+IMN,2022,higher
+IND,2022,lower middle
+IRL,2022,higher
+IRN,2022,lower middle
+IRQ,2022,upper middle
+ISL,2022,higher
+ISR,2022,higher
+ITA,2022,higher
+JAM,2022,upper middle
+JOR,2022,lower middle
+JPN,2022,higher
+KAZ,2022,upper middle
+KEN,2022,lower middle
+KGZ,2022,lower middle
+KHM,2022,lower middle
+KIR,2022,lower middle
+KNA,2022,higher
+KOR,2022,higher
+KWT,2022,higher
+LAO,2022,lower middle
+LBN,2022,lower middle
+LBR,2022,lower
+LBY,2022,upper middle
+LCA,2022,upper middle
+LIE,2022,higher
+LKA,2022,lower middle
+LSO,2022,lower middle
+LTU,2022,higher
+LUX,2022,higher
+LVA,2022,higher
+MAC,2022,higher
+MAF,2022,higher
+MAR,2022,lower middle
+MCO,2022,higher
+MDA,2022,upper middle
+MDG,2022,lower
+MDV,2022,upper middle
+MEX,2022,upper middle
+MHL,2022,upper middle
+MKD,2022,upper middle
+MLI,2022,lower
+MLT,2022,higher
+MMR,2022,lower middle
+MNE,2022,upper middle
+MNG,2022,lower middle
+MNP,2022,higher
+MOZ,2022,lower
+MRT,2022,lower middle
+MUS,2022,upper middle
+MWI,2022,lower
+MYS,2022,upper middle
+NAM,2022,upper middle
+NCL,2022,higher
+NER,2022,lower
+NGA,2022,lower middle
+NIC,2022,lower middle
+NLD,2022,higher
+NOR,2022,higher
+NPL,2022,lower middle
+NRU,2022,higher
+NZL,2022,higher
+OMN,2022,higher
+PAK,2022,lower middle
+PAN,2022,higher
+PER,2022,upper middle
+PHL,2022,lower middle
+PLW,2022,upper middle
+PNG,2022,lower middle
+POL,2022,higher
+PRI,2022,higher
+PRK,2022,lower
+PRT,2022,higher
+PRY,2022,upper middle
+PSE,2022,upper middle
+PYF,2022,higher
+QAT,2022,higher
+ROU,2022,higher
+RUS,2022,upper middle
+RWA,2022,lower
+SAU,2022,higher
+SDN,2022,lower
+SEN,2022,lower middle
+SGP,2022,higher
+SLB,2022,lower middle
+SLE,2022,lower
+SLV,2022,upper middle
+SMR,2022,higher
+SOM,2022,lower
+SRB,2022,upper middle
+SSD,2022,lower
+STP,2022,lower middle
+SUR,2022,upper middle
+SVK,2022,higher
+SVN,2022,higher
+SWE,2022,higher
+SWZ,2022,lower middle
+SXM,2022,higher
+SYC,2022,higher
+SYR,2022,lower
+TCA,2022,higher
+TCD,2022,lower
+TGO,2022,lower
+THA,2022,upper middle
+TJK,2022,lower middle
+TKM,2022,upper middle
+TLS,2022,lower middle
+TON,2022,upper middle
+TTO,2022,higher
+TUN,2022,lower middle
+TUR,2022,upper middle
+TUV,2022,upper middle
+TWN,2022,higher
+TZA,2022,lower middle
+UGA,2022,lower
+UKR,2022,lower middle
+URY,2022,higher
+USA,2022,higher
+UZB,2022,lower middle
+VCT,2022,upper middle
+VGB,2022,higher
+VIR,2022,higher
+VNM,2022,lower middle
+VUT,2022,lower middle
+WSM,2022,lower middle
+XKX,2022,upper middle
+YEM,2022,lower
+ZAF,2022,upper middle
+ZMB,2022,lower middle
+ZWE,2022,lower middle
+ABW,2023,higher
+AFG,2023,lower
+AGO,2023,lower middle
+ALB,2023,upper middle
+AND,2023,higher
+ARE,2023,higher
+ARG,2023,upper middle
+ARM,2023,upper middle
+ASM,2023,higher
+ATG,2023,higher
+AUS,2023,higher
+AUT,2023,higher
+AZE,2023,upper middle
+BDI,2023,lower
+BEL,2023,higher
+BEN,2023,lower middle
+BFA,2023,lower
+BGD,2023,lower middle
+BGR,2023,higher
+BHR,2023,higher
+BHS,2023,higher
+BIH,2023,upper middle
+BLR,2023,upper middle
+BLZ,2023,upper middle
+BMU,2023,higher
+BOL,2023,lower middle
+BRA,2023,upper middle
+BRB,2023,higher
+BRN,2023,higher
+BTN,2023,lower middle
+BWA,2023,upper middle
+CAF,2023,lower
+CAN,2023,higher
+CHE,2023,higher
+CHI,2023,higher
+CHL,2023,higher
+CHN,2023,upper middle
+CIV,2023,lower middle
+CMR,2023,lower middle
+COD,2023,lower
+COG,2023,lower middle
+COL,2023,upper middle
+COM,2023,lower middle
+CPV,2023,lower middle
+CRI,2023,upper middle
+CUB,2023,upper middle
+CUW,2023,higher
+CYM,2023,higher
+CYP,2023,higher
+CZE,2023,higher
+DEU,2023,higher
+DJI,2023,lower middle
+DMA,2023,upper middle
+DNK,2023,higher
+DOM,2023,upper middle
+DZA,2023,upper middle
+ECU,2023,upper middle
+EGY,2023,lower middle
+ERI,2023,lower
+ESP,2023,higher
+EST,2023,higher
+ETH,2023,lower
+FIN,2023,higher
+FJI,2023,upper middle
+FRA,2023,higher
+FRO,2023,higher
+FSM,2023,lower middle
+GAB,2023,upper middle
+GBR,2023,higher
+GEO,2023,upper middle
+GHA,2023,lower middle
+GIB,2023,higher
+GIN,2023,lower middle
+GMB,2023,lower
+GNB,2023,lower
+GNQ,2023,upper middle
+GRC,2023,higher
+GRD,2023,upper middle
+GRL,2023,higher
+GTM,2023,upper middle
+GUM,2023,higher
+GUY,2023,higher
+HKG,2023,higher
+HND,2023,lower middle
+HRV,2023,higher
+HTI,2023,lower middle
+HUN,2023,higher
+IDN,2023,upper middle
+IMN,2023,higher
+IND,2023,lower middle
+IRL,2023,higher
+IRN,2023,upper middle
+IRQ,2023,upper middle
+ISL,2023,higher
+ISR,2023,higher
+ITA,2023,higher
+JAM,2023,upper middle
+JOR,2023,lower middle
+JPN,2023,higher
+KAZ,2023,upper middle
+KEN,2023,lower middle
+KGZ,2023,lower middle
+KHM,2023,lower middle
+KIR,2023,lower middle
+KNA,2023,higher
+KOR,2023,higher
+KWT,2023,higher
+LAO,2023,lower middle
+LBN,2023,lower middle
+LBR,2023,lower
+LBY,2023,upper middle
+LCA,2023,upper middle
+LIE,2023,higher
+LKA,2023,lower middle
+LSO,2023,lower middle
+LTU,2023,higher
+LUX,2023,higher
+LVA,2023,higher
+MAC,2023,higher
+MAF,2023,higher
+MAR,2023,lower middle
+MCO,2023,higher
+MDA,2023,upper middle
+MDG,2023,lower
+MDV,2023,upper middle
+MEX,2023,upper middle
+MHL,2023,upper middle
+MKD,2023,upper middle
+MLI,2023,lower
+MLT,2023,higher
+MMR,2023,lower middle
+MNE,2023,upper middle
+MNG,2023,upper middle
+MNP,2023,higher
+MOZ,2023,lower
+MRT,2023,lower middle
+MUS,2023,upper middle
+MWI,2023,lower
+MYS,2023,upper middle
+NAM,2023,upper middle
+NCL,2023,higher
+NER,2023,lower
+NGA,2023,lower middle
+NIC,2023,lower middle
+NLD,2023,higher
+NOR,2023,higher
+NPL,2023,lower middle
+NRU,2023,higher
+NZL,2023,higher
+OMN,2023,higher
+PAK,2023,lower middle
+PAN,2023,higher
+PER,2023,upper middle
+PHL,2023,lower middle
+PLW,2023,higher
+PNG,2023,lower middle
+POL,2023,higher
+PRI,2023,higher
+PRK,2023,lower
+PRT,2023,higher
+PRY,2023,upper middle
+PSE,2023,lower middle
+PYF,2023,higher
+QAT,2023,higher
+ROU,2023,higher
+RUS,2023,higher
+RWA,2023,lower
+SAU,2023,higher
+SDN,2023,lower
+SEN,2023,lower middle
+SGP,2023,higher
+SLB,2023,lower middle
+SLE,2023,lower
+SLV,2023,upper middle
+SMR,2023,higher
+SOM,2023,lower
+SRB,2023,upper middle
+SSD,2023,lower
+STP,2023,lower middle
+SUR,2023,upper middle
+SVK,2023,higher
+SVN,2023,higher
+SWE,2023,higher
+SWZ,2023,lower middle
+SXM,2023,higher
+SYC,2023,higher
+SYR,2023,lower
+TCA,2023,higher
+TCD,2023,lower
+TGO,2023,lower
+THA,2023,upper middle
+TJK,2023,lower middle
+TKM,2023,upper middle
+TLS,2023,lower middle
+TON,2023,upper middle
+TTO,2023,higher
+TUN,2023,lower middle
+TUR,2023,upper middle
+TUV,2023,upper middle
+TWN,2023,higher
+TZA,2023,lower middle
+UGA,2023,lower
+UKR,2023,upper middle
+URY,2023,higher
+USA,2023,higher
+UZB,2023,lower middle
+VCT,2023,upper middle
+VGB,2023,higher
+VIR,2023,higher
+VNM,2023,lower middle
+VUT,2023,lower middle
+WSM,2023,lower middle
+XKX,2023,upper middle
+YEM,2023,lower
+ZAF,2023,upper middle
+ZMB,2023,lower middle
+ZWE,2023,lower middle
+ABW,2024,higher
+AFG,2024,lower
+AGO,2024,lower middle
+ALB,2024,upper middle
+AND,2024,higher
+ARE,2024,higher
+ARG,2024,upper middle
+ARM,2024,upper middle
+ASM,2024,higher
+ATG,2024,higher
+AUS,2024,higher
+AUT,2024,higher
+AZE,2024,upper middle
+BDI,2024,lower
+BEL,2024,higher
+BEN,2024,lower middle
+BFA,2024,lower
+BGD,2024,lower middle
+BGR,2024,higher
+BHR,2024,higher
+BHS,2024,higher
+BIH,2024,upper middle
+BLR,2024,upper middle
+BLZ,2024,upper middle
+BMU,2024,higher
+BOL,2024,lower middle
+BRA,2024,upper middle
+BRB,2024,higher
+BRN,2024,higher
+BTN,2024,lower middle
+BWA,2024,upper middle
+CAF,2024,lower
+CAN,2024,higher
+CHE,2024,higher
+CHI,2024,higher
+CHL,2024,higher
+CHN,2024,upper middle
+CIV,2024,lower middle
+CMR,2024,lower middle
+COD,2024,lower
+COG,2024,lower middle
+COL,2024,upper middle
+COM,2024,lower middle
+CPV,2024,upper middle
+CRI,2024,higher
+CUB,2024,upper middle
+CUW,2024,higher
+CYM,2024,higher
+CYP,2024,higher
+CZE,2024,higher
+DEU,2024,higher
+DJI,2024,lower middle
+DMA,2024,upper middle
+DNK,2024,higher
+DOM,2024,upper middle
+DZA,2024,upper middle
+ECU,2024,upper middle
+EGY,2024,lower middle
+ERI,2024,lower
+ESP,2024,higher
+EST,2024,higher
+ETH,2024,lower
+FIN,2024,higher
+FJI,2024,upper middle
+FRA,2024,higher
+FRO,2024,higher
+FSM,2024,lower middle
+GAB,2024,upper middle
+GBR,2024,higher
+GEO,2024,upper middle
+GHA,2024,lower middle
+GIB,2024,higher
+GIN,2024,lower middle
+GMB,2024,lower
+GNB,2024,lower
+GNQ,2024,upper middle
+GRC,2024,higher
+GRD,2024,upper middle
+GRL,2024,higher
+GTM,2024,upper middle
+GUM,2024,higher
+GUY,2024,higher
+HKG,2024,higher
+HND,2024,lower middle
+HRV,2024,higher
+HTI,2024,lower middle
+HUN,2024,higher
+IDN,2024,upper middle
+IMN,2024,higher
+IND,2024,lower middle
+IRL,2024,higher
+IRN,2024,upper middle
+IRQ,2024,upper middle
+ISL,2024,higher
+ISR,2024,higher
+ITA,2024,higher
+JAM,2024,upper middle
+JOR,2024,lower middle
+JPN,2024,higher
+KAZ,2024,upper middle
+KEN,2024,lower middle
+KGZ,2024,lower middle
+KHM,2024,lower middle
+KIR,2024,lower middle
+KNA,2024,higher
+KOR,2024,higher
+KWT,2024,higher
+LAO,2024,lower middle
+LBN,2024,lower middle
+LBR,2024,lower
+LBY,2024,upper middle
+LCA,2024,upper middle
+LIE,2024,higher
+LKA,2024,lower middle
+LSO,2024,lower middle
+LTU,2024,higher
+LUX,2024,higher
+LVA,2024,higher
+MAC,2024,higher
+MAF,2024,higher
+MAR,2024,lower middle
+MCO,2024,higher
+MDA,2024,upper middle
+MDG,2024,lower
+MDV,2024,upper middle
+MEX,2024,upper middle
+MHL,2024,upper middle
+MKD,2024,upper middle
+MLI,2024,lower
+MLT,2024,higher
+MMR,2024,lower middle
+MNE,2024,upper middle
+MNG,2024,upper middle
+MNP,2024,higher
+MOZ,2024,lower
+MRT,2024,lower middle
+MUS,2024,upper middle
+MWI,2024,lower
+MYS,2024,upper middle
+NAM,2024,lower middle
+NCL,2024,higher
+NER,2024,lower
+NGA,2024,lower middle
+NIC,2024,lower middle
+NLD,2024,higher
+NOR,2024,higher
+NPL,2024,lower middle
+NRU,2024,higher
+NZL,2024,higher
+OMN,2024,higher
+PAK,2024,lower middle
+PAN,2024,higher
+PER,2024,upper middle
+PHL,2024,lower middle
+PLW,2024,higher
+PNG,2024,lower middle
+POL,2024,higher
+PRI,2024,higher
+PRK,2024,lower
+PRT,2024,higher
+PRY,2024,upper middle
+PSE,2024,lower middle
+PYF,2024,higher
+QAT,2024,higher
+ROU,2024,higher
+RUS,2024,higher
+RWA,2024,lower
+SAU,2024,higher
+SDN,2024,lower
+SEN,2024,lower middle
+SGP,2024,higher
+SLB,2024,lower middle
+SLE,2024,lower
+SLV,2024,upper middle
+SMR,2024,higher
+SOM,2024,lower
+SRB,2024,upper middle
+SSD,2024,lower
+STP,2024,lower middle
+SUR,2024,upper middle
+SVK,2024,higher
+SVN,2024,higher
+SWE,2024,higher
+SWZ,2024,lower middle
+SXM,2024,higher
+SYC,2024,higher
+SYR,2024,lower
+TCA,2024,higher
+TCD,2024,lower
+TGO,2024,lower
+THA,2024,upper middle
+TJK,2024,lower middle
+TKM,2024,upper middle
+TLS,2024,lower middle
+TON,2024,upper middle
+TTO,2024,higher
+TUN,2024,lower middle
+TUR,2024,upper middle
+TUV,2024,upper middle
+TWN,2024,higher
+TZA,2024,lower middle
+UGA,2024,lower
+UKR,2024,upper middle
+URY,2024,higher
+USA,2024,higher
+UZB,2024,lower middle
+VCT,2024,upper middle
+VGB,2024,higher
+VIR,2024,higher
+VNM,2024,lower middle
+VUT,2024,lower middle
+WSM,2024,upper middle
+XKX,2024,upper middle
+YEM,2024,lower
+ZAF,2024,upper middle
+ZMB,2024,lower middle
+ZWE,2024,lower middle
